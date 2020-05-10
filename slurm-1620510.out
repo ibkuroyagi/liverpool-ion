@@ -1,0 +1,26 @@
+device: cuda
+it: 13
+Reading Data Started...
+(1000, 5000, 20) (1000, 5000, 1)
+(400, 5000, 20)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.001000000
+torch.Size([32, 275])
+Traceback (most recent call last):
+  File "quantize.py", line 239, in <module>
+    predictions = model(x)
+  File "/work/i_kuroyanagi-1000128/virtualenvs/py36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/work2/i_kuroyanagi/kaggle/liverpool-ion-switching/wavenet2.py", line 102, in forward
+    x = self.wave_block1(x)
+  File "/work/i_kuroyanagi-1000128/virtualenvs/py36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/work2/i_kuroyanagi/kaggle/liverpool-ion-switching/wavenet2.py", line 75, in forward
+    x = self.convs[0](x)
+  File "/work/i_kuroyanagi-1000128/virtualenvs/py36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/work/i_kuroyanagi-1000128/virtualenvs/py36/lib/python3.6/site-packages/torch/nn/modules/conv.py", line 208, in forward
+    self.padding, self.dilation, self.groups)
+RuntimeError: Expected 3-dimensional input for 3-dimensional weight [16, 275, 1], but got 2-dimensional input of size [32, 275] instead

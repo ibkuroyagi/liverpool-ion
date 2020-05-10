@@ -1,0 +1,27 @@
+device: cuda
+(2490, 4000, 8) (2490, 4000, 1)
+Reading Data Started...
+(500, 4000, 8)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.100000000
+HBox(children=(FloatProgress(value=0.0, max=32.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.302630, valid_loss: 2.304837
+train_f1: 0.038524, valid_f1: 0.035757
+save folder 0 global val max f1 model score 0.035757
+**********************************
+Folder : 0 Epoch : 1
+Curr learning_rate: 0.100000000
+HBox(children=(FloatProgress(value=0.0, max=32.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.293844, valid_loss: 2.304837
+train_f1: 0.036225, valid_f1: 0.035757
+**********************************
+Folder : 0 Epoch : 2
+Curr learning_rate: 0.100000000
+HBox(children=(FloatProgress(value=0.0, max=32.0), HTML(value='')))
+slurmstepd: error: *** JOB 1609370 ON chikaku1 CANCELLED AT 2020-05-05T00:32:36 ***

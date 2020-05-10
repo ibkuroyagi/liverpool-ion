@@ -1,0 +1,18 @@
+device: cuda
+it: 13
+Reading Data Started...
+(1000, 5000, 20) (1000, 5000, 1)
+(400, 5000, 20)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.001000000
+torch.Size([32, 5000, 275]) torch.Size([32, 5000, 275])
+Traceback (most recent call last):
+  File "quantize.py", line 239, in <module>
+    predictions = model(x)
+  File "/work/i_kuroyanagi-1000128/virtualenvs/py36/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/work2/i_kuroyanagi/kaggle/liverpool-ion-switching/wavenet2.py", line 103, in forward
+    x += attention.permute(0, 2, 1)
+RuntimeError: The size of tensor a (275) must match the size of tensor b (5000) at non-singleton dimension 2

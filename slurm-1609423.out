@@ -1,0 +1,3713 @@
+device: cuda
+(500, 10000, 8) (500, 10000, 1)
+Reading Data Started...
+(200, 10000, 8)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.182155, valid_loss: 2.082927
+train_f1: 0.060485, valid_f1: 0.060148
+save folder 0 global val max f1 model score 0.060148
+**********************************
+Folder : 0 Epoch : 1
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.648775, valid_loss: 1.597425
+train_f1: 0.148653, valid_f1: 0.193964
+save folder 0 global val max f1 model score 0.193964
+**********************************
+Folder : 0 Epoch : 2
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.230401, valid_loss: 1.326106
+train_f1: 0.335667, valid_f1: 0.291642
+save folder 0 global val max f1 model score 0.291642
+**********************************
+Folder : 0 Epoch : 3
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.015834, valid_loss: 1.122142
+train_f1: 0.359849, valid_f1: 0.411397
+save folder 0 global val max f1 model score 0.411397
+**********************************
+Folder : 0 Epoch : 4
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.882103, valid_loss: 0.989960
+train_f1: 0.421834, valid_f1: 0.432989
+save folder 0 global val max f1 model score 0.432989
+**********************************
+Folder : 0 Epoch : 5
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.790433, valid_loss: 0.902441
+train_f1: 0.447354, valid_f1: 0.478323
+save folder 0 global val max f1 model score 0.478323
+**********************************
+Folder : 0 Epoch : 6
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.706558, valid_loss: 0.835743
+train_f1: 0.494477, valid_f1: 0.507980
+save folder 0 global val max f1 model score 0.507980
+**********************************
+Folder : 0 Epoch : 7
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.641548, valid_loss: 0.764743
+train_f1: 0.534564, valid_f1: 0.554169
+save folder 0 global val max f1 model score 0.554169
+**********************************
+Folder : 0 Epoch : 8
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.580385, valid_loss: 0.717928
+train_f1: 0.583959, valid_f1: 0.589208
+save folder 0 global val max f1 model score 0.589208
+**********************************
+Folder : 0 Epoch : 9
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.557641, valid_loss: 0.663441
+train_f1: 0.617025, valid_f1: 0.631789
+save folder 0 global val max f1 model score 0.631789
+**********************************
+Folder : 0 Epoch : 10
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.514250, valid_loss: 0.616911
+train_f1: 0.642802, valid_f1: 0.654286
+save folder 0 global val max f1 model score 0.654286
+**********************************
+Folder : 0 Epoch : 11
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.482596, valid_loss: 0.582069
+train_f1: 0.663562, valid_f1: 0.670653
+save folder 0 global val max f1 model score 0.670653
+**********************************
+Folder : 0 Epoch : 12
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.438178, valid_loss: 0.541816
+train_f1: 0.683101, valid_f1: 0.690217
+save folder 0 global val max f1 model score 0.690217
+**********************************
+Folder : 0 Epoch : 13
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.411158, valid_loss: 0.513987
+train_f1: 0.696922, valid_f1: 0.702370
+save folder 0 global val max f1 model score 0.702370
+**********************************
+Folder : 0 Epoch : 14
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.389201, valid_loss: 0.497666
+train_f1: 0.707596, valid_f1: 0.708121
+save folder 0 global val max f1 model score 0.708121
+**********************************
+Folder : 0 Epoch : 15
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.387642, valid_loss: 0.539861
+train_f1: 0.705555, valid_f1: 0.692923
+**********************************
+Folder : 0 Epoch : 16
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.407712, valid_loss: 0.466360
+train_f1: 0.692647, valid_f1: 0.716552
+save folder 0 global val max f1 model score 0.716552
+**********************************
+Folder : 0 Epoch : 17
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.370658, valid_loss: 0.475216
+train_f1: 0.707620, valid_f1: 0.696840
+**********************************
+Folder : 0 Epoch : 18
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.339081, valid_loss: 0.420428
+train_f1: 0.729645, valid_f1: 0.739753
+save folder 0 global val max f1 model score 0.739753
+**********************************
+Folder : 0 Epoch : 19
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.300407, valid_loss: 0.371643
+train_f1: 0.758661, valid_f1: 0.773718
+save folder 0 global val max f1 model score 0.773718
+**********************************
+Folder : 0 Epoch : 20
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.253996, valid_loss: 0.316756
+train_f1: 0.806159, valid_f1: 0.832337
+save folder 0 global val max f1 model score 0.832337
+**********************************
+Folder : 0 Epoch : 21
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210239, valid_loss: 0.272611
+train_f1: 0.844655, valid_f1: 0.855851
+save folder 0 global val max f1 model score 0.855851
+**********************************
+Folder : 0 Epoch : 22
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.184197, valid_loss: 0.254331
+train_f1: 0.864161, valid_f1: 0.846432
+**********************************
+Folder : 0 Epoch : 23
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.174862, valid_loss: 0.234958
+train_f1: 0.865019, valid_f1: 0.876759
+save folder 0 global val max f1 model score 0.876759
+**********************************
+Folder : 0 Epoch : 24
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.157333, valid_loss: 0.212320
+train_f1: 0.884131, valid_f1: 0.895648
+save folder 0 global val max f1 model score 0.895648
+**********************************
+Folder : 0 Epoch : 25
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.141046, valid_loss: 0.197894
+train_f1: 0.898813, valid_f1: 0.892167
+**********************************
+Folder : 0 Epoch : 26
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.129856, valid_loss: 0.189881
+train_f1: 0.905881, valid_f1: 0.910543
+save folder 0 global val max f1 model score 0.910543
+**********************************
+Folder : 0 Epoch : 27
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.123919, valid_loss: 0.180644
+train_f1: 0.911611, valid_f1: 0.911042
+save folder 0 global val max f1 model score 0.911042
+**********************************
+Folder : 0 Epoch : 28
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.118796, valid_loss: 0.171550
+train_f1: 0.917783, valid_f1: 0.921875
+save folder 0 global val max f1 model score 0.921875
+**********************************
+Folder : 0 Epoch : 29
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.114144, valid_loss: 0.165012
+train_f1: 0.923383, valid_f1: 0.923618
+save folder 0 global val max f1 model score 0.923618
+**********************************
+Folder : 0 Epoch : 30
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.106741, valid_loss: 0.167269
+train_f1: 0.927347, valid_f1: 0.915573
+**********************************
+Folder : 0 Epoch : 31
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.141281, valid_loss: 0.257597
+train_f1: 0.904522, valid_f1: 0.874611
+**********************************
+Folder : 0 Epoch : 32
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.132583, valid_loss: 0.170914
+train_f1: 0.905138, valid_f1: 0.923461
+**********************************
+Folder : 0 Epoch : 33
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.112380, valid_loss: 0.168258
+train_f1: 0.926049, valid_f1: 0.920847
+**********************************
+Folder : 0 Epoch : 34
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.105531, valid_loss: 0.156144
+train_f1: 0.928454, valid_f1: 0.931291
+save folder 0 global val max f1 model score 0.931291
+**********************************
+Folder : 0 Epoch : 35
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.105919, valid_loss: 0.154262
+train_f1: 0.932486, valid_f1: 0.931649
+save folder 0 global val max f1 model score 0.931649
+**********************************
+Folder : 0 Epoch : 36
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.102244, valid_loss: 0.153237
+train_f1: 0.933285, valid_f1: 0.931970
+save folder 0 global val max f1 model score 0.931970
+**********************************
+Folder : 0 Epoch : 37
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.100664, valid_loss: 0.152978
+train_f1: 0.933436, valid_f1: 0.932367
+save folder 0 global val max f1 model score 0.932367
+**********************************
+Folder : 0 Epoch : 38
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.104046, valid_loss: 0.152067
+train_f1: 0.933600, valid_f1: 0.932396
+save folder 0 global val max f1 model score 0.932396
+**********************************
+Folder : 0 Epoch : 39
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.100772, valid_loss: 0.151586
+train_f1: 0.933766, valid_f1: 0.932370
+**********************************
+Folder : 0 Epoch : 40
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.102572, valid_loss: 0.151073
+train_f1: 0.934114, valid_f1: 0.932805
+save folder 0 global val max f1 model score 0.932805
+**********************************
+Folder : 0 Epoch : 41
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.101056, valid_loss: 0.150598
+train_f1: 0.934269, valid_f1: 0.932775
+**********************************
+Folder : 0 Epoch : 42
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.100751, valid_loss: 0.150072
+train_f1: 0.934365, valid_f1: 0.933112
+save folder 0 global val max f1 model score 0.933112
+**********************************
+Folder : 0 Epoch : 43
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.099886, valid_loss: 0.149650
+train_f1: 0.934718, valid_f1: 0.933272
+save folder 0 global val max f1 model score 0.933272
+**********************************
+Folder : 0 Epoch : 44
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.097547, valid_loss: 0.149237
+train_f1: 0.934785, valid_f1: 0.933499
+save folder 0 global val max f1 model score 0.933499
+**********************************
+Folder : 0 Epoch : 45
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.097398, valid_loss: 0.148814
+train_f1: 0.934937, valid_f1: 0.933595
+save folder 0 global val max f1 model score 0.933595
+**********************************
+Folder : 0 Epoch : 46
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.098081, valid_loss: 0.148495
+train_f1: 0.935086, valid_f1: 0.933865
+save folder 0 global val max f1 model score 0.933865
+**********************************
+Folder : 0 Epoch : 47
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.097952, valid_loss: 0.148045
+train_f1: 0.935236, valid_f1: 0.933779
+**********************************
+Folder : 0 Epoch : 48
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.098006, valid_loss: 0.147681
+train_f1: 0.935345, valid_f1: 0.934102
+save folder 0 global val max f1 model score 0.934102
+**********************************
+Folder : 0 Epoch : 49
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.101502, valid_loss: 0.147316
+train_f1: 0.935505, valid_f1: 0.934094
+**********************************
+Folder : 0 Epoch : 50
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096583, valid_loss: 0.146962
+train_f1: 0.935587, valid_f1: 0.934385
+save folder 0 global val max f1 model score 0.934385
+**********************************
+Folder : 0 Epoch : 51
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096581, valid_loss: 0.146590
+train_f1: 0.935693, valid_f1: 0.934533
+save folder 0 global val max f1 model score 0.934533
+**********************************
+Folder : 0 Epoch : 52
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096830, valid_loss: 0.146294
+train_f1: 0.935796, valid_f1: 0.934688
+save folder 0 global val max f1 model score 0.934688
+**********************************
+Folder : 0 Epoch : 53
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.097985, valid_loss: 0.146085
+train_f1: 0.935938, valid_f1: 0.934891
+save folder 0 global val max f1 model score 0.934891
+**********************************
+Folder : 0 Epoch : 54
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095911, valid_loss: 0.145602
+train_f1: 0.935992, valid_f1: 0.934752
+**********************************
+Folder : 0 Epoch : 55
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096774, valid_loss: 0.145269
+train_f1: 0.936091, valid_f1: 0.935002
+save folder 0 global val max f1 model score 0.935002
+**********************************
+Folder : 0 Epoch : 56
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095473, valid_loss: 0.144953
+train_f1: 0.936193, valid_f1: 0.935025
+save folder 0 global val max f1 model score 0.935025
+**********************************
+Folder : 0 Epoch : 57
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095524, valid_loss: 0.144633
+train_f1: 0.936254, valid_f1: 0.935077
+save folder 0 global val max f1 model score 0.935077
+**********************************
+Folder : 0 Epoch : 58
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094375, valid_loss: 0.144428
+train_f1: 0.936338, valid_f1: 0.935308
+save folder 0 global val max f1 model score 0.935308
+**********************************
+Folder : 0 Epoch : 59
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096985, valid_loss: 0.144101
+train_f1: 0.936462, valid_f1: 0.935208
+**********************************
+Folder : 0 Epoch : 60
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095267, valid_loss: 0.143784
+train_f1: 0.936488, valid_f1: 0.935527
+save folder 0 global val max f1 model score 0.935527
+**********************************
+Folder : 0 Epoch : 61
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095420, valid_loss: 0.143525
+train_f1: 0.936593, valid_f1: 0.935648
+save folder 0 global val max f1 model score 0.935648
+**********************************
+Folder : 0 Epoch : 62
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096715, valid_loss: 0.143226
+train_f1: 0.936633, valid_f1: 0.935693
+save folder 0 global val max f1 model score 0.935693
+**********************************
+Folder : 0 Epoch : 63
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093730, valid_loss: 0.142952
+train_f1: 0.936740, valid_f1: 0.935569
+**********************************
+Folder : 0 Epoch : 64
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093432, valid_loss: 0.142719
+train_f1: 0.936780, valid_f1: 0.935701
+save folder 0 global val max f1 model score 0.935701
+**********************************
+Folder : 0 Epoch : 65
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094553, valid_loss: 0.142531
+train_f1: 0.936755, valid_f1: 0.935889
+save folder 0 global val max f1 model score 0.935889
+**********************************
+Folder : 0 Epoch : 66
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093056, valid_loss: 0.142157
+train_f1: 0.936845, valid_f1: 0.935963
+save folder 0 global val max f1 model score 0.935963
+**********************************
+Folder : 0 Epoch : 67
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092840, valid_loss: 0.142011
+train_f1: 0.936941, valid_f1: 0.935817
+**********************************
+Folder : 0 Epoch : 68
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094029, valid_loss: 0.141695
+train_f1: 0.936801, valid_f1: 0.936119
+save folder 0 global val max f1 model score 0.936119
+**********************************
+Folder : 0 Epoch : 69
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094316, valid_loss: 0.141470
+train_f1: 0.936947, valid_f1: 0.936183
+save folder 0 global val max f1 model score 0.936183
+**********************************
+Folder : 0 Epoch : 70
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094091, valid_loss: 0.141238
+train_f1: 0.937030, valid_f1: 0.936181
+**********************************
+Folder : 0 Epoch : 71
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093349, valid_loss: 0.141166
+train_f1: 0.937127, valid_f1: 0.936113
+**********************************
+Folder : 0 Epoch : 72
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095398, valid_loss: 0.140989
+train_f1: 0.937072, valid_f1: 0.936178
+**********************************
+Folder : 0 Epoch : 73
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093870, valid_loss: 0.140705
+train_f1: 0.937111, valid_f1: 0.936327
+save folder 0 global val max f1 model score 0.936327
+**********************************
+Folder : 0 Epoch : 74
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091843, valid_loss: 0.140669
+train_f1: 0.937170, valid_f1: 0.936301
+**********************************
+Folder : 0 Epoch : 75
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091967, valid_loss: 0.140639
+train_f1: 0.937184, valid_f1: 0.936287
+**********************************
+Folder : 0 Epoch : 76
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093572, valid_loss: 0.140580
+train_f1: 0.937196, valid_f1: 0.936322
+**********************************
+Folder : 0 Epoch : 77
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091061, valid_loss: 0.140539
+train_f1: 0.937212, valid_f1: 0.936355
+save folder 0 global val max f1 model score 0.936355
+**********************************
+Folder : 0 Epoch : 78
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092849, valid_loss: 0.140532
+train_f1: 0.937216, valid_f1: 0.936350
+**********************************
+Folder : 0 Epoch : 79
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091835, valid_loss: 0.140519
+train_f1: 0.937223, valid_f1: 0.936364
+save folder 0 global val max f1 model score 0.936364
+**********************************
+Folder : 0 Epoch : 80
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091157, valid_loss: 0.140507
+train_f1: 0.937241, valid_f1: 0.936372
+save folder 0 global val max f1 model score 0.936372
+**********************************
+Folder : 0 Epoch : 81
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090663, valid_loss: 0.140500
+train_f1: 0.937206, valid_f1: 0.936362
+**********************************
+Folder : 0 Epoch : 82
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090990, valid_loss: 0.140499
+train_f1: 0.937216, valid_f1: 0.936367
+**********************************
+Folder : 0 Epoch : 83
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091550, valid_loss: 0.140497
+train_f1: 0.937226, valid_f1: 0.936368
+**********************************
+Folder : 0 Epoch : 84
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093176, valid_loss: 0.140494
+train_f1: 0.937213, valid_f1: 0.936382
+save folder 0 global val max f1 model score 0.936382
+**********************************
+Folder : 0 Epoch : 85
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092044, valid_loss: 0.140491
+train_f1: 0.937211, valid_f1: 0.936378
+**********************************
+Folder : 0 Epoch : 86
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094036, valid_loss: 0.140491
+train_f1: 0.937214, valid_f1: 0.936380
+**********************************
+Folder : 0 Epoch : 87
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091146, valid_loss: 0.140491
+train_f1: 0.937214, valid_f1: 0.936380
+**********************************
+Folder : 0 Epoch : 88
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092759, valid_loss: 0.140490
+train_f1: 0.937213, valid_f1: 0.936379
+**********************************
+Folder : 0 Epoch : 89
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091341, valid_loss: 0.140490
+train_f1: 0.937216, valid_f1: 0.936381
+Folder 0 finally best global max f1 score is 0.9363816843044392
+Fold : 1
+**********************************
+Folder : 1 Epoch : 0
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.189888, valid_loss: 1.941948
+train_f1: 0.041644, valid_f1: 0.151297
+save folder 1 global val max f1 model score 0.151297
+**********************************
+Folder : 1 Epoch : 1
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.577441, valid_loss: 1.607532
+train_f1: 0.178902, valid_f1: 0.279764
+save folder 1 global val max f1 model score 0.279764
+**********************************
+Folder : 1 Epoch : 2
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.202874, valid_loss: 1.317933
+train_f1: 0.331994, valid_f1: 0.338867
+save folder 1 global val max f1 model score 0.338867
+**********************************
+Folder : 1 Epoch : 3
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.979285, valid_loss: 1.118048
+train_f1: 0.383703, valid_f1: 0.416727
+save folder 1 global val max f1 model score 0.416727
+**********************************
+Folder : 1 Epoch : 4
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.850816, valid_loss: 0.990354
+train_f1: 0.425553, valid_f1: 0.451853
+save folder 1 global val max f1 model score 0.451853
+**********************************
+Folder : 1 Epoch : 5
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.765704, valid_loss: 0.907785
+train_f1: 0.458955, valid_f1: 0.489252
+save folder 1 global val max f1 model score 0.489252
+**********************************
+Folder : 1 Epoch : 6
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.686881, valid_loss: 0.820717
+train_f1: 0.532208, valid_f1: 0.551333
+save folder 1 global val max f1 model score 0.551333
+**********************************
+Folder : 1 Epoch : 7
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.625759, valid_loss: 0.759465
+train_f1: 0.573594, valid_f1: 0.584551
+save folder 1 global val max f1 model score 0.584551
+**********************************
+Folder : 1 Epoch : 8
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.577531, valid_loss: 0.739556
+train_f1: 0.598568, valid_f1: 0.603858
+save folder 1 global val max f1 model score 0.603858
+**********************************
+Folder : 1 Epoch : 9
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.555562, valid_loss: 0.676113
+train_f1: 0.619709, valid_f1: 0.623045
+save folder 1 global val max f1 model score 0.623045
+**********************************
+Folder : 1 Epoch : 10
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.490875, valid_loss: 0.624612
+train_f1: 0.640215, valid_f1: 0.652637
+save folder 1 global val max f1 model score 0.652637
+**********************************
+Folder : 1 Epoch : 11
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.450663, valid_loss: 0.565113
+train_f1: 0.671478, valid_f1: 0.685447
+save folder 1 global val max f1 model score 0.685447
+**********************************
+Folder : 1 Epoch : 12
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.401956, valid_loss: 0.517977
+train_f1: 0.702197, valid_f1: 0.709713
+save folder 1 global val max f1 model score 0.709713
+**********************************
+Folder : 1 Epoch : 13
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.378306, valid_loss: 0.494231
+train_f1: 0.708616, valid_f1: 0.702931
+**********************************
+Folder : 1 Epoch : 14
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.343640, valid_loss: 0.452269
+train_f1: 0.731737, valid_f1: 0.740202
+save folder 1 global val max f1 model score 0.740202
+**********************************
+Folder : 1 Epoch : 15
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.307661, valid_loss: 0.407730
+train_f1: 0.750748, valid_f1: 0.757858
+save folder 1 global val max f1 model score 0.757858
+**********************************
+Folder : 1 Epoch : 16
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.274732, valid_loss: 0.371310
+train_f1: 0.769274, valid_f1: 0.774963
+save folder 1 global val max f1 model score 0.774963
+**********************************
+Folder : 1 Epoch : 17
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.244148, valid_loss: 0.330829
+train_f1: 0.787133, valid_f1: 0.794921
+save folder 1 global val max f1 model score 0.794921
+**********************************
+Folder : 1 Epoch : 18
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.213315, valid_loss: 0.357800
+train_f1: 0.804654, valid_f1: 0.785659
+**********************************
+Folder : 1 Epoch : 19
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.111594, valid_loss: 1.035061
+train_f1: 0.541953, valid_f1: 0.414989
+**********************************
+Folder : 1 Epoch : 20
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.710715, valid_loss: 0.687339
+train_f1: 0.535412, valid_f1: 0.652794
+**********************************
+Folder : 1 Epoch : 21
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.427204, valid_loss: 0.496774
+train_f1: 0.705301, valid_f1: 0.761799
+**********************************
+Folder : 1 Epoch : 22
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.329406, valid_loss: 0.443524
+train_f1: 0.773894, valid_f1: 0.773838
+**********************************
+Folder : 1 Epoch : 23
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.301601, valid_loss: 0.422367
+train_f1: 0.789897, valid_f1: 0.783472
+**********************************
+Folder : 1 Epoch : 24
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.284568, valid_loss: 0.405761
+train_f1: 0.795227, valid_f1: 0.786851
+**********************************
+Folder : 1 Epoch : 25
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.273145, valid_loss: 0.393455
+train_f1: 0.799125, valid_f1: 0.791372
+**********************************
+Folder : 1 Epoch : 26
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.263875, valid_loss: 0.389453
+train_f1: 0.801193, valid_f1: 0.792455
+**********************************
+Folder : 1 Epoch : 27
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.262617, valid_loss: 0.386235
+train_f1: 0.802257, valid_f1: 0.793169
+**********************************
+Folder : 1 Epoch : 28
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.261436, valid_loss: 0.384856
+train_f1: 0.802709, valid_f1: 0.793551
+**********************************
+Folder : 1 Epoch : 29
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.260987, valid_loss: 0.381423
+train_f1: 0.803532, valid_f1: 0.794962
+save folder 1 global val max f1 model score 0.794962
+**********************************
+Folder : 1 Epoch : 30
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.253951, valid_loss: 0.380984
+train_f1: 0.804299, valid_f1: 0.795086
+save folder 1 global val max f1 model score 0.795086
+**********************************
+Folder : 1 Epoch : 31
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.257274, valid_loss: 0.380471
+train_f1: 0.804410, valid_f1: 0.795171
+save folder 1 global val max f1 model score 0.795171
+**********************************
+Folder : 1 Epoch : 32
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.255167, valid_loss: 0.379955
+train_f1: 0.804457, valid_f1: 0.795253
+save folder 1 global val max f1 model score 0.795253
+**********************************
+Folder : 1 Epoch : 33
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.259008, valid_loss: 0.379404
+train_f1: 0.804583, valid_f1: 0.795355
+save folder 1 global val max f1 model score 0.795355
+**********************************
+Folder : 1 Epoch : 34
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.255786, valid_loss: 0.378222
+train_f1: 0.804833, valid_f1: 0.795564
+save folder 1 global val max f1 model score 0.795564
+**********************************
+Folder : 1 Epoch : 35
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.257423, valid_loss: 0.377389
+train_f1: 0.804873, valid_f1: 0.795670
+save folder 1 global val max f1 model score 0.795670
+**********************************
+Folder : 1 Epoch : 36
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.254992, valid_loss: 0.377058
+train_f1: 0.804864, valid_f1: 0.795738
+save folder 1 global val max f1 model score 0.795738
+**********************************
+Folder : 1 Epoch : 37
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.257706, valid_loss: 0.376802
+train_f1: 0.804937, valid_f1: 0.795716
+**********************************
+Folder : 1 Epoch : 38
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.255884, valid_loss: 0.376278
+train_f1: 0.805118, valid_f1: 0.795926
+save folder 1 global val max f1 model score 0.795926
+**********************************
+Folder : 1 Epoch : 39
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.250649, valid_loss: 0.375699
+train_f1: 0.805424, valid_f1: 0.796210
+save folder 1 global val max f1 model score 0.796210
+**********************************
+Folder : 1 Epoch : 40
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.250893, valid_loss: 0.375183
+train_f1: 0.805612, valid_f1: 0.796349
+save folder 1 global val max f1 model score 0.796349
+**********************************
+Folder : 1 Epoch : 41
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.255537, valid_loss: 0.374741
+train_f1: 0.805736, valid_f1: 0.796430
+save folder 1 global val max f1 model score 0.796430
+**********************************
+Folder : 1 Epoch : 42
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.251594, valid_loss: 0.374224
+train_f1: 0.805872, valid_f1: 0.796548
+save folder 1 global val max f1 model score 0.796548
+**********************************
+Folder : 1 Epoch : 43
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.253642, valid_loss: 0.373713
+train_f1: 0.806021, valid_f1: 0.796761
+save folder 1 global val max f1 model score 0.796761
+**********************************
+Folder : 1 Epoch : 44
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.251875, valid_loss: 0.373146
+train_f1: 0.806190, valid_f1: 0.796936
+save folder 1 global val max f1 model score 0.796936
+**********************************
+Folder : 1 Epoch : 45
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.254499, valid_loss: 0.372509
+train_f1: 0.806339, valid_f1: 0.797153
+save folder 1 global val max f1 model score 0.797153
+**********************************
+Folder : 1 Epoch : 46
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.248215, valid_loss: 0.371975
+train_f1: 0.806496, valid_f1: 0.797289
+save folder 1 global val max f1 model score 0.797289
+**********************************
+Folder : 1 Epoch : 47
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.253302, valid_loss: 0.371530
+train_f1: 0.806610, valid_f1: 0.797341
+save folder 1 global val max f1 model score 0.797341
+**********************************
+Folder : 1 Epoch : 48
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.253301, valid_loss: 0.370984
+train_f1: 0.806771, valid_f1: 0.797562
+save folder 1 global val max f1 model score 0.797562
+**********************************
+Folder : 1 Epoch : 49
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.251950, valid_loss: 0.370250
+train_f1: 0.806940, valid_f1: 0.797894
+save folder 1 global val max f1 model score 0.797894
+**********************************
+Folder : 1 Epoch : 50
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.248129, valid_loss: 0.369842
+train_f1: 0.807097, valid_f1: 0.797814
+**********************************
+Folder : 1 Epoch : 51
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.249922, valid_loss: 0.369248
+train_f1: 0.807203, valid_f1: 0.798029
+save folder 1 global val max f1 model score 0.798029
+**********************************
+Folder : 1 Epoch : 52
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.248432, valid_loss: 0.368570
+train_f1: 0.807348, valid_f1: 0.798342
+save folder 1 global val max f1 model score 0.798342
+**********************************
+Folder : 1 Epoch : 53
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.248691, valid_loss: 0.367904
+train_f1: 0.807524, valid_f1: 0.798553
+save folder 1 global val max f1 model score 0.798553
+**********************************
+Folder : 1 Epoch : 54
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.249645, valid_loss: 0.367519
+train_f1: 0.807652, valid_f1: 0.798625
+save folder 1 global val max f1 model score 0.798625
+**********************************
+Folder : 1 Epoch : 55
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.247445, valid_loss: 0.366608
+train_f1: 0.807804, valid_f1: 0.799096
+save folder 1 global val max f1 model score 0.799096
+**********************************
+Folder : 1 Epoch : 56
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.245730, valid_loss: 0.366111
+train_f1: 0.807965, valid_f1: 0.799250
+save folder 1 global val max f1 model score 0.799250
+**********************************
+Folder : 1 Epoch : 57
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.251821, valid_loss: 0.365568
+train_f1: 0.808103, valid_f1: 0.799417
+save folder 1 global val max f1 model score 0.799417
+**********************************
+Folder : 1 Epoch : 58
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.246491, valid_loss: 0.364892
+train_f1: 0.808304, valid_f1: 0.799543
+save folder 1 global val max f1 model score 0.799543
+**********************************
+Folder : 1 Epoch : 59
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.249513, valid_loss: 0.364305
+train_f1: 0.808456, valid_f1: 0.799732
+save folder 1 global val max f1 model score 0.799732
+**********************************
+Folder : 1 Epoch : 60
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.243174, valid_loss: 0.363744
+train_f1: 0.808620, valid_f1: 0.799873
+save folder 1 global val max f1 model score 0.799873
+**********************************
+Folder : 1 Epoch : 61
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.244328, valid_loss: 0.363221
+train_f1: 0.808738, valid_f1: 0.800027
+save folder 1 global val max f1 model score 0.800027
+**********************************
+Folder : 1 Epoch : 62
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.239707, valid_loss: 0.362627
+train_f1: 0.808913, valid_f1: 0.800205
+save folder 1 global val max f1 model score 0.800205
+**********************************
+Folder : 1 Epoch : 63
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.242935, valid_loss: 0.362087
+train_f1: 0.809071, valid_f1: 0.800394
+save folder 1 global val max f1 model score 0.800394
+**********************************
+Folder : 1 Epoch : 64
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.243536, valid_loss: 0.361459
+train_f1: 0.809227, valid_f1: 0.800517
+save folder 1 global val max f1 model score 0.800517
+**********************************
+Folder : 1 Epoch : 65
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.241878, valid_loss: 0.360958
+train_f1: 0.809344, valid_f1: 0.800626
+save folder 1 global val max f1 model score 0.800626
+**********************************
+Folder : 1 Epoch : 66
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.241214, valid_loss: 0.360337
+train_f1: 0.809521, valid_f1: 0.800826
+save folder 1 global val max f1 model score 0.800826
+**********************************
+Folder : 1 Epoch : 67
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.242168, valid_loss: 0.359767
+train_f1: 0.809711, valid_f1: 0.801038
+save folder 1 global val max f1 model score 0.801038
+**********************************
+Folder : 1 Epoch : 68
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.239597, valid_loss: 0.359186
+train_f1: 0.809858, valid_f1: 0.801195
+save folder 1 global val max f1 model score 0.801195
+**********************************
+Folder : 1 Epoch : 69
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.244000, valid_loss: 0.358650
+train_f1: 0.810030, valid_f1: 0.801307
+save folder 1 global val max f1 model score 0.801307
+**********************************
+Folder : 1 Epoch : 70
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.236928, valid_loss: 0.357964
+train_f1: 0.810190, valid_f1: 0.801575
+save folder 1 global val max f1 model score 0.801575
+**********************************
+Folder : 1 Epoch : 71
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.242127, valid_loss: 0.357421
+train_f1: 0.810365, valid_f1: 0.801674
+save folder 1 global val max f1 model score 0.801674
+**********************************
+Folder : 1 Epoch : 72
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.239509, valid_loss: 0.356842
+train_f1: 0.810534, valid_f1: 0.801829
+save folder 1 global val max f1 model score 0.801829
+**********************************
+Folder : 1 Epoch : 73
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.238857, valid_loss: 0.356191
+train_f1: 0.810697, valid_f1: 0.801993
+save folder 1 global val max f1 model score 0.801993
+**********************************
+Folder : 1 Epoch : 74
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.234690, valid_loss: 0.355566
+train_f1: 0.810865, valid_f1: 0.802177
+save folder 1 global val max f1 model score 0.802177
+**********************************
+Folder : 1 Epoch : 75
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.240051, valid_loss: 0.355013
+train_f1: 0.811021, valid_f1: 0.802329
+save folder 1 global val max f1 model score 0.802329
+**********************************
+Folder : 1 Epoch : 76
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.236014, valid_loss: 0.354338
+train_f1: 0.811199, valid_f1: 0.802540
+save folder 1 global val max f1 model score 0.802540
+**********************************
+Folder : 1 Epoch : 77
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.240448, valid_loss: 0.353723
+train_f1: 0.811374, valid_f1: 0.802765
+save folder 1 global val max f1 model score 0.802765
+**********************************
+Folder : 1 Epoch : 78
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.237379, valid_loss: 0.353090
+train_f1: 0.811532, valid_f1: 0.802893
+save folder 1 global val max f1 model score 0.802893
+**********************************
+Folder : 1 Epoch : 79
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.232519, valid_loss: 0.352470
+train_f1: 0.811696, valid_f1: 0.803109
+save folder 1 global val max f1 model score 0.803109
+**********************************
+Folder : 1 Epoch : 80
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.232273, valid_loss: 0.351798
+train_f1: 0.811879, valid_f1: 0.803307
+save folder 1 global val max f1 model score 0.803307
+**********************************
+Folder : 1 Epoch : 81
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.236483, valid_loss: 0.351167
+train_f1: 0.812073, valid_f1: 0.803480
+save folder 1 global val max f1 model score 0.803480
+**********************************
+Folder : 1 Epoch : 82
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.235117, valid_loss: 0.350351
+train_f1: 0.812274, valid_f1: 0.803698
+save folder 1 global val max f1 model score 0.803698
+**********************************
+Folder : 1 Epoch : 83
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.231924, valid_loss: 0.349660
+train_f1: 0.812416, valid_f1: 0.803840
+save folder 1 global val max f1 model score 0.803840
+**********************************
+Folder : 1 Epoch : 84
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.230718, valid_loss: 0.349066
+train_f1: 0.812531, valid_f1: 0.803923
+save folder 1 global val max f1 model score 0.803923
+**********************************
+Folder : 1 Epoch : 85
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.232811, valid_loss: 0.348359
+train_f1: 0.812728, valid_f1: 0.804176
+save folder 1 global val max f1 model score 0.804176
+**********************************
+Folder : 1 Epoch : 86
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.231893, valid_loss: 0.347768
+train_f1: 0.812920, valid_f1: 0.804345
+save folder 1 global val max f1 model score 0.804345
+**********************************
+Folder : 1 Epoch : 87
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.230665, valid_loss: 0.347106
+train_f1: 0.813086, valid_f1: 0.804541
+save folder 1 global val max f1 model score 0.804541
+**********************************
+Folder : 1 Epoch : 88
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.229525, valid_loss: 0.346516
+train_f1: 0.813275, valid_f1: 0.804733
+save folder 1 global val max f1 model score 0.804733
+**********************************
+Folder : 1 Epoch : 89
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.227494, valid_loss: 0.345767
+train_f1: 0.813497, valid_f1: 0.804903
+save folder 1 global val max f1 model score 0.804903
+Folder 1 finally best global max f1 score is 0.8049025348190032
+Fold : 2
+**********************************
+Folder : 2 Epoch : 0
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.200831, valid_loss: 2.107084
+train_f1: 0.053655, valid_f1: 0.061274
+save folder 2 global val max f1 model score 0.061274
+**********************************
+Folder : 2 Epoch : 1
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.715810, valid_loss: 1.677362
+train_f1: 0.145788, valid_f1: 0.182585
+save folder 2 global val max f1 model score 0.182585
+**********************************
+Folder : 2 Epoch : 2
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.354519, valid_loss: 1.381905
+train_f1: 0.246539, valid_f1: 0.296281
+save folder 2 global val max f1 model score 0.296281
+**********************************
+Folder : 2 Epoch : 3
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.083632, valid_loss: 1.146012
+train_f1: 0.342976, valid_f1: 0.402579
+save folder 2 global val max f1 model score 0.402579
+**********************************
+Folder : 2 Epoch : 4
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.878269, valid_loss: 1.017769
+train_f1: 0.412801, valid_f1: 0.434731
+save folder 2 global val max f1 model score 0.434731
+**********************************
+Folder : 2 Epoch : 5
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.791755, valid_loss: 0.923983
+train_f1: 0.446737, valid_f1: 0.467666
+save folder 2 global val max f1 model score 0.467666
+**********************************
+Folder : 2 Epoch : 6
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.707862, valid_loss: 0.825163
+train_f1: 0.487882, valid_f1: 0.512420
+save folder 2 global val max f1 model score 0.512420
+**********************************
+Folder : 2 Epoch : 7
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.636688, valid_loss: 0.755654
+train_f1: 0.523230, valid_f1: 0.539817
+save folder 2 global val max f1 model score 0.539817
+**********************************
+Folder : 2 Epoch : 8
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.649870, valid_loss: 0.907195
+train_f1: 0.537123, valid_f1: 0.488917
+**********************************
+Folder : 2 Epoch : 9
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.724264, valid_loss: 0.860861
+train_f1: 0.487725, valid_f1: 0.483120
+**********************************
+Folder : 2 Epoch : 10
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.700053, valid_loss: 0.962936
+train_f1: 0.520413, valid_f1: 0.450982
+**********************************
+Folder : 2 Epoch : 11
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.675434, valid_loss: 0.702524
+train_f1: 0.532544, valid_f1: 0.601782
+save folder 2 global val max f1 model score 0.601782
+**********************************
+Folder : 2 Epoch : 12
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.553948, valid_loss: 0.669290
+train_f1: 0.597054, valid_f1: 0.622247
+save folder 2 global val max f1 model score 0.622247
+**********************************
+Folder : 2 Epoch : 13
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.509926, valid_loss: 0.625603
+train_f1: 0.629075, valid_f1: 0.644322
+save folder 2 global val max f1 model score 0.644322
+**********************************
+Folder : 2 Epoch : 14
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.474985, valid_loss: 0.578755
+train_f1: 0.650091, valid_f1: 0.670553
+save folder 2 global val max f1 model score 0.670553
+**********************************
+Folder : 2 Epoch : 15
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.421771, valid_loss: 0.525628
+train_f1: 0.680193, valid_f1: 0.703587
+save folder 2 global val max f1 model score 0.703587
+**********************************
+Folder : 2 Epoch : 16
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.378656, valid_loss: 0.476088
+train_f1: 0.714610, valid_f1: 0.734170
+save folder 2 global val max f1 model score 0.734170
+**********************************
+Folder : 2 Epoch : 17
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.329869, valid_loss: 0.418325
+train_f1: 0.747449, valid_f1: 0.770597
+save folder 2 global val max f1 model score 0.770597
+**********************************
+Folder : 2 Epoch : 18
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.293285, valid_loss: 0.374725
+train_f1: 0.776805, valid_f1: 0.794528
+save folder 2 global val max f1 model score 0.794528
+**********************************
+Folder : 2 Epoch : 19
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.263910, valid_loss: 0.346616
+train_f1: 0.792409, valid_f1: 0.799473
+save folder 2 global val max f1 model score 0.799473
+**********************************
+Folder : 2 Epoch : 20
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.235774, valid_loss: 0.305640
+train_f1: 0.810618, valid_f1: 0.824460
+save folder 2 global val max f1 model score 0.824460
+**********************************
+Folder : 2 Epoch : 21
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.262490, valid_loss: 1.997973
+train_f1: 0.776901, valid_f1: 0.386051
+**********************************
+Folder : 2 Epoch : 22
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.616323, valid_loss: 0.696304
+train_f1: 0.557804, valid_f1: 0.593480
+**********************************
+Folder : 2 Epoch : 23
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.358486, valid_loss: 0.441275
+train_f1: 0.681335, valid_f1: 0.740657
+**********************************
+Folder : 2 Epoch : 24
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.269732, valid_loss: 0.343681
+train_f1: 0.777713, valid_f1: 0.814619
+**********************************
+Folder : 2 Epoch : 25
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.230997, valid_loss: 0.323159
+train_f1: 0.816342, valid_f1: 0.822033
+**********************************
+Folder : 2 Epoch : 26
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.220215, valid_loss: 0.311122
+train_f1: 0.820695, valid_f1: 0.824378
+**********************************
+Folder : 2 Epoch : 27
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.214699, valid_loss: 0.301881
+train_f1: 0.823645, valid_f1: 0.826764
+save folder 2 global val max f1 model score 0.826764
+**********************************
+Folder : 2 Epoch : 28
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.207417, valid_loss: 0.294339
+train_f1: 0.825281, valid_f1: 0.828026
+save folder 2 global val max f1 model score 0.828026
+**********************************
+Folder : 2 Epoch : 29
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.205903, valid_loss: 0.287535
+train_f1: 0.826816, valid_f1: 0.829837
+save folder 2 global val max f1 model score 0.829837
+**********************************
+Folder : 2 Epoch : 30
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.203538, valid_loss: 0.281623
+train_f1: 0.828302, valid_f1: 0.831098
+save folder 2 global val max f1 model score 0.831098
+**********************************
+Folder : 2 Epoch : 31
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.195195, valid_loss: 0.276032
+train_f1: 0.829524, valid_f1: 0.832377
+save folder 2 global val max f1 model score 0.832377
+**********************************
+Folder : 2 Epoch : 32
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.189235, valid_loss: 0.271140
+train_f1: 0.830658, valid_f1: 0.833293
+save folder 2 global val max f1 model score 0.833293
+**********************************
+Folder : 2 Epoch : 33
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.186088, valid_loss: 0.266585
+train_f1: 0.831631, valid_f1: 0.834211
+save folder 2 global val max f1 model score 0.834211
+**********************************
+Folder : 2 Epoch : 34
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.184830, valid_loss: 0.262170
+train_f1: 0.832636, valid_f1: 0.835136
+save folder 2 global val max f1 model score 0.835136
+**********************************
+Folder : 2 Epoch : 35
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.182091, valid_loss: 0.258227
+train_f1: 0.833515, valid_f1: 0.835863
+save folder 2 global val max f1 model score 0.835863
+**********************************
+Folder : 2 Epoch : 36
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.181738, valid_loss: 0.254254
+train_f1: 0.834183, valid_f1: 0.836731
+save folder 2 global val max f1 model score 0.836731
+**********************************
+Folder : 2 Epoch : 37
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.179553, valid_loss: 0.250461
+train_f1: 0.834837, valid_f1: 0.837371
+save folder 2 global val max f1 model score 0.837371
+**********************************
+Folder : 2 Epoch : 38
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.174843, valid_loss: 0.246679
+train_f1: 0.835698, valid_f1: 0.838141
+save folder 2 global val max f1 model score 0.838141
+**********************************
+Folder : 2 Epoch : 39
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.168195, valid_loss: 0.243163
+train_f1: 0.836302, valid_f1: 0.838614
+save folder 2 global val max f1 model score 0.838614
+**********************************
+Folder : 2 Epoch : 40
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.167827, valid_loss: 0.240147
+train_f1: 0.836906, valid_f1: 0.839131
+save folder 2 global val max f1 model score 0.839131
+**********************************
+Folder : 2 Epoch : 41
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.165603, valid_loss: 0.237056
+train_f1: 0.837383, valid_f1: 0.839587
+save folder 2 global val max f1 model score 0.839587
+**********************************
+Folder : 2 Epoch : 42
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.162235, valid_loss: 0.234151
+train_f1: 0.837841, valid_f1: 0.840150
+save folder 2 global val max f1 model score 0.840150
+**********************************
+Folder : 2 Epoch : 43
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.162523, valid_loss: 0.231395
+train_f1: 0.838377, valid_f1: 0.840523
+save folder 2 global val max f1 model score 0.840523
+**********************************
+Folder : 2 Epoch : 44
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.159331, valid_loss: 0.228643
+train_f1: 0.838743, valid_f1: 0.840932
+save folder 2 global val max f1 model score 0.840932
+**********************************
+Folder : 2 Epoch : 45
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.162307, valid_loss: 0.226081
+train_f1: 0.839122, valid_f1: 0.841398
+save folder 2 global val max f1 model score 0.841398
+**********************************
+Folder : 2 Epoch : 46
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.162901, valid_loss: 0.223629
+train_f1: 0.839436, valid_f1: 0.841766
+save folder 2 global val max f1 model score 0.841766
+**********************************
+Folder : 2 Epoch : 47
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.155098, valid_loss: 0.221528
+train_f1: 0.839670, valid_f1: 0.841762
+**********************************
+Folder : 2 Epoch : 48
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.154975, valid_loss: 0.218985
+train_f1: 0.839948, valid_f1: 0.842294
+save folder 2 global val max f1 model score 0.842294
+**********************************
+Folder : 2 Epoch : 49
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.154535, valid_loss: 0.216711
+train_f1: 0.840253, valid_f1: 0.842675
+save folder 2 global val max f1 model score 0.842675
+**********************************
+Folder : 2 Epoch : 50
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.147773, valid_loss: 0.214321
+train_f1: 0.840674, valid_f1: 0.842958
+save folder 2 global val max f1 model score 0.842958
+**********************************
+Folder : 2 Epoch : 51
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.150780, valid_loss: 0.212306
+train_f1: 0.840882, valid_f1: 0.843306
+save folder 2 global val max f1 model score 0.843306
+**********************************
+Folder : 2 Epoch : 52
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.149703, valid_loss: 0.210249
+train_f1: 0.841205, valid_f1: 0.843500
+save folder 2 global val max f1 model score 0.843500
+**********************************
+Folder : 2 Epoch : 53
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.144161, valid_loss: 0.208254
+train_f1: 0.841414, valid_f1: 0.843643
+save folder 2 global val max f1 model score 0.843643
+**********************************
+Folder : 2 Epoch : 54
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.145612, valid_loss: 0.206498
+train_f1: 0.841644, valid_f1: 0.843851
+save folder 2 global val max f1 model score 0.843851
+**********************************
+Folder : 2 Epoch : 55
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.143134, valid_loss: 0.204835
+train_f1: 0.841789, valid_f1: 0.843955
+save folder 2 global val max f1 model score 0.843955
+**********************************
+Folder : 2 Epoch : 56
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.143699, valid_loss: 0.203141
+train_f1: 0.841967, valid_f1: 0.844238
+save folder 2 global val max f1 model score 0.844238
+**********************************
+Folder : 2 Epoch : 57
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.140957, valid_loss: 0.201300
+train_f1: 0.842192, valid_f1: 0.844371
+save folder 2 global val max f1 model score 0.844371
+**********************************
+Folder : 2 Epoch : 58
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.142178, valid_loss: 0.199678
+train_f1: 0.842368, valid_f1: 0.844612
+save folder 2 global val max f1 model score 0.844612
+**********************************
+Folder : 2 Epoch : 59
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.138360, valid_loss: 0.198169
+train_f1: 0.842524, valid_f1: 0.844680
+save folder 2 global val max f1 model score 0.844680
+**********************************
+Folder : 2 Epoch : 60
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.139405, valid_loss: 0.196612
+train_f1: 0.842735, valid_f1: 0.844887
+save folder 2 global val max f1 model score 0.844887
+**********************************
+Folder : 2 Epoch : 61
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.137520, valid_loss: 0.195142
+train_f1: 0.842851, valid_f1: 0.845019
+save folder 2 global val max f1 model score 0.845019
+**********************************
+Folder : 2 Epoch : 62
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.136639, valid_loss: 0.193692
+train_f1: 0.843066, valid_f1: 0.845183
+save folder 2 global val max f1 model score 0.845183
+**********************************
+Folder : 2 Epoch : 63
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.135420, valid_loss: 0.192349
+train_f1: 0.843215, valid_f1: 0.845344
+save folder 2 global val max f1 model score 0.845344
+**********************************
+Folder : 2 Epoch : 64
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.133768, valid_loss: 0.191059
+train_f1: 0.843357, valid_f1: 0.845358
+save folder 2 global val max f1 model score 0.845358
+**********************************
+Folder : 2 Epoch : 65
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.134564, valid_loss: 0.189751
+train_f1: 0.843537, valid_f1: 0.845406
+save folder 2 global val max f1 model score 0.845406
+**********************************
+Folder : 2 Epoch : 66
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.133742, valid_loss: 0.188470
+train_f1: 0.843610, valid_f1: 0.845662
+save folder 2 global val max f1 model score 0.845662
+**********************************
+Folder : 2 Epoch : 67
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.130722, valid_loss: 0.187172
+train_f1: 0.843763, valid_f1: 0.845674
+save folder 2 global val max f1 model score 0.845674
+**********************************
+Folder : 2 Epoch : 68
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.130809, valid_loss: 0.185868
+train_f1: 0.843956, valid_f1: 0.845934
+save folder 2 global val max f1 model score 0.845934
+**********************************
+Folder : 2 Epoch : 69
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.131306, valid_loss: 0.184589
+train_f1: 0.844045, valid_f1: 0.846109
+save folder 2 global val max f1 model score 0.846109
+**********************************
+Folder : 2 Epoch : 70
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.130577, valid_loss: 0.183454
+train_f1: 0.844265, valid_f1: 0.846306
+save folder 2 global val max f1 model score 0.846306
+**********************************
+Folder : 2 Epoch : 71
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.127106, valid_loss: 0.182206
+train_f1: 0.844353, valid_f1: 0.846394
+save folder 2 global val max f1 model score 0.846394
+**********************************
+Folder : 2 Epoch : 72
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.123754, valid_loss: 0.181128
+train_f1: 0.844505, valid_f1: 0.846517
+save folder 2 global val max f1 model score 0.846517
+**********************************
+Folder : 2 Epoch : 73
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.127405, valid_loss: 0.180116
+train_f1: 0.844555, valid_f1: 0.846688
+save folder 2 global val max f1 model score 0.846688
+**********************************
+Folder : 2 Epoch : 74
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.126288, valid_loss: 0.179031
+train_f1: 0.844662, valid_f1: 0.846713
+save folder 2 global val max f1 model score 0.846713
+**********************************
+Folder : 2 Epoch : 75
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.125021, valid_loss: 0.177990
+train_f1: 0.844830, valid_f1: 0.846891
+save folder 2 global val max f1 model score 0.846891
+**********************************
+Folder : 2 Epoch : 76
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.125896, valid_loss: 0.176915
+train_f1: 0.844898, valid_f1: 0.847007
+save folder 2 global val max f1 model score 0.847007
+**********************************
+Folder : 2 Epoch : 77
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.126503, valid_loss: 0.175895
+train_f1: 0.845021, valid_f1: 0.847023
+save folder 2 global val max f1 model score 0.847023
+**********************************
+Folder : 2 Epoch : 78
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.121018, valid_loss: 0.174832
+train_f1: 0.845064, valid_f1: 0.847231
+save folder 2 global val max f1 model score 0.847231
+**********************************
+Folder : 2 Epoch : 79
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.122158, valid_loss: 0.173863
+train_f1: 0.845209, valid_f1: 0.847363
+save folder 2 global val max f1 model score 0.847363
+**********************************
+Folder : 2 Epoch : 80
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.122585, valid_loss: 0.172863
+train_f1: 0.845292, valid_f1: 0.847387
+save folder 2 global val max f1 model score 0.847387
+**********************************
+Folder : 2 Epoch : 81
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.121806, valid_loss: 0.171946
+train_f1: 0.848664, valid_f1: 0.852401
+save folder 2 global val max f1 model score 0.852401
+**********************************
+Folder : 2 Epoch : 82
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.121017, valid_loss: 0.171036
+train_f1: 0.857409, valid_f1: 0.860317
+save folder 2 global val max f1 model score 0.860317
+**********************************
+Folder : 2 Epoch : 83
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.119302, valid_loss: 0.170078
+train_f1: 0.863772, valid_f1: 0.864509
+save folder 2 global val max f1 model score 0.864509
+**********************************
+Folder : 2 Epoch : 84
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.118647, valid_loss: 0.169312
+train_f1: 0.869093, valid_f1: 0.869012
+save folder 2 global val max f1 model score 0.869012
+**********************************
+Folder : 2 Epoch : 85
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.119824, valid_loss: 0.168331
+train_f1: 0.873450, valid_f1: 0.873647
+save folder 2 global val max f1 model score 0.873647
+**********************************
+Folder : 2 Epoch : 86
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.118103, valid_loss: 0.167372
+train_f1: 0.878072, valid_f1: 0.878917
+save folder 2 global val max f1 model score 0.878917
+**********************************
+Folder : 2 Epoch : 87
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.116846, valid_loss: 0.166455
+train_f1: 0.881846, valid_f1: 0.882839
+save folder 2 global val max f1 model score 0.882839
+**********************************
+Folder : 2 Epoch : 88
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.116764, valid_loss: 0.165606
+train_f1: 0.884240, valid_f1: 0.886062
+save folder 2 global val max f1 model score 0.886062
+**********************************
+Folder : 2 Epoch : 89
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.115703, valid_loss: 0.164726
+train_f1: 0.887656, valid_f1: 0.889504
+save folder 2 global val max f1 model score 0.889504
+Folder 2 finally best global max f1 score is 0.8895044868921805
+Fold : 3
+**********************************
+Folder : 3 Epoch : 0
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.082633, valid_loss: 1.765678
+train_f1: 0.056536, valid_f1: 0.156747
+save folder 3 global val max f1 model score 0.156747
+**********************************
+Folder : 3 Epoch : 1
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.396185, valid_loss: 1.474377
+train_f1: 0.254258, valid_f1: 0.265134
+save folder 3 global val max f1 model score 0.265134
+**********************************
+Folder : 3 Epoch : 2
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.211242, valid_loss: 1.323129
+train_f1: 0.268411, valid_f1: 0.299753
+save folder 3 global val max f1 model score 0.299753
+**********************************
+Folder : 3 Epoch : 3
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.017975, valid_loss: 1.165263
+train_f1: 0.371567, valid_f1: 0.388657
+save folder 3 global val max f1 model score 0.388657
+**********************************
+Folder : 3 Epoch : 4
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.873849, valid_loss: 0.995436
+train_f1: 0.420304, valid_f1: 0.444404
+save folder 3 global val max f1 model score 0.444404
+**********************************
+Folder : 3 Epoch : 5
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.773910, valid_loss: 0.906106
+train_f1: 0.465297, valid_f1: 0.470391
+save folder 3 global val max f1 model score 0.470391
+**********************************
+Folder : 3 Epoch : 6
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.711148, valid_loss: 0.877761
+train_f1: 0.490023, valid_f1: 0.460627
+**********************************
+Folder : 3 Epoch : 7
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.662460, valid_loss: 0.855448
+train_f1: 0.512761, valid_f1: 0.481844
+save folder 3 global val max f1 model score 0.481844
+**********************************
+Folder : 3 Epoch : 8
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.680781, valid_loss: 0.782697
+train_f1: 0.517387, valid_f1: 0.525024
+save folder 3 global val max f1 model score 0.525024
+**********************************
+Folder : 3 Epoch : 9
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.639365, valid_loss: 0.737890
+train_f1: 0.564746, valid_f1: 0.593184
+save folder 3 global val max f1 model score 0.593184
+**********************************
+Folder : 3 Epoch : 10
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.578080, valid_loss: 0.686633
+train_f1: 0.599197, valid_f1: 0.613778
+save folder 3 global val max f1 model score 0.613778
+**********************************
+Folder : 3 Epoch : 11
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.545152, valid_loss: 0.655476
+train_f1: 0.617655, valid_f1: 0.629039
+save folder 3 global val max f1 model score 0.629039
+**********************************
+Folder : 3 Epoch : 12
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.511145, valid_loss: 0.624516
+train_f1: 0.631612, valid_f1: 0.643736
+save folder 3 global val max f1 model score 0.643736
+**********************************
+Folder : 3 Epoch : 13
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.479818, valid_loss: 0.580991
+train_f1: 0.651488, valid_f1: 0.667969
+save folder 3 global val max f1 model score 0.667969
+**********************************
+Folder : 3 Epoch : 14
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.432544, valid_loss: 0.541400
+train_f1: 0.676117, valid_f1: 0.686923
+save folder 3 global val max f1 model score 0.686923
+**********************************
+Folder : 3 Epoch : 15
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.395695, valid_loss: 0.494978
+train_f1: 0.695140, valid_f1: 0.712032
+save folder 3 global val max f1 model score 0.712032
+**********************************
+Folder : 3 Epoch : 16
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.354845, valid_loss: 0.428229
+train_f1: 0.725871, valid_f1: 0.751536
+save folder 3 global val max f1 model score 0.751536
+**********************************
+Folder : 3 Epoch : 17
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.372083, valid_loss: 0.411612
+train_f1: 0.708398, valid_f1: 0.759092
+save folder 3 global val max f1 model score 0.759092
+**********************************
+Folder : 3 Epoch : 18
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.297026, valid_loss: 0.363286
+train_f1: 0.762468, valid_f1: 0.784356
+save folder 3 global val max f1 model score 0.784356
+**********************************
+Folder : 3 Epoch : 19
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.255378, valid_loss: 0.323711
+train_f1: 0.790140, valid_f1: 0.797313
+save folder 3 global val max f1 model score 0.797313
+**********************************
+Folder : 3 Epoch : 20
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.220430, valid_loss: 0.277142
+train_f1: 0.807594, valid_f1: 0.825203
+save folder 3 global val max f1 model score 0.825203
+**********************************
+Folder : 3 Epoch : 21
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.187250, valid_loss: 0.241487
+train_f1: 0.829513, valid_f1: 0.835421
+save folder 3 global val max f1 model score 0.835421
+**********************************
+Folder : 3 Epoch : 22
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.160785, valid_loss: 0.224267
+train_f1: 0.837611, valid_f1: 0.840931
+save folder 3 global val max f1 model score 0.840931
+**********************************
+Folder : 3 Epoch : 23
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.152157, valid_loss: 0.204219
+train_f1: 0.839500, valid_f1: 0.844636
+save folder 3 global val max f1 model score 0.844636
+**********************************
+Folder : 3 Epoch : 24
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.141480, valid_loss: 0.193589
+train_f1: 0.842287, valid_f1: 0.846275
+save folder 3 global val max f1 model score 0.846275
+**********************************
+Folder : 3 Epoch : 25
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.134570, valid_loss: 0.185586
+train_f1: 0.842606, valid_f1: 0.846990
+save folder 3 global val max f1 model score 0.846990
+**********************************
+Folder : 3 Epoch : 26
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.136680, valid_loss: 0.213912
+train_f1: 0.839097, valid_f1: 0.823974
+**********************************
+Folder : 3 Epoch : 27
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.131925, valid_loss: 0.179421
+train_f1: 0.837910, valid_f1: 0.846150
+**********************************
+Folder : 3 Epoch : 28
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.125111, valid_loss: 0.170486
+train_f1: 0.842105, valid_f1: 0.848564
+save folder 3 global val max f1 model score 0.848564
+**********************************
+Folder : 3 Epoch : 29
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.120582, valid_loss: 0.166552
+train_f1: 0.851121, valid_f1: 0.869427
+save folder 3 global val max f1 model score 0.869427
+**********************************
+Folder : 3 Epoch : 30
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.117925, valid_loss: 0.166545
+train_f1: 0.874605, valid_f1: 0.879335
+save folder 3 global val max f1 model score 0.879335
+**********************************
+Folder : 3 Epoch : 31
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.115583, valid_loss: 0.159503
+train_f1: 0.891435, valid_f1: 0.901072
+save folder 3 global val max f1 model score 0.901072
+**********************************
+Folder : 3 Epoch : 32
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.108897, valid_loss: 0.155938
+train_f1: 0.902280, valid_f1: 0.908821
+save folder 3 global val max f1 model score 0.908821
+**********************************
+Folder : 3 Epoch : 33
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.109062, valid_loss: 0.153262
+train_f1: 0.910537, valid_f1: 0.913910
+save folder 3 global val max f1 model score 0.913910
+**********************************
+Folder : 3 Epoch : 34
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.109128, valid_loss: 0.156299
+train_f1: 0.916022, valid_f1: 0.922182
+save folder 3 global val max f1 model score 0.922182
+**********************************
+Folder : 3 Epoch : 35
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.105000, valid_loss: 0.149618
+train_f1: 0.920364, valid_f1: 0.924603
+save folder 3 global val max f1 model score 0.924603
+**********************************
+Folder : 3 Epoch : 36
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.108895, valid_loss: 0.154336
+train_f1: 0.919806, valid_f1: 0.919515
+**********************************
+Folder : 3 Epoch : 37
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.105297, valid_loss: 0.147903
+train_f1: 0.925877, valid_f1: 0.932040
+save folder 3 global val max f1 model score 0.932040
+**********************************
+Folder : 3 Epoch : 38
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.101913, valid_loss: 0.144938
+train_f1: 0.930078, valid_f1: 0.927907
+**********************************
+Folder : 3 Epoch : 39
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.100219, valid_loss: 0.142434
+train_f1: 0.932384, valid_f1: 0.935758
+save folder 3 global val max f1 model score 0.935758
+**********************************
+Folder : 3 Epoch : 40
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.098549, valid_loss: 0.141034
+train_f1: 0.934002, valid_f1: 0.935857
+save folder 3 global val max f1 model score 0.935857
+**********************************
+Folder : 3 Epoch : 41
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096985, valid_loss: 0.139776
+train_f1: 0.935032, valid_f1: 0.936386
+save folder 3 global val max f1 model score 0.936386
+**********************************
+Folder : 3 Epoch : 42
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.097181, valid_loss: 0.138470
+train_f1: 0.935768, valid_f1: 0.937514
+save folder 3 global val max f1 model score 0.937514
+**********************************
+Folder : 3 Epoch : 43
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095933, valid_loss: 0.138511
+train_f1: 0.935378, valid_f1: 0.935776
+**********************************
+Folder : 3 Epoch : 44
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096242, valid_loss: 0.137488
+train_f1: 0.935342, valid_f1: 0.936204
+**********************************
+Folder : 3 Epoch : 45
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096111, valid_loss: 0.136660
+train_f1: 0.935756, valid_f1: 0.937304
+**********************************
+Folder : 3 Epoch : 46
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095016, valid_loss: 0.135946
+train_f1: 0.936445, valid_f1: 0.937818
+save folder 3 global val max f1 model score 0.937818
+**********************************
+Folder : 3 Epoch : 47
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096989, valid_loss: 0.137174
+train_f1: 0.934135, valid_f1: 0.937323
+**********************************
+Folder : 3 Epoch : 48
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.096814, valid_loss: 0.149065
+train_f1: 0.930988, valid_f1: 0.930198
+**********************************
+Folder : 3 Epoch : 49
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.095890, valid_loss: 0.134488
+train_f1: 0.934016, valid_f1: 0.936554
+**********************************
+Folder : 3 Epoch : 50
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092110, valid_loss: 0.138176
+train_f1: 0.935780, valid_f1: 0.934774
+**********************************
+Folder : 3 Epoch : 51
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.094211, valid_loss: 0.133465
+train_f1: 0.936388, valid_f1: 0.938172
+save folder 3 global val max f1 model score 0.938172
+**********************************
+Folder : 3 Epoch : 52
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091881, valid_loss: 0.133178
+train_f1: 0.936872, valid_f1: 0.938370
+save folder 3 global val max f1 model score 0.938370
+**********************************
+Folder : 3 Epoch : 53
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092531, valid_loss: 0.132531
+train_f1: 0.937593, valid_f1: 0.938695
+save folder 3 global val max f1 model score 0.938695
+**********************************
+Folder : 3 Epoch : 54
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092220, valid_loss: 0.132431
+train_f1: 0.937662, valid_f1: 0.938534
+**********************************
+Folder : 3 Epoch : 55
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092144, valid_loss: 0.132332
+train_f1: 0.937714, valid_f1: 0.938550
+**********************************
+Folder : 3 Epoch : 56
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091366, valid_loss: 0.132206
+train_f1: 0.937632, valid_f1: 0.938507
+**********************************
+Folder : 3 Epoch : 57
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093824, valid_loss: 0.132036
+train_f1: 0.937823, valid_f1: 0.938650
+**********************************
+Folder : 3 Epoch : 58
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090955, valid_loss: 0.132011
+train_f1: 0.937808, valid_f1: 0.938700
+save folder 3 global val max f1 model score 0.938700
+**********************************
+Folder : 3 Epoch : 59
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091134, valid_loss: 0.131997
+train_f1: 0.937830, valid_f1: 0.938719
+save folder 3 global val max f1 model score 0.938719
+**********************************
+Folder : 3 Epoch : 60
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091006, valid_loss: 0.131895
+train_f1: 0.937780, valid_f1: 0.938706
+**********************************
+Folder : 3 Epoch : 61
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091217, valid_loss: 0.131896
+train_f1: 0.937793, valid_f1: 0.938743
+save folder 3 global val max f1 model score 0.938743
+**********************************
+Folder : 3 Epoch : 62
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092098, valid_loss: 0.131883
+train_f1: 0.937851, valid_f1: 0.938735
+**********************************
+Folder : 3 Epoch : 63
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091970, valid_loss: 0.131879
+train_f1: 0.937853, valid_f1: 0.938733
+**********************************
+Folder : 3 Epoch : 64
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090921, valid_loss: 0.131883
+train_f1: 0.937833, valid_f1: 0.938743
+**********************************
+Folder : 3 Epoch : 65
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091464, valid_loss: 0.131870
+train_f1: 0.937837, valid_f1: 0.938757
+save folder 3 global val max f1 model score 0.938757
+**********************************
+Folder : 3 Epoch : 66
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090689, valid_loss: 0.131869
+train_f1: 0.937847, valid_f1: 0.938755
+**********************************
+Folder : 3 Epoch : 67
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093644, valid_loss: 0.131870
+train_f1: 0.937839, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 68
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093864, valid_loss: 0.131871
+train_f1: 0.937839, valid_f1: 0.938738
+**********************************
+Folder : 3 Epoch : 69
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091359, valid_loss: 0.131870
+train_f1: 0.937836, valid_f1: 0.938729
+**********************************
+Folder : 3 Epoch : 70
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.089602, valid_loss: 0.131869
+train_f1: 0.937842, valid_f1: 0.938731
+**********************************
+Folder : 3 Epoch : 71
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.089321, valid_loss: 0.131869
+train_f1: 0.937842, valid_f1: 0.938731
+**********************************
+Folder : 3 Epoch : 72
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.090025, valid_loss: 0.131869
+train_f1: 0.937841, valid_f1: 0.938731
+**********************************
+Folder : 3 Epoch : 73
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.089727, valid_loss: 0.131869
+train_f1: 0.937842, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 74
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091158, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 75
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091418, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 76
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092460, valid_loss: 0.131869
+train_f1: 0.937841, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 77
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091008, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 78
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.093061, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 79
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.089793, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 80
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092912, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 81
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091874, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 82
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091175, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 83
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092660, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 84
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091927, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 85
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091067, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 86
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091527, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 87
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091900, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 88
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.092738, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+**********************************
+Folder : 3 Epoch : 89
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.091041, valid_loss: 0.131869
+train_f1: 0.937840, valid_f1: 0.938726
+Folder 3 finally best global max f1 score is 0.938756932490567
+Fold : 4
+**********************************
+Folder : 4 Epoch : 0
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 2.168905, valid_loss: 1.886346
+train_f1: 0.062388, valid_f1: 0.119154
+save folder 4 global val max f1 model score 0.119154
+**********************************
+Folder : 4 Epoch : 1
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.480019, valid_loss: 1.542904
+train_f1: 0.199017, valid_f1: 0.250315
+save folder 4 global val max f1 model score 0.250315
+**********************************
+Folder : 4 Epoch : 2
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.212362, valid_loss: 1.371125
+train_f1: 0.301992, valid_f1: 0.293399
+save folder 4 global val max f1 model score 0.293399
+**********************************
+Folder : 4 Epoch : 3
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.001110, valid_loss: 1.142949
+train_f1: 0.381716, valid_f1: 0.407259
+save folder 4 global val max f1 model score 0.407259
+**********************************
+Folder : 4 Epoch : 4
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.829210, valid_loss: 0.967167
+train_f1: 0.433852, valid_f1: 0.462463
+save folder 4 global val max f1 model score 0.462463
+**********************************
+Folder : 4 Epoch : 5
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.728665, valid_loss: 0.885038
+train_f1: 0.479923, valid_f1: 0.492694
+save folder 4 global val max f1 model score 0.492694
+**********************************
+Folder : 4 Epoch : 6
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.672390, valid_loss: 0.830447
+train_f1: 0.514653, valid_f1: 0.546582
+save folder 4 global val max f1 model score 0.546582
+**********************************
+Folder : 4 Epoch : 7
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.640966, valid_loss: 0.860275
+train_f1: 0.556090, valid_f1: 0.518916
+**********************************
+Folder : 4 Epoch : 8
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.727690, valid_loss: 0.864399
+train_f1: 0.514220, valid_f1: 0.514781
+**********************************
+Folder : 4 Epoch : 9
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.651175, valid_loss: 0.791207
+train_f1: 0.550271, valid_f1: 0.572385
+save folder 4 global val max f1 model score 0.572385
+**********************************
+Folder : 4 Epoch : 10
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.598459, valid_loss: 0.740679
+train_f1: 0.577755, valid_f1: 0.581273
+save folder 4 global val max f1 model score 0.581273
+**********************************
+Folder : 4 Epoch : 11
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.555995, valid_loss: 0.707667
+train_f1: 0.593168, valid_f1: 0.601929
+save folder 4 global val max f1 model score 0.601929
+**********************************
+Folder : 4 Epoch : 12
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.536387, valid_loss: 0.678883
+train_f1: 0.608576, valid_f1: 0.617325
+save folder 4 global val max f1 model score 0.617325
+**********************************
+Folder : 4 Epoch : 13
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.514125, valid_loss: 0.643136
+train_f1: 0.623809, valid_f1: 0.635183
+save folder 4 global val max f1 model score 0.635183
+**********************************
+Folder : 4 Epoch : 14
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.474827, valid_loss: 0.592386
+train_f1: 0.650635, valid_f1: 0.665109
+save folder 4 global val max f1 model score 0.665109
+**********************************
+Folder : 4 Epoch : 15
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.438602, valid_loss: 0.553973
+train_f1: 0.670781, valid_f1: 0.682251
+save folder 4 global val max f1 model score 0.682251
+**********************************
+Folder : 4 Epoch : 16
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.405220, valid_loss: 0.516921
+train_f1: 0.692883, valid_f1: 0.700689
+save folder 4 global val max f1 model score 0.700689
+**********************************
+Folder : 4 Epoch : 17
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.379325, valid_loss: 0.493578
+train_f1: 0.709505, valid_f1: 0.706411
+save folder 4 global val max f1 model score 0.706411
+**********************************
+Folder : 4 Epoch : 18
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.350353, valid_loss: 0.462724
+train_f1: 0.725462, valid_f1: 0.725713
+save folder 4 global val max f1 model score 0.725713
+**********************************
+Folder : 4 Epoch : 19
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.321841, valid_loss: 0.414744
+train_f1: 0.742309, valid_f1: 0.751937
+save folder 4 global val max f1 model score 0.751937
+**********************************
+Folder : 4 Epoch : 20
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.283833, valid_loss: 0.373375
+train_f1: 0.760235, valid_f1: 0.768479
+save folder 4 global val max f1 model score 0.768479
+**********************************
+Folder : 4 Epoch : 21
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.251012, valid_loss: 0.336948
+train_f1: 0.780528, valid_f1: 0.788967
+save folder 4 global val max f1 model score 0.788967
+**********************************
+Folder : 4 Epoch : 22
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.225051, valid_loss: 0.303356
+train_f1: 0.796741, valid_f1: 0.802468
+save folder 4 global val max f1 model score 0.802468
+**********************************
+Folder : 4 Epoch : 23
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.203218, valid_loss: 0.276080
+train_f1: 0.808704, valid_f1: 0.814209
+save folder 4 global val max f1 model score 0.814209
+**********************************
+Folder : 4 Epoch : 24
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.185393, valid_loss: 0.259054
+train_f1: 0.817931, valid_f1: 0.821061
+save folder 4 global val max f1 model score 0.821061
+**********************************
+Folder : 4 Epoch : 25
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.170879, valid_loss: 0.237221
+train_f1: 0.824366, valid_f1: 0.825446
+save folder 4 global val max f1 model score 0.825446
+**********************************
+Folder : 4 Epoch : 26
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.788756, valid_loss: 2.918771
+train_f1: 0.684469, valid_f1: 0.354312
+**********************************
+Folder : 4 Epoch : 27
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 1.095134, valid_loss: 0.837539
+train_f1: 0.431414, valid_f1: 0.542301
+**********************************
+Folder : 4 Epoch : 28
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.511346, valid_loss: 0.490928
+train_f1: 0.612527, valid_f1: 0.738506
+**********************************
+Folder : 4 Epoch : 29
+Curr learning_rate: 0.001000000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.320401, valid_loss: 0.366681
+train_f1: 0.768535, valid_f1: 0.803476
+**********************************
+Folder : 4 Epoch : 30
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.254673, valid_loss: 0.345834
+train_f1: 0.801160, valid_f1: 0.807333
+**********************************
+Folder : 4 Epoch : 31
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.238603, valid_loss: 0.329543
+train_f1: 0.811975, valid_f1: 0.812712
+**********************************
+Folder : 4 Epoch : 32
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.232986, valid_loss: 0.317344
+train_f1: 0.813924, valid_f1: 0.816403
+**********************************
+Folder : 4 Epoch : 33
+Curr learning_rate: 0.000200000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.220808, valid_loss: 0.307747
+train_f1: 0.817669, valid_f1: 0.818212
+**********************************
+Folder : 4 Epoch : 34
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.214608, valid_loss: 0.305979
+train_f1: 0.818555, valid_f1: 0.818803
+**********************************
+Folder : 4 Epoch : 35
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.213021, valid_loss: 0.304287
+train_f1: 0.819241, valid_f1: 0.819260
+**********************************
+Folder : 4 Epoch : 36
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209332, valid_loss: 0.302625
+train_f1: 0.819625, valid_f1: 0.819555
+**********************************
+Folder : 4 Epoch : 37
+Curr learning_rate: 0.000040000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.213982, valid_loss: 0.301018
+train_f1: 0.819945, valid_f1: 0.819741
+**********************************
+Folder : 4 Epoch : 38
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210987, valid_loss: 0.300693
+train_f1: 0.820125, valid_f1: 0.819796
+**********************************
+Folder : 4 Epoch : 39
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209028, valid_loss: 0.300339
+train_f1: 0.820194, valid_f1: 0.819854
+**********************************
+Folder : 4 Epoch : 40
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.207128, valid_loss: 0.300008
+train_f1: 0.820262, valid_f1: 0.819899
+**********************************
+Folder : 4 Epoch : 41
+Curr learning_rate: 0.000008000
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.211526, valid_loss: 0.299671
+train_f1: 0.820326, valid_f1: 0.819948
+**********************************
+Folder : 4 Epoch : 42
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.208683, valid_loss: 0.299602
+train_f1: 0.820376, valid_f1: 0.819968
+**********************************
+Folder : 4 Epoch : 43
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210657, valid_loss: 0.299534
+train_f1: 0.820382, valid_f1: 0.819956
+**********************************
+Folder : 4 Epoch : 44
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210651, valid_loss: 0.299468
+train_f1: 0.820384, valid_f1: 0.819979
+**********************************
+Folder : 4 Epoch : 45
+Curr learning_rate: 0.000001600
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.214305, valid_loss: 0.299400
+train_f1: 0.820399, valid_f1: 0.819994
+**********************************
+Folder : 4 Epoch : 46
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.208031, valid_loss: 0.299386
+train_f1: 0.820410, valid_f1: 0.819999
+**********************************
+Folder : 4 Epoch : 47
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.212785, valid_loss: 0.299373
+train_f1: 0.820415, valid_f1: 0.820001
+**********************************
+Folder : 4 Epoch : 48
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.206516, valid_loss: 0.299357
+train_f1: 0.820418, valid_f1: 0.820003
+**********************************
+Folder : 4 Epoch : 49
+Curr learning_rate: 0.000000320
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.206403, valid_loss: 0.299343
+train_f1: 0.820420, valid_f1: 0.820006
+**********************************
+Folder : 4 Epoch : 50
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210359, valid_loss: 0.299341
+train_f1: 0.820422, valid_f1: 0.820005
+**********************************
+Folder : 4 Epoch : 51
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.207469, valid_loss: 0.299338
+train_f1: 0.820423, valid_f1: 0.820006
+**********************************
+Folder : 4 Epoch : 52
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210944, valid_loss: 0.299335
+train_f1: 0.820423, valid_f1: 0.820008
+**********************************
+Folder : 4 Epoch : 53
+Curr learning_rate: 0.000000064
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209679, valid_loss: 0.299332
+train_f1: 0.820424, valid_f1: 0.820005
+**********************************
+Folder : 4 Epoch : 54
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.205865, valid_loss: 0.299332
+train_f1: 0.820425, valid_f1: 0.820005
+**********************************
+Folder : 4 Epoch : 55
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.208943, valid_loss: 0.299331
+train_f1: 0.820425, valid_f1: 0.820005
+**********************************
+Folder : 4 Epoch : 56
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.208556, valid_loss: 0.299331
+train_f1: 0.820425, valid_f1: 0.820004
+**********************************
+Folder : 4 Epoch : 57
+Curr learning_rate: 0.000000013
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209290, valid_loss: 0.299331
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 58
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209453, valid_loss: 0.299331
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 59
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.208006, valid_loss: 0.299331
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 60
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210304, valid_loss: 0.299331
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 61
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209960, valid_loss: 0.299330
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 62
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.211600, valid_loss: 0.299330
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 63
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.210269, valid_loss: 0.299330
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 64
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.205459, valid_loss: 0.299330
+train_f1: 0.820426, valid_f1: 0.820002
+**********************************
+Folder : 4 Epoch : 65
+Curr learning_rate: 0.000000003
+HBox(children=(FloatProgress(value=0.0, max=13.0), HTML(value='')))
+
+EVALUATION
+train_loss: 0.209041, valid_loss: 0.299330
+train_f1: 0.820426, valid_f1: 0.820002
+Early Stopping
+folder 4 global best val max f1 model score 0.825446
+Folder 4 finally best global max f1 score is 0.825446079128557
+all folder score is:[0.936382, 0.804903, 0.889504, 0.938757, 0.825446]
+OOF mean score is: 0.878998
+Generate submission.............
+over

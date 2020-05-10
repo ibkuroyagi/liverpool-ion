@@ -1,0 +1,2711 @@
+device: cuda
+it: 111
+Reading Data Started...
+(1000, 5000, 20) (1000, 5000, 1)
+(400, 5000, 20)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 225150.388437, valid_loss: 95982.683733
+train_f1: 0.176723, valid_f1: 0.351416
+**********************************
+Folder : 0 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 81035.957656, valid_loss: 46695.812727
+train_f1: 0.477455, valid_f1: 0.583769
+**********************************
+Folder : 0 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 33067.010859, valid_loss: 17875.031198
+train_f1: 0.699195, valid_f1: 0.779351
+**********************************
+Folder : 0 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 23974.170977, valid_loss: 21454.550003
+train_f1: 0.786364, valid_f1: 0.861130
+**********************************
+Folder : 0 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 14368.148438, valid_loss: 9450.063075
+train_f1: 0.901067, valid_f1: 0.921650
+**********************************
+Folder : 0 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 206391.768125, valid_loss: 180640.103795
+train_f1: 0.929675, valid_f1: 0.931932
+save folder 0 global val max f1 model score 0.931932
+**********************************
+Folder : 0 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 201483.870625, valid_loss: 179291.456473
+train_f1: 0.932955, valid_f1: 0.934309
+save folder 0 global val max f1 model score 0.934309
+**********************************
+Folder : 0 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200723.990000, valid_loss: 178983.473214
+train_f1: 0.934480, valid_f1: 0.935445
+save folder 0 global val max f1 model score 0.935445
+**********************************
+Folder : 0 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200500.276875, valid_loss: 178862.765625
+train_f1: 0.935262, valid_f1: 0.935582
+save folder 0 global val max f1 model score 0.935582
+**********************************
+Folder : 0 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200383.122500, valid_loss: 178782.654018
+train_f1: 0.935620, valid_f1: 0.936132
+save folder 0 global val max f1 model score 0.936132
+**********************************
+Folder : 0 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200300.721250, valid_loss: 178729.743304
+train_f1: 0.935951, valid_f1: 0.936416
+save folder 0 global val max f1 model score 0.936416
+**********************************
+Folder : 0 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200243.935625, valid_loss: 178689.305804
+train_f1: 0.936261, valid_f1: 0.936420
+save folder 0 global val max f1 model score 0.936420
+**********************************
+Folder : 0 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200203.581875, valid_loss: 178663.371652
+train_f1: 0.936421, valid_f1: 0.936664
+save folder 0 global val max f1 model score 0.936664
+**********************************
+Folder : 0 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200166.872500, valid_loss: 178632.576451
+train_f1: 0.936581, valid_f1: 0.936675
+save folder 0 global val max f1 model score 0.936675
+**********************************
+Folder : 0 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200134.637500, valid_loss: 178611.062500
+train_f1: 0.936768, valid_f1: 0.936851
+save folder 0 global val max f1 model score 0.936851
+**********************************
+Folder : 0 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200111.795000, valid_loss: 178595.113839
+train_f1: 0.936865, valid_f1: 0.937005
+save folder 0 global val max f1 model score 0.937005
+**********************************
+Folder : 0 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200086.146250, valid_loss: 178574.287388
+train_f1: 0.937119, valid_f1: 0.937159
+save folder 0 global val max f1 model score 0.937159
+**********************************
+Folder : 0 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200066.933750, valid_loss: 178560.070871
+train_f1: 0.937187, valid_f1: 0.937281
+save folder 0 global val max f1 model score 0.937281
+**********************************
+Folder : 0 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200048.067500, valid_loss: 178548.411830
+train_f1: 0.937396, valid_f1: 0.937249
+**********************************
+Folder : 0 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200039.299375, valid_loss: 178540.264509
+train_f1: 0.937302, valid_f1: 0.937378
+save folder 0 global val max f1 model score 0.937378
+**********************************
+Folder : 0 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200023.036875, valid_loss: 178532.881696
+train_f1: 0.937472, valid_f1: 0.937265
+**********************************
+Folder : 0 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200010.014375, valid_loss: 178523.778460
+train_f1: 0.937439, valid_f1: 0.937256
+**********************************
+Folder : 0 Epoch : 22
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199997.376875, valid_loss: 178510.064732
+train_f1: 0.937610, valid_f1: 0.937560
+save folder 0 global val max f1 model score 0.937560
+**********************************
+Folder : 0 Epoch : 23
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199983.414375, valid_loss: 178509.526786
+train_f1: 0.937662, valid_f1: 0.937628
+save folder 0 global val max f1 model score 0.937628
+**********************************
+Folder : 0 Epoch : 24
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199977.902500, valid_loss: 178506.929688
+train_f1: 0.937798, valid_f1: 0.937537
+**********************************
+Folder : 0 Epoch : 25
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199974.579375, valid_loss: 178495.868862
+train_f1: 0.937764, valid_f1: 0.937627
+**********************************
+Folder : 0 Epoch : 26
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199962.316875, valid_loss: 178490.973772
+train_f1: 0.937805, valid_f1: 0.937697
+save folder 0 global val max f1 model score 0.937697
+**********************************
+Folder : 0 Epoch : 27
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199955.771875, valid_loss: 178482.790179
+train_f1: 0.937791, valid_f1: 0.937678
+**********************************
+Folder : 0 Epoch : 28
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199949.816250, valid_loss: 178478.182478
+train_f1: 0.937842, valid_f1: 0.937697
+**********************************
+Folder : 0 Epoch : 29
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199953.822500, valid_loss: 178497.827009
+train_f1: 0.937859, valid_f1: 0.937102
+**********************************
+Folder : 0 Epoch : 30
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199937.607500, valid_loss: 178477.235491
+train_f1: 0.937850, valid_f1: 0.937684
+**********************************
+Folder : 0 Epoch : 31
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199915.580000, valid_loss: 178467.359933
+train_f1: 0.938185, valid_f1: 0.937661
+**********************************
+Folder : 0 Epoch : 32
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199904.679375, valid_loss: 178462.722098
+train_f1: 0.938280, valid_f1: 0.937804
+save folder 0 global val max f1 model score 0.937804
+**********************************
+Folder : 0 Epoch : 33
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199902.785625, valid_loss: 178464.630580
+train_f1: 0.938342, valid_f1: 0.937827
+save folder 0 global val max f1 model score 0.937827
+**********************************
+Folder : 0 Epoch : 34
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199902.466875, valid_loss: 178463.660156
+train_f1: 0.938315, valid_f1: 0.937730
+**********************************
+Folder : 0 Epoch : 35
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199895.081250, valid_loss: 178462.632812
+train_f1: 0.938424, valid_f1: 0.937786
+**********************************
+Folder : 0 Epoch : 36
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199892.691250, valid_loss: 178457.247210
+train_f1: 0.938346, valid_f1: 0.937854
+save folder 0 global val max f1 model score 0.937854
+**********************************
+Folder : 0 Epoch : 37
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199884.446250, valid_loss: 178454.715402
+train_f1: 0.938529, valid_f1: 0.937861
+save folder 0 global val max f1 model score 0.937861
+**********************************
+Folder : 0 Epoch : 38
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199883.902500, valid_loss: 178453.823661
+train_f1: 0.938537, valid_f1: 0.937825
+**********************************
+Folder : 0 Epoch : 39
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199881.874375, valid_loss: 178452.751116
+train_f1: 0.938536, valid_f1: 0.937774
+**********************************
+Folder : 0 Epoch : 40
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199881.715000, valid_loss: 178456.744420
+train_f1: 0.938492, valid_f1: 0.937860
+**********************************
+Folder : 0 Epoch : 41
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199877.955625, valid_loss: 178450.814732
+train_f1: 0.938518, valid_f1: 0.937859
+**********************************
+Folder : 0 Epoch : 42
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199874.213750, valid_loss: 178451.072545
+train_f1: 0.938606, valid_f1: 0.937829
+**********************************
+Folder : 0 Epoch : 43
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199872.853750, valid_loss: 178449.704799
+train_f1: 0.938619, valid_f1: 0.937853
+**********************************
+Folder : 0 Epoch : 44
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199872.227500, valid_loss: 178452.225446
+train_f1: 0.938694, valid_f1: 0.937862
+save folder 0 global val max f1 model score 0.937862
+**********************************
+Folder : 0 Epoch : 45
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199869.756250, valid_loss: 178449.455915
+train_f1: 0.938664, valid_f1: 0.937916
+save folder 0 global val max f1 model score 0.937916
+**********************************
+Folder : 0 Epoch : 46
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199869.394375, valid_loss: 178448.892857
+train_f1: 0.938639, valid_f1: 0.937827
+**********************************
+Folder : 0 Epoch : 47
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199868.593125, valid_loss: 178449.130580
+train_f1: 0.938677, valid_f1: 0.937831
+**********************************
+Folder : 0 Epoch : 48
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199868.107500, valid_loss: 178448.739955
+train_f1: 0.938647, valid_f1: 0.937792
+**********************************
+Folder : 0 Epoch : 49
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199867.925625, valid_loss: 178448.441406
+train_f1: 0.938722, valid_f1: 0.937824
+**********************************
+Folder : 0 Epoch : 50
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199866.423125, valid_loss: 178449.526786
+train_f1: 0.938677, valid_f1: 0.937850
+**********************************
+Folder : 0 Epoch : 51
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199865.987500, valid_loss: 178448.085938
+train_f1: 0.938726, valid_f1: 0.937883
+**********************************
+Folder : 0 Epoch : 52
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199865.882500, valid_loss: 178448.266741
+train_f1: 0.938728, valid_f1: 0.937791
+**********************************
+Folder : 0 Epoch : 53
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199865.895625, valid_loss: 178448.333705
+train_f1: 0.938716, valid_f1: 0.937858
+**********************************
+Folder : 0 Epoch : 54
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199864.958125, valid_loss: 178448.154018
+train_f1: 0.938758, valid_f1: 0.937829
+**********************************
+Folder : 0 Epoch : 55
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199864.634375, valid_loss: 178447.925223
+train_f1: 0.938743, valid_f1: 0.937832
+**********************************
+Folder : 0 Epoch : 56
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199864.671250, valid_loss: 178447.842076
+train_f1: 0.938748, valid_f1: 0.937837
+**********************************
+Folder : 0 Epoch : 57
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199864.626875, valid_loss: 178448.197545
+train_f1: 0.938751, valid_f1: 0.937817
+**********************************
+Folder : 0 Epoch : 58
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199864.225625, valid_loss: 178447.856027
+train_f1: 0.938741, valid_f1: 0.937816
+**********************************
+Folder : 0 Epoch : 59
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199864.133750, valid_loss: 178447.836496
+train_f1: 0.938766, valid_f1: 0.937807
+**********************************
+Folder : 0 Epoch : 60
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199864.089375, valid_loss: 178447.707589
+train_f1: 0.938740, valid_f1: 0.937813
+**********************************
+Folder : 0 Epoch : 61
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199864.041250, valid_loss: 178447.741629
+train_f1: 0.938765, valid_f1: 0.937832
+**********************************
+Folder : 0 Epoch : 62
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199863.700625, valid_loss: 178447.718750
+train_f1: 0.938741, valid_f1: 0.937831
+**********************************
+Folder : 0 Epoch : 63
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199863.721250, valid_loss: 178447.677455
+train_f1: 0.938735, valid_f1: 0.937813
+**********************************
+Folder : 0 Epoch : 64
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199863.635000, valid_loss: 178447.728795
+train_f1: 0.938775, valid_f1: 0.937831
+**********************************
+Folder : 0 Epoch : 65
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199863.575625, valid_loss: 178447.631696
+train_f1: 0.938780, valid_f1: 0.937828
+**********************************
+Folder : 0 Epoch : 66
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199863.493750, valid_loss: 178447.625000
+train_f1: 0.938784, valid_f1: 0.937825
+**********************************
+Folder : 0 Epoch : 67
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199863.490000, valid_loss: 178447.640625
+train_f1: 0.938770, valid_f1: 0.937810
+**********************************
+Folder : 0 Epoch : 68
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199863.491875, valid_loss: 178447.603795
+train_f1: 0.938756, valid_f1: 0.937802
+**********************************
+Folder : 0 Epoch : 69
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199863.430625, valid_loss: 178447.629464
+train_f1: 0.938763, valid_f1: 0.937814
+**********************************
+Folder : 0 Epoch : 70
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199863.396875, valid_loss: 178447.642857
+train_f1: 0.938785, valid_f1: 0.937830
+**********************************
+Folder : 0 Epoch : 71
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199863.377500, valid_loss: 178447.631138
+train_f1: 0.938779, valid_f1: 0.937820
+**********************************
+Folder : 0 Epoch : 72
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199863.370625, valid_loss: 178447.611607
+train_f1: 0.938778, valid_f1: 0.937809
+**********************************
+Folder : 0 Epoch : 73
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199863.379375, valid_loss: 178447.590402
+train_f1: 0.938774, valid_f1: 0.937819
+**********************************
+Folder : 0 Epoch : 74
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199863.333750, valid_loss: 178447.595424
+train_f1: 0.938775, valid_f1: 0.937815
+**********************************
+Folder : 0 Epoch : 75
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199863.323125, valid_loss: 178447.597656
+train_f1: 0.938771, valid_f1: 0.937813
+**********************************
+Folder : 0 Epoch : 76
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199863.321875, valid_loss: 178447.593750
+train_f1: 0.938773, valid_f1: 0.937809
+**********************************
+Folder : 0 Epoch : 77
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199863.323125, valid_loss: 178447.587054
+train_f1: 0.938769, valid_f1: 0.937818
+**********************************
+Folder : 0 Epoch : 78
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199863.303750, valid_loss: 178447.592076
+train_f1: 0.938772, valid_f1: 0.937815
+**********************************
+Folder : 0 Epoch : 79
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199863.298750, valid_loss: 178447.587054
+train_f1: 0.938770, valid_f1: 0.937817
+**********************************
+Folder : 0 Epoch : 80
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199863.297500, valid_loss: 178447.592076
+train_f1: 0.938772, valid_f1: 0.937817
+**********************************
+Folder : 0 Epoch : 81
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199863.292500, valid_loss: 178447.590960
+train_f1: 0.938774, valid_f1: 0.937811
+**********************************
+Folder : 0 Epoch : 82
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199863.284375, valid_loss: 178447.592076
+train_f1: 0.938773, valid_f1: 0.937811
+**********************************
+Folder : 0 Epoch : 83
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199863.281875, valid_loss: 178447.590402
+train_f1: 0.938773, valid_f1: 0.937811
+**********************************
+Folder : 0 Epoch : 84
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199863.286250, valid_loss: 178447.591518
+train_f1: 0.938777, valid_f1: 0.937811
+**********************************
+Folder : 0 Epoch : 85
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199863.283750, valid_loss: 178447.585938
+train_f1: 0.938775, valid_f1: 0.937813
+Early Stopping
+folder 0 global best val max f1 model score 0.937916
+Folder 0 finally best global max f1 score is 0.9379163810404504
+Fold : 1
+**********************************
+Folder : 1 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 315793.725625, valid_loss: 249543.883929
+train_f1: 0.110200, valid_f1: 0.194465
+save folder 1 global val max f1 model score 0.194465
+**********************************
+Folder : 1 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 157893.394375, valid_loss: 91152.406651
+train_f1: 0.315848, valid_f1: 0.401400
+save folder 1 global val max f1 model score 0.401400
+**********************************
+Folder : 1 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 71113.681719, valid_loss: 35400.143720
+train_f1: 0.512143, valid_f1: 0.636906
+save folder 1 global val max f1 model score 0.636906
+**********************************
+Folder : 1 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 25787.004180, valid_loss: 16259.420044
+train_f1: 0.740457, valid_f1: 0.822848
+save folder 1 global val max f1 model score 0.822848
+**********************************
+Folder : 1 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 13757.803203, valid_loss: 11987.475368
+train_f1: 0.834074, valid_f1: 0.839259
+save folder 1 global val max f1 model score 0.839259
+**********************************
+Folder : 1 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 10216.301680, valid_loss: 9718.665669
+train_f1: 0.902563, valid_f1: 0.929418
+save folder 1 global val max f1 model score 0.929418
+**********************************
+Folder : 1 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 204512.802500, valid_loss: 179999.225446
+train_f1: 0.932958, valid_f1: 0.932272
+save folder 1 global val max f1 model score 0.932272
+**********************************
+Folder : 1 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200635.805625, valid_loss: 179299.053571
+train_f1: 0.935249, valid_f1: 0.933494
+save folder 1 global val max f1 model score 0.933494
+**********************************
+Folder : 1 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200240.546250, valid_loss: 179164.668527
+train_f1: 0.936191, valid_f1: 0.934009
+save folder 1 global val max f1 model score 0.934009
+**********************************
+Folder : 1 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200130.864375, valid_loss: 179099.426897
+train_f1: 0.936698, valid_f1: 0.934267
+save folder 1 global val max f1 model score 0.934267
+**********************************
+Folder : 1 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200074.561250, valid_loss: 179042.675223
+train_f1: 0.936946, valid_f1: 0.934420
+save folder 1 global val max f1 model score 0.934420
+**********************************
+Folder : 1 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200021.741875, valid_loss: 178999.647321
+train_f1: 0.937226, valid_f1: 0.934811
+save folder 1 global val max f1 model score 0.934811
+**********************************
+Folder : 1 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199981.122500, valid_loss: 178975.574777
+train_f1: 0.937497, valid_f1: 0.934896
+save folder 1 global val max f1 model score 0.934896
+**********************************
+Folder : 1 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199956.860625, valid_loss: 178955.893973
+train_f1: 0.937662, valid_f1: 0.934876
+**********************************
+Folder : 1 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199934.240000, valid_loss: 178942.262277
+train_f1: 0.937813, valid_f1: 0.935027
+save folder 1 global val max f1 model score 0.935027
+**********************************
+Folder : 1 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199919.455000, valid_loss: 178931.276786
+train_f1: 0.937864, valid_f1: 0.935107
+save folder 1 global val max f1 model score 0.935107
+**********************************
+Folder : 1 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199916.822500, valid_loss: 178932.669643
+train_f1: 0.937886, valid_f1: 0.934987
+**********************************
+Folder : 1 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199899.375625, valid_loss: 178911.863839
+train_f1: 0.938000, valid_f1: 0.935268
+save folder 1 global val max f1 model score 0.935268
+**********************************
+Folder : 1 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199880.293750, valid_loss: 178909.595982
+train_f1: 0.938180, valid_f1: 0.935324
+save folder 1 global val max f1 model score 0.935324
+**********************************
+Folder : 1 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199868.528750, valid_loss: 178895.679129
+train_f1: 0.938236, valid_f1: 0.935124
+**********************************
+Folder : 1 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199863.339375, valid_loss: 178890.162388
+train_f1: 0.938207, valid_f1: 0.935313
+**********************************
+Folder : 1 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 199863.061875, valid_loss: 178897.979911
+train_f1: 0.938183, valid_f1: 0.935358
+save folder 1 global val max f1 model score 0.935358
+**********************************
+Folder : 1 Epoch : 22
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199851.331875, valid_loss: 178883.203125
+train_f1: 0.938336, valid_f1: 0.935422
+save folder 1 global val max f1 model score 0.935422
+**********************************
+Folder : 1 Epoch : 23
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199840.307500, valid_loss: 178873.343192
+train_f1: 0.938449, valid_f1: 0.935388
+**********************************
+Folder : 1 Epoch : 24
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199828.006250, valid_loss: 178874.337054
+train_f1: 0.938526, valid_f1: 0.935389
+**********************************
+Folder : 1 Epoch : 25
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199825.288750, valid_loss: 178871.127232
+train_f1: 0.938542, valid_f1: 0.935487
+save folder 1 global val max f1 model score 0.935487
+**********************************
+Folder : 1 Epoch : 26
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199821.771875, valid_loss: 178870.805804
+train_f1: 0.938551, valid_f1: 0.935475
+**********************************
+Folder : 1 Epoch : 27
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199813.026250, valid_loss: 178867.769531
+train_f1: 0.938605, valid_f1: 0.935558
+save folder 1 global val max f1 model score 0.935558
+**********************************
+Folder : 1 Epoch : 28
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199810.591250, valid_loss: 178867.548549
+train_f1: 0.938632, valid_f1: 0.935469
+**********************************
+Folder : 1 Epoch : 29
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199809.426875, valid_loss: 178865.126116
+train_f1: 0.938681, valid_f1: 0.935540
+**********************************
+Folder : 1 Epoch : 30
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199806.283125, valid_loss: 178866.054688
+train_f1: 0.938709, valid_f1: 0.935612
+save folder 1 global val max f1 model score 0.935612
+**********************************
+Folder : 1 Epoch : 31
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199805.372500, valid_loss: 178861.617188
+train_f1: 0.938680, valid_f1: 0.935589
+**********************************
+Folder : 1 Epoch : 32
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199798.562500, valid_loss: 178862.131696
+train_f1: 0.938748, valid_f1: 0.935564
+**********************************
+Folder : 1 Epoch : 33
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199798.488750, valid_loss: 178865.911830
+train_f1: 0.938775, valid_f1: 0.935498
+**********************************
+Folder : 1 Epoch : 34
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199798.122500, valid_loss: 178861.666853
+train_f1: 0.938752, valid_f1: 0.935567
+**********************************
+Folder : 1 Epoch : 35
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199796.123125, valid_loss: 178860.767857
+train_f1: 0.938787, valid_f1: 0.935539
+**********************************
+Folder : 1 Epoch : 36
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199793.555000, valid_loss: 178860.370536
+train_f1: 0.938746, valid_f1: 0.935554
+**********************************
+Folder : 1 Epoch : 37
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199793.785000, valid_loss: 178860.516741
+train_f1: 0.938810, valid_f1: 0.935529
+**********************************
+Folder : 1 Epoch : 38
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199792.980625, valid_loss: 178859.713728
+train_f1: 0.938788, valid_f1: 0.935550
+**********************************
+Folder : 1 Epoch : 39
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199791.426875, valid_loss: 178859.719866
+train_f1: 0.938814, valid_f1: 0.935629
+save folder 1 global val max f1 model score 0.935629
+**********************************
+Folder : 1 Epoch : 40
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199790.698125, valid_loss: 178859.821429
+train_f1: 0.938849, valid_f1: 0.935585
+**********************************
+Folder : 1 Epoch : 41
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199790.051250, valid_loss: 178859.251674
+train_f1: 0.938845, valid_f1: 0.935513
+**********************************
+Folder : 1 Epoch : 42
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199789.597500, valid_loss: 178859.361607
+train_f1: 0.938841, valid_f1: 0.935562
+**********************************
+Folder : 1 Epoch : 43
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199789.352500, valid_loss: 178859.286830
+train_f1: 0.938832, valid_f1: 0.935523
+**********************************
+Folder : 1 Epoch : 44
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199788.642500, valid_loss: 178859.159598
+train_f1: 0.938832, valid_f1: 0.935510
+**********************************
+Folder : 1 Epoch : 45
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199788.540000, valid_loss: 178859.272879
+train_f1: 0.938827, valid_f1: 0.935525
+**********************************
+Folder : 1 Epoch : 46
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199788.407500, valid_loss: 178859.326451
+train_f1: 0.938841, valid_f1: 0.935560
+**********************************
+Folder : 1 Epoch : 47
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199788.211875, valid_loss: 178859.123884
+train_f1: 0.938850, valid_f1: 0.935528
+**********************************
+Folder : 1 Epoch : 48
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199787.885000, valid_loss: 178859.071987
+train_f1: 0.938831, valid_f1: 0.935532
+**********************************
+Folder : 1 Epoch : 49
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199787.727500, valid_loss: 178859.102121
+train_f1: 0.938831, valid_f1: 0.935537
+**********************************
+Folder : 1 Epoch : 50
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199787.693750, valid_loss: 178859.010045
+train_f1: 0.938850, valid_f1: 0.935531
+**********************************
+Folder : 1 Epoch : 51
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199787.572500, valid_loss: 178858.988839
+train_f1: 0.938847, valid_f1: 0.935542
+**********************************
+Folder : 1 Epoch : 52
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199787.423750, valid_loss: 178859.073661
+train_f1: 0.938861, valid_f1: 0.935527
+**********************************
+Folder : 1 Epoch : 53
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199787.371875, valid_loss: 178859.021763
+train_f1: 0.938857, valid_f1: 0.935548
+**********************************
+Folder : 1 Epoch : 54
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199787.311250, valid_loss: 178858.972656
+train_f1: 0.938852, valid_f1: 0.935521
+**********************************
+Folder : 1 Epoch : 55
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199787.268750, valid_loss: 178859.011161
+train_f1: 0.938851, valid_f1: 0.935549
+**********************************
+Folder : 1 Epoch : 56
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199787.148125, valid_loss: 178858.982143
+train_f1: 0.938850, valid_f1: 0.935529
+**********************************
+Folder : 1 Epoch : 57
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199787.121875, valid_loss: 178858.958705
+train_f1: 0.938852, valid_f1: 0.935547
+**********************************
+Folder : 1 Epoch : 58
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199787.099375, valid_loss: 178858.935826
+train_f1: 0.938850, valid_f1: 0.935529
+**********************************
+Folder : 1 Epoch : 59
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199787.078750, valid_loss: 178858.937500
+train_f1: 0.938846, valid_f1: 0.935519
+**********************************
+Folder : 1 Epoch : 60
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199787.037500, valid_loss: 178858.922991
+train_f1: 0.938852, valid_f1: 0.935527
+**********************************
+Folder : 1 Epoch : 61
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199787.018125, valid_loss: 178858.960938
+train_f1: 0.938855, valid_f1: 0.935525
+**********************************
+Folder : 1 Epoch : 62
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199787.020000, valid_loss: 178858.927455
+train_f1: 0.938858, valid_f1: 0.935525
+**********************************
+Folder : 1 Epoch : 63
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199786.984375, valid_loss: 178858.936384
+train_f1: 0.938851, valid_f1: 0.935523
+**********************************
+Folder : 1 Epoch : 64
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199786.966250, valid_loss: 178858.935826
+train_f1: 0.938851, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 65
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199786.950000, valid_loss: 178858.938058
+train_f1: 0.938856, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 66
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199786.956250, valid_loss: 178858.916853
+train_f1: 0.938850, valid_f1: 0.935526
+**********************************
+Folder : 1 Epoch : 67
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199786.945625, valid_loss: 178858.924107
+train_f1: 0.938852, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 68
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199786.928125, valid_loss: 178858.924107
+train_f1: 0.938851, valid_f1: 0.935521
+**********************************
+Folder : 1 Epoch : 69
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199786.921250, valid_loss: 178858.919643
+train_f1: 0.938854, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 70
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199786.921250, valid_loss: 178858.922433
+train_f1: 0.938854, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 71
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199786.918125, valid_loss: 178858.917411
+train_f1: 0.938851, valid_f1: 0.935523
+**********************************
+Folder : 1 Epoch : 72
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199786.909375, valid_loss: 178858.918527
+train_f1: 0.938854, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 73
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199786.905000, valid_loss: 178858.917969
+train_f1: 0.938853, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 74
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199786.905625, valid_loss: 178858.917969
+train_f1: 0.938852, valid_f1: 0.935520
+**********************************
+Folder : 1 Epoch : 75
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199786.906250, valid_loss: 178858.915179
+train_f1: 0.938853, valid_f1: 0.935522
+**********************************
+Folder : 1 Epoch : 76
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199786.896875, valid_loss: 178858.915179
+train_f1: 0.938854, valid_f1: 0.935523
+**********************************
+Folder : 1 Epoch : 77
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199786.895000, valid_loss: 178858.921875
+train_f1: 0.938853, valid_f1: 0.935522
+**********************************
+Folder : 1 Epoch : 78
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199786.898125, valid_loss: 178858.919085
+train_f1: 0.938854, valid_f1: 0.935522
+**********************************
+Folder : 1 Epoch : 79
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199786.897500, valid_loss: 178858.919643
+train_f1: 0.938854, valid_f1: 0.935520
+Early Stopping
+folder 1 global best val max f1 model score 0.935629
+Folder 1 finally best global max f1 score is 0.9356287331522481
+Fold : 2
+**********************************
+Folder : 2 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 321866.251250, valid_loss: 254266.866071
+train_f1: 0.103829, valid_f1: 0.192441
+save folder 2 global val max f1 model score 0.192441
+**********************************
+Folder : 2 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 190149.796250, valid_loss: 122173.011108
+train_f1: 0.254062, valid_f1: 0.327960
+save folder 2 global val max f1 model score 0.327960
+**********************************
+Folder : 2 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 94081.639688, valid_loss: 50991.258270
+train_f1: 0.423541, valid_f1: 0.560086
+save folder 2 global val max f1 model score 0.560086
+**********************************
+Folder : 2 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 39947.347031, valid_loss: 22047.267630
+train_f1: 0.652359, valid_f1: 0.751489
+save folder 2 global val max f1 model score 0.751489
+**********************************
+Folder : 2 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 18106.925508, valid_loss: 10495.502069
+train_f1: 0.804709, valid_f1: 0.840735
+save folder 2 global val max f1 model score 0.840735
+**********************************
+Folder : 2 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 12605.400664, valid_loss: 8925.528508
+train_f1: 0.860881, valid_f1: 0.915921
+save folder 2 global val max f1 model score 0.915921
+**********************************
+Folder : 2 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 206594.118750, valid_loss: 181211.760045
+train_f1: 0.860759, valid_f1: 0.847037
+**********************************
+Folder : 2 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 35298.715937, valid_loss: 18108.023669
+train_f1: 0.808615, valid_f1: 0.806228
+**********************************
+Folder : 2 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 14814.338320, valid_loss: 9067.837280
+train_f1: 0.905796, valid_f1: 0.932344
+save folder 2 global val max f1 model score 0.932344
+**********************************
+Folder : 2 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 206965.307500, valid_loss: 181701.376116
+train_f1: 0.928273, valid_f1: 0.931829
+**********************************
+Folder : 2 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 202650.263750, valid_loss: 179900.636161
+train_f1: 0.932697, valid_f1: 0.935941
+save folder 2 global val max f1 model score 0.935941
+**********************************
+Folder : 2 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 201407.045625, valid_loss: 179303.949777
+train_f1: 0.933733, valid_f1: 0.936850
+save folder 2 global val max f1 model score 0.936850
+**********************************
+Folder : 2 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200957.294375, valid_loss: 179036.444754
+train_f1: 0.934498, valid_f1: 0.937030
+save folder 2 global val max f1 model score 0.937030
+**********************************
+Folder : 2 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200731.648750, valid_loss: 178891.258929
+train_f1: 0.934904, valid_f1: 0.937489
+save folder 2 global val max f1 model score 0.937489
+**********************************
+Folder : 2 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200598.827500, valid_loss: 178798.825893
+train_f1: 0.935232, valid_f1: 0.937357
+**********************************
+Folder : 2 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200511.305000, valid_loss: 178731.253348
+train_f1: 0.935353, valid_f1: 0.937752
+save folder 2 global val max f1 model score 0.937752
+**********************************
+Folder : 2 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200445.986875, valid_loss: 178682.943080
+train_f1: 0.935541, valid_f1: 0.937849
+save folder 2 global val max f1 model score 0.937849
+**********************************
+Folder : 2 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200394.205000, valid_loss: 178643.178571
+train_f1: 0.935692, valid_f1: 0.938022
+save folder 2 global val max f1 model score 0.938022
+**********************************
+Folder : 2 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200353.475000, valid_loss: 178616.308594
+train_f1: 0.935771, valid_f1: 0.938115
+save folder 2 global val max f1 model score 0.938115
+**********************************
+Folder : 2 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200325.320000, valid_loss: 178592.390625
+train_f1: 0.935750, valid_f1: 0.938020
+**********************************
+Folder : 2 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200294.883750, valid_loss: 178572.638393
+train_f1: 0.936007, valid_f1: 0.938123
+save folder 2 global val max f1 model score 0.938123
+**********************************
+Folder : 2 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200271.761875, valid_loss: 178551.607701
+train_f1: 0.936046, valid_f1: 0.938270
+save folder 2 global val max f1 model score 0.938270
+**********************************
+Folder : 2 Epoch : 22
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200252.495625, valid_loss: 178537.138393
+train_f1: 0.936050, valid_f1: 0.938485
+save folder 2 global val max f1 model score 0.938485
+**********************************
+Folder : 2 Epoch : 23
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200234.533750, valid_loss: 178532.554129
+train_f1: 0.936096, valid_f1: 0.938452
+**********************************
+Folder : 2 Epoch : 24
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200214.191875, valid_loss: 178514.342076
+train_f1: 0.936320, valid_f1: 0.938435
+**********************************
+Folder : 2 Epoch : 25
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200198.765000, valid_loss: 178504.790737
+train_f1: 0.936347, valid_f1: 0.938548
+save folder 2 global val max f1 model score 0.938548
+**********************************
+Folder : 2 Epoch : 26
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200183.838125, valid_loss: 178493.446429
+train_f1: 0.936418, valid_f1: 0.938643
+save folder 2 global val max f1 model score 0.938643
+**********************************
+Folder : 2 Epoch : 27
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200170.853750, valid_loss: 178484.829241
+train_f1: 0.936530, valid_f1: 0.938624
+**********************************
+Folder : 2 Epoch : 28
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200157.370000, valid_loss: 178473.669085
+train_f1: 0.936566, valid_f1: 0.938590
+**********************************
+Folder : 2 Epoch : 29
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200149.630625, valid_loss: 178477.309152
+train_f1: 0.936548, valid_f1: 0.938621
+**********************************
+Folder : 2 Epoch : 30
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200138.325625, valid_loss: 178464.896205
+train_f1: 0.936677, valid_f1: 0.938758
+save folder 2 global val max f1 model score 0.938758
+**********************************
+Folder : 2 Epoch : 31
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200125.644375, valid_loss: 178459.254464
+train_f1: 0.936822, valid_f1: 0.938784
+save folder 2 global val max f1 model score 0.938784
+**********************************
+Folder : 2 Epoch : 32
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200118.975625, valid_loss: 178460.261719
+train_f1: 0.936808, valid_f1: 0.938615
+**********************************
+Folder : 2 Epoch : 33
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200123.068750, valid_loss: 178451.338170
+train_f1: 0.936717, valid_f1: 0.938753
+**********************************
+Folder : 2 Epoch : 34
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200096.441875, valid_loss: 178440.011161
+train_f1: 0.936928, valid_f1: 0.938783
+**********************************
+Folder : 2 Epoch : 35
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200079.798125, valid_loss: 178449.194196
+train_f1: 0.937035, valid_f1: 0.938439
+**********************************
+Folder : 2 Epoch : 36
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200071.676875, valid_loss: 178435.976562
+train_f1: 0.937044, valid_f1: 0.938679
+**********************************
+Folder : 2 Epoch : 37
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200063.915000, valid_loss: 178432.806362
+train_f1: 0.937209, valid_f1: 0.938807
+save folder 2 global val max f1 model score 0.938807
+**********************************
+Folder : 2 Epoch : 38
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200058.304375, valid_loss: 178434.810268
+train_f1: 0.937183, valid_f1: 0.938682
+**********************************
+Folder : 2 Epoch : 39
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200049.335000, valid_loss: 178425.375000
+train_f1: 0.937292, valid_f1: 0.938892
+save folder 2 global val max f1 model score 0.938892
+**********************************
+Folder : 2 Epoch : 40
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200044.591875, valid_loss: 178428.989955
+train_f1: 0.937270, valid_f1: 0.938719
+**********************************
+Folder : 2 Epoch : 41
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200042.128125, valid_loss: 178426.155134
+train_f1: 0.937353, valid_f1: 0.938852
+**********************************
+Folder : 2 Epoch : 42
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200039.827500, valid_loss: 178423.742746
+train_f1: 0.937324, valid_f1: 0.938862
+**********************************
+Folder : 2 Epoch : 43
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200036.562500, valid_loss: 178422.733817
+train_f1: 0.937351, valid_f1: 0.938784
+**********************************
+Folder : 2 Epoch : 44
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200031.596250, valid_loss: 178421.984375
+train_f1: 0.937399, valid_f1: 0.938908
+save folder 2 global val max f1 model score 0.938908
+**********************************
+Folder : 2 Epoch : 45
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200029.894375, valid_loss: 178421.337054
+train_f1: 0.937459, valid_f1: 0.938785
+**********************************
+Folder : 2 Epoch : 46
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200027.871875, valid_loss: 178420.159040
+train_f1: 0.937471, valid_f1: 0.938794
+**********************************
+Folder : 2 Epoch : 47
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200026.607500, valid_loss: 178419.125000
+train_f1: 0.937460, valid_f1: 0.938803
+**********************************
+Folder : 2 Epoch : 48
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200024.659375, valid_loss: 178418.147321
+train_f1: 0.937485, valid_f1: 0.938865
+**********************************
+Folder : 2 Epoch : 49
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200023.793750, valid_loss: 178419.001674
+train_f1: 0.937474, valid_f1: 0.938848
+**********************************
+Folder : 2 Epoch : 50
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200022.430000, valid_loss: 178419.056920
+train_f1: 0.937501, valid_f1: 0.938830
+**********************************
+Folder : 2 Epoch : 51
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200021.741250, valid_loss: 178417.966518
+train_f1: 0.937479, valid_f1: 0.938860
+**********************************
+Folder : 2 Epoch : 52
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200020.335000, valid_loss: 178418.067522
+train_f1: 0.937523, valid_f1: 0.938832
+**********************************
+Folder : 2 Epoch : 53
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200019.816250, valid_loss: 178417.216518
+train_f1: 0.937514, valid_f1: 0.938853
+**********************************
+Folder : 2 Epoch : 54
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200019.280625, valid_loss: 178417.462054
+train_f1: 0.937518, valid_f1: 0.938851
+**********************************
+Folder : 2 Epoch : 55
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200018.856875, valid_loss: 178417.223772
+train_f1: 0.937509, valid_f1: 0.938876
+**********************************
+Folder : 2 Epoch : 56
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200018.187500, valid_loss: 178417.085938
+train_f1: 0.937536, valid_f1: 0.938863
+**********************************
+Folder : 2 Epoch : 57
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200017.965625, valid_loss: 178417.129464
+train_f1: 0.937521, valid_f1: 0.938870
+**********************************
+Folder : 2 Epoch : 58
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200017.745625, valid_loss: 178416.844308
+train_f1: 0.937553, valid_f1: 0.938860
+**********************************
+Folder : 2 Epoch : 59
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200017.460000, valid_loss: 178416.701451
+train_f1: 0.937538, valid_f1: 0.938874
+**********************************
+Folder : 2 Epoch : 60
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200017.143125, valid_loss: 178416.922991
+train_f1: 0.937537, valid_f1: 0.938895
+**********************************
+Folder : 2 Epoch : 61
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200017.038750, valid_loss: 178416.642299
+train_f1: 0.937551, valid_f1: 0.938883
+**********************************
+Folder : 2 Epoch : 62
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200016.899375, valid_loss: 178416.676897
+train_f1: 0.937548, valid_f1: 0.938886
+**********************************
+Folder : 2 Epoch : 63
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200016.798750, valid_loss: 178416.766741
+train_f1: 0.937542, valid_f1: 0.938894
+**********************************
+Folder : 2 Epoch : 64
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200016.646875, valid_loss: 178416.648996
+train_f1: 0.937551, valid_f1: 0.938888
+**********************************
+Folder : 2 Epoch : 65
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200016.540000, valid_loss: 178416.752790
+train_f1: 0.937551, valid_f1: 0.938888
+**********************************
+Folder : 2 Epoch : 66
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200016.561250, valid_loss: 178416.712612
+train_f1: 0.937549, valid_f1: 0.938890
+**********************************
+Folder : 2 Epoch : 67
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200016.402500, valid_loss: 178416.643973
+train_f1: 0.937557, valid_f1: 0.938884
+**********************************
+Folder : 2 Epoch : 68
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200016.301875, valid_loss: 178416.619978
+train_f1: 0.937541, valid_f1: 0.938889
+**********************************
+Folder : 2 Epoch : 69
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200016.255625, valid_loss: 178416.631696
+train_f1: 0.937544, valid_f1: 0.938885
+**********************************
+Folder : 2 Epoch : 70
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200016.231875, valid_loss: 178416.581473
+train_f1: 0.937545, valid_f1: 0.938890
+**********************************
+Folder : 2 Epoch : 71
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200016.193125, valid_loss: 178416.580915
+train_f1: 0.937550, valid_f1: 0.938893
+**********************************
+Folder : 2 Epoch : 72
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200016.147500, valid_loss: 178416.593192
+train_f1: 0.937544, valid_f1: 0.938887
+**********************************
+Folder : 2 Epoch : 73
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200016.132500, valid_loss: 178416.565848
+train_f1: 0.937548, valid_f1: 0.938893
+**********************************
+Folder : 2 Epoch : 74
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200016.112500, valid_loss: 178416.536830
+train_f1: 0.937553, valid_f1: 0.938873
+**********************************
+Folder : 2 Epoch : 75
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200016.101875, valid_loss: 178416.554688
+train_f1: 0.937555, valid_f1: 0.938893
+**********************************
+Folder : 2 Epoch : 76
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200016.069375, valid_loss: 178416.544085
+train_f1: 0.937552, valid_f1: 0.938893
+**********************************
+Folder : 2 Epoch : 77
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200016.064375, valid_loss: 178416.541295
+train_f1: 0.937552, valid_f1: 0.938891
+**********************************
+Folder : 2 Epoch : 78
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200016.048125, valid_loss: 178416.546875
+train_f1: 0.937550, valid_f1: 0.938891
+**********************************
+Folder : 2 Epoch : 79
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200016.048750, valid_loss: 178416.548549
+train_f1: 0.937553, valid_f1: 0.938880
+**********************************
+Folder : 2 Epoch : 80
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200016.028750, valid_loss: 178416.531250
+train_f1: 0.937550, valid_f1: 0.938891
+**********************************
+Folder : 2 Epoch : 81
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200016.020000, valid_loss: 178416.534040
+train_f1: 0.937550, valid_f1: 0.938893
+**********************************
+Folder : 2 Epoch : 82
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200016.017500, valid_loss: 178416.536272
+train_f1: 0.937549, valid_f1: 0.938891
+**********************************
+Folder : 2 Epoch : 83
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200016.011875, valid_loss: 178416.544643
+train_f1: 0.937552, valid_f1: 0.938882
+**********************************
+Folder : 2 Epoch : 84
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 200016.005000, valid_loss: 178416.534598
+train_f1: 0.937551, valid_f1: 0.938891
+Early Stopping
+folder 2 global best val max f1 model score 0.938908
+Folder 2 finally best global max f1 score is 0.9389075676725809
+Fold : 3
+**********************************
+Folder : 3 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 311233.475000, valid_loss: 245970.883929
+train_f1: 0.130587, valid_f1: 0.195014
+save folder 3 global val max f1 model score 0.195014
+**********************************
+Folder : 3 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 124744.006406, valid_loss: 58238.234375
+train_f1: 0.362611, valid_f1: 0.477026
+save folder 3 global val max f1 model score 0.477026
+**********************************
+Folder : 3 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 42578.439453, valid_loss: 21153.666792
+train_f1: 0.635105, valid_f1: 0.707807
+save folder 3 global val max f1 model score 0.707807
+**********************************
+Folder : 3 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 20227.722813, valid_loss: 15905.609419
+train_f1: 0.796155, valid_f1: 0.813287
+save folder 3 global val max f1 model score 0.813287
+**********************************
+Folder : 3 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 66650.804609, valid_loss: 48124.354510
+train_f1: 0.748612, valid_f1: 0.715837
+**********************************
+Folder : 3 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 44392.065391, valid_loss: 14711.520604
+train_f1: 0.790134, valid_f1: 0.910828
+save folder 3 global val max f1 model score 0.910828
+**********************************
+Folder : 3 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 214837.658125, valid_loss: 183684.637835
+train_f1: 0.900737, valid_f1: 0.924917
+save folder 3 global val max f1 model score 0.924917
+**********************************
+Folder : 3 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 204170.604375, valid_loss: 180595.383929
+train_f1: 0.926428, valid_f1: 0.930673
+save folder 3 global val max f1 model score 0.930673
+**********************************
+Folder : 3 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 201999.603125, valid_loss: 179632.232143
+train_f1: 0.931491, valid_f1: 0.933439
+save folder 3 global val max f1 model score 0.933439
+**********************************
+Folder : 3 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 201280.261875, valid_loss: 179250.460938
+train_f1: 0.933214, valid_f1: 0.934241
+save folder 3 global val max f1 model score 0.934241
+**********************************
+Folder : 3 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200945.727500, valid_loss: 179042.477679
+train_f1: 0.934136, valid_f1: 0.935108
+save folder 3 global val max f1 model score 0.935108
+**********************************
+Folder : 3 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200743.277500, valid_loss: 178910.664062
+train_f1: 0.934792, valid_f1: 0.935368
+save folder 3 global val max f1 model score 0.935368
+**********************************
+Folder : 3 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200611.758125, valid_loss: 178814.259487
+train_f1: 0.935205, valid_f1: 0.935740
+save folder 3 global val max f1 model score 0.935740
+**********************************
+Folder : 3 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200524.816250, valid_loss: 178752.407366
+train_f1: 0.935463, valid_f1: 0.935947
+save folder 3 global val max f1 model score 0.935947
+**********************************
+Folder : 3 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200448.780625, valid_loss: 178696.578683
+train_f1: 0.935724, valid_f1: 0.936232
+save folder 3 global val max f1 model score 0.936232
+**********************************
+Folder : 3 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200393.927500, valid_loss: 178665.703683
+train_f1: 0.935992, valid_f1: 0.936237
+save folder 3 global val max f1 model score 0.936237
+**********************************
+Folder : 3 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200351.851250, valid_loss: 178632.920759
+train_f1: 0.936063, valid_f1: 0.936359
+save folder 3 global val max f1 model score 0.936359
+**********************************
+Folder : 3 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200315.983750, valid_loss: 178606.841518
+train_f1: 0.936229, valid_f1: 0.936352
+**********************************
+Folder : 3 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200287.951875, valid_loss: 178588.785714
+train_f1: 0.936321, valid_f1: 0.936539
+save folder 3 global val max f1 model score 0.936539
+**********************************
+Folder : 3 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200260.625625, valid_loss: 178563.959263
+train_f1: 0.936473, valid_f1: 0.936711
+save folder 3 global val max f1 model score 0.936711
+**********************************
+Folder : 3 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200238.017500, valid_loss: 178548.945312
+train_f1: 0.936588, valid_f1: 0.936722
+save folder 3 global val max f1 model score 0.936722
+**********************************
+Folder : 3 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200220.464375, valid_loss: 178537.797991
+train_f1: 0.936644, valid_f1: 0.936665
+**********************************
+Folder : 3 Epoch : 22
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200201.692500, valid_loss: 178530.324777
+train_f1: 0.936690, valid_f1: 0.936683
+**********************************
+Folder : 3 Epoch : 23
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200185.871250, valid_loss: 178514.019531
+train_f1: 0.936808, valid_f1: 0.936782
+save folder 3 global val max f1 model score 0.936782
+**********************************
+Folder : 3 Epoch : 24
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200171.149375, valid_loss: 178508.107143
+train_f1: 0.936879, valid_f1: 0.936892
+save folder 3 global val max f1 model score 0.936892
+**********************************
+Folder : 3 Epoch : 25
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200162.798750, valid_loss: 178502.008929
+train_f1: 0.936928, valid_f1: 0.936904
+save folder 3 global val max f1 model score 0.936904
+**********************************
+Folder : 3 Epoch : 26
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200153.168750, valid_loss: 178497.131696
+train_f1: 0.936998, valid_f1: 0.936963
+save folder 3 global val max f1 model score 0.936963
+**********************************
+Folder : 3 Epoch : 27
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200146.418750, valid_loss: 178493.478795
+train_f1: 0.937030, valid_f1: 0.936956
+**********************************
+Folder : 3 Epoch : 28
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200137.371875, valid_loss: 178487.953125
+train_f1: 0.937051, valid_f1: 0.937030
+save folder 3 global val max f1 model score 0.937030
+**********************************
+Folder : 3 Epoch : 29
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200129.011250, valid_loss: 178481.967634
+train_f1: 0.937115, valid_f1: 0.936966
+**********************************
+Folder : 3 Epoch : 30
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200120.339375, valid_loss: 178483.715402
+train_f1: 0.937165, valid_f1: 0.937000
+**********************************
+Folder : 3 Epoch : 31
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200112.914375, valid_loss: 178474.747768
+train_f1: 0.937223, valid_f1: 0.937008
+**********************************
+Folder : 3 Epoch : 32
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200105.511250, valid_loss: 178470.910714
+train_f1: 0.937270, valid_f1: 0.937032
+save folder 3 global val max f1 model score 0.937032
+**********************************
+Folder : 3 Epoch : 33
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200095.818750, valid_loss: 178469.227679
+train_f1: 0.937325, valid_f1: 0.937130
+save folder 3 global val max f1 model score 0.937130
+**********************************
+Folder : 3 Epoch : 34
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200092.780000, valid_loss: 178466.487723
+train_f1: 0.937324, valid_f1: 0.937067
+**********************************
+Folder : 3 Epoch : 35
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200088.792500, valid_loss: 178464.878348
+train_f1: 0.937347, valid_f1: 0.937123
+**********************************
+Folder : 3 Epoch : 36
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200085.638750, valid_loss: 178460.142857
+train_f1: 0.937359, valid_f1: 0.937169
+save folder 3 global val max f1 model score 0.937169
+**********************************
+Folder : 3 Epoch : 37
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 200081.593125, valid_loss: 178462.234933
+train_f1: 0.937418, valid_f1: 0.937149
+**********************************
+Folder : 3 Epoch : 38
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200078.358750, valid_loss: 178458.124442
+train_f1: 0.937401, valid_f1: 0.937187
+save folder 3 global val max f1 model score 0.937187
+**********************************
+Folder : 3 Epoch : 39
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200076.302500, valid_loss: 178456.483259
+train_f1: 0.937425, valid_f1: 0.937229
+save folder 3 global val max f1 model score 0.937229
+**********************************
+Folder : 3 Epoch : 40
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200075.284375, valid_loss: 178455.478795
+train_f1: 0.937491, valid_f1: 0.937235
+save folder 3 global val max f1 model score 0.937235
+**********************************
+Folder : 3 Epoch : 41
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200072.791250, valid_loss: 178454.214286
+train_f1: 0.937434, valid_f1: 0.937202
+**********************************
+Folder : 3 Epoch : 42
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200071.897500, valid_loss: 178453.529018
+train_f1: 0.937489, valid_f1: 0.937245
+save folder 3 global val max f1 model score 0.937245
+**********************************
+Folder : 3 Epoch : 43
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 200069.893750, valid_loss: 178452.313616
+train_f1: 0.937484, valid_f1: 0.937219
+**********************************
+Folder : 3 Epoch : 44
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200067.906250, valid_loss: 178452.958705
+train_f1: 0.937522, valid_f1: 0.937195
+**********************************
+Folder : 3 Epoch : 45
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200067.046250, valid_loss: 178451.645647
+train_f1: 0.937504, valid_f1: 0.937207
+**********************************
+Folder : 3 Epoch : 46
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200066.124375, valid_loss: 178451.077567
+train_f1: 0.937519, valid_f1: 0.937218
+**********************************
+Folder : 3 Epoch : 47
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 200065.298125, valid_loss: 178450.733817
+train_f1: 0.937513, valid_f1: 0.937228
+**********************************
+Folder : 3 Epoch : 48
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200064.290000, valid_loss: 178450.633929
+train_f1: 0.937532, valid_f1: 0.937240
+**********************************
+Folder : 3 Epoch : 49
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200064.076250, valid_loss: 178449.765625
+train_f1: 0.937555, valid_f1: 0.937248
+save folder 3 global val max f1 model score 0.937248
+**********************************
+Folder : 3 Epoch : 50
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200063.588750, valid_loss: 178450.190848
+train_f1: 0.937519, valid_f1: 0.937226
+**********************************
+Folder : 3 Epoch : 51
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 200063.008125, valid_loss: 178449.627232
+train_f1: 0.937564, valid_f1: 0.937256
+save folder 3 global val max f1 model score 0.937256
+**********************************
+Folder : 3 Epoch : 52
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200062.555000, valid_loss: 178449.377232
+train_f1: 0.937556, valid_f1: 0.937271
+save folder 3 global val max f1 model score 0.937271
+**********************************
+Folder : 3 Epoch : 53
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200062.143750, valid_loss: 178449.637277
+train_f1: 0.937560, valid_f1: 0.937238
+**********************************
+Folder : 3 Epoch : 54
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200062.042500, valid_loss: 178449.324777
+train_f1: 0.937558, valid_f1: 0.937220
+**********************************
+Folder : 3 Epoch : 55
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 200061.796250, valid_loss: 178449.119420
+train_f1: 0.937544, valid_f1: 0.937257
+**********************************
+Folder : 3 Epoch : 56
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200061.516250, valid_loss: 178449.003348
+train_f1: 0.937562, valid_f1: 0.937260
+**********************************
+Folder : 3 Epoch : 57
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200061.403750, valid_loss: 178449.148438
+train_f1: 0.937556, valid_f1: 0.937254
+**********************************
+Folder : 3 Epoch : 58
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200061.271875, valid_loss: 178448.892299
+train_f1: 0.937562, valid_f1: 0.937249
+**********************************
+Folder : 3 Epoch : 59
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 200061.156250, valid_loss: 178448.801897
+train_f1: 0.937560, valid_f1: 0.937250
+**********************************
+Folder : 3 Epoch : 60
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200060.995625, valid_loss: 178448.893973
+train_f1: 0.937563, valid_f1: 0.937245
+**********************************
+Folder : 3 Epoch : 61
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200060.957500, valid_loss: 178448.898438
+train_f1: 0.937561, valid_f1: 0.937251
+**********************************
+Folder : 3 Epoch : 62
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200060.892500, valid_loss: 178448.789062
+train_f1: 0.937567, valid_f1: 0.937250
+**********************************
+Folder : 3 Epoch : 63
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 200060.834375, valid_loss: 178448.696429
+train_f1: 0.937566, valid_f1: 0.937255
+**********************************
+Folder : 3 Epoch : 64
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200060.752500, valid_loss: 178448.696987
+train_f1: 0.937567, valid_f1: 0.937258
+**********************************
+Folder : 3 Epoch : 65
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200060.702500, valid_loss: 178448.656250
+train_f1: 0.937567, valid_f1: 0.937255
+**********************************
+Folder : 3 Epoch : 66
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200060.678125, valid_loss: 178448.631138
+train_f1: 0.937569, valid_f1: 0.937252
+**********************************
+Folder : 3 Epoch : 67
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 200060.673750, valid_loss: 178448.702009
+train_f1: 0.937560, valid_f1: 0.937259
+**********************************
+Folder : 3 Epoch : 68
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200060.597500, valid_loss: 178448.648438
+train_f1: 0.937568, valid_f1: 0.937261
+**********************************
+Folder : 3 Epoch : 69
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200060.575625, valid_loss: 178448.632254
+train_f1: 0.937569, valid_f1: 0.937261
+**********************************
+Folder : 3 Epoch : 70
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200060.564375, valid_loss: 178448.622768
+train_f1: 0.937569, valid_f1: 0.937261
+**********************************
+Folder : 3 Epoch : 71
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 200060.544375, valid_loss: 178448.600446
+train_f1: 0.937570, valid_f1: 0.937259
+**********************************
+Folder : 3 Epoch : 72
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200060.523750, valid_loss: 178448.588170
+train_f1: 0.937570, valid_f1: 0.937260
+**********************************
+Folder : 3 Epoch : 73
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200060.516250, valid_loss: 178448.597098
+train_f1: 0.937571, valid_f1: 0.937263
+**********************************
+Folder : 3 Epoch : 74
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200060.508750, valid_loss: 178448.597098
+train_f1: 0.937570, valid_f1: 0.937261
+**********************************
+Folder : 3 Epoch : 75
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 200060.493750, valid_loss: 178448.594308
+train_f1: 0.937572, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 76
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200060.483125, valid_loss: 178448.581473
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 77
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200060.480625, valid_loss: 178448.577567
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 78
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200060.476250, valid_loss: 178448.573661
+train_f1: 0.937570, valid_f1: 0.937263
+**********************************
+Folder : 3 Epoch : 79
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 200060.471250, valid_loss: 178448.571429
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 80
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 200060.468750, valid_loss: 178448.571429
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 81
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 200060.460625, valid_loss: 178448.566406
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 82
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 200060.465000, valid_loss: 178448.568638
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 83
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 200060.459375, valid_loss: 178448.566964
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 84
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 200060.458125, valid_loss: 178448.565848
+train_f1: 0.937571, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 85
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 200060.454375, valid_loss: 178448.562500
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 86
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 200060.452500, valid_loss: 178448.565848
+train_f1: 0.937572, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 87
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 200060.456250, valid_loss: 178448.566406
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 88
+Curr learning_rate: 0.000000031
+EVALUATION
+train_loss: 200060.456250, valid_loss: 178448.566406
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 89
+Curr learning_rate: 0.000000031
+EVALUATION
+train_loss: 200060.453750, valid_loss: 178448.562500
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 90
+Curr learning_rate: 0.000000031
+EVALUATION
+train_loss: 200060.453125, valid_loss: 178448.566964
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 91
+Curr learning_rate: 0.000000031
+EVALUATION
+train_loss: 200060.455000, valid_loss: 178448.566964
+train_f1: 0.937570, valid_f1: 0.937262
+**********************************
+Folder : 3 Epoch : 92
+Curr learning_rate: 0.000000015
+EVALUATION
+train_loss: 200060.451875, valid_loss: 178448.566964
+train_f1: 0.937570, valid_f1: 0.937262
+Early Stopping
+folder 3 global best val max f1 model score 0.937271
+Folder 3 finally best global max f1 score is 0.9372708723498113
+Fold : 4
+**********************************
+Folder : 4 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 322987.492500, valid_loss: 257873.686384
+train_f1: 0.083962, valid_f1: 0.190286
+save folder 4 global val max f1 model score 0.190286
+**********************************
+Folder : 4 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 151239.737187, valid_loss: 108250.439575
+train_f1: 0.297063, valid_f1: 0.328993
+save folder 4 global val max f1 model score 0.328993
+**********************************
+Folder : 4 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 68504.420313, valid_loss: 37363.300812
+train_f1: 0.521405, valid_f1: 0.598255
+save folder 4 global val max f1 model score 0.598255
+**********************************
+Folder : 4 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 27501.924492, valid_loss: 16622.529092
+train_f1: 0.736380, valid_f1: 0.808881
+save folder 4 global val max f1 model score 0.808881
+**********************************
+Folder : 4 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 14995.798945, valid_loss: 12716.215271
+train_f1: 0.818885, valid_f1: 0.831214
+save folder 4 global val max f1 model score 0.831214
+**********************************
+Folder : 4 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 11469.226035, valid_loss: 10368.077897
+train_f1: 0.855709, valid_f1: 0.915667
+save folder 4 global val max f1 model score 0.915667
+**********************************
+Folder : 4 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 206432.366250, valid_loss: 181961.181920
+train_f1: 0.855839, valid_f1: 0.841277
+**********************************
+Folder : 4 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 14096.853145, valid_loss: 9388.098162
+train_f1: 0.881994, valid_f1: 0.928248
+save folder 4 global val max f1 model score 0.928248
+**********************************
+Folder : 4 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 205168.924375, valid_loss: 180859.315848
+train_f1: 0.917062, valid_f1: 0.916648
+**********************************
+Folder : 4 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 201408.887500, valid_loss: 179564.729911
+train_f1: 0.932560, valid_f1: 0.934118
+save folder 4 global val max f1 model score 0.934118
+**********************************
+Folder : 4 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200651.338125, valid_loss: 179234.929688
+train_f1: 0.934768, valid_f1: 0.934844
+save folder 4 global val max f1 model score 0.934844
+**********************************
+Folder : 4 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200425.995625, valid_loss: 179100.109933
+train_f1: 0.935601, valid_f1: 0.935442
+save folder 4 global val max f1 model score 0.935442
+**********************************
+Folder : 4 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200324.262500, valid_loss: 179035.479911
+train_f1: 0.936012, valid_f1: 0.935694
+save folder 4 global val max f1 model score 0.935694
+**********************************
+Folder : 4 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200246.000000, valid_loss: 178973.832589
+train_f1: 0.936282, valid_f1: 0.936191
+save folder 4 global val max f1 model score 0.936191
+**********************************
+Folder : 4 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200192.901875, valid_loss: 178930.250558
+train_f1: 0.936577, valid_f1: 0.936058
+**********************************
+Folder : 4 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200159.342500, valid_loss: 178940.919085
+train_f1: 0.936727, valid_f1: 0.936085
+**********************************
+Folder : 4 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200133.190000, valid_loss: 178876.789062
+train_f1: 0.936798, valid_f1: 0.936205
+save folder 4 global val max f1 model score 0.936205
+**********************************
+Folder : 4 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200090.796875, valid_loss: 178864.704241
+train_f1: 0.937037, valid_f1: 0.936508
+save folder 4 global val max f1 model score 0.936508
+**********************************
+Folder : 4 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200072.288750, valid_loss: 178844.218192
+train_f1: 0.937127, valid_f1: 0.936365
+**********************************
+Folder : 4 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200056.569375, valid_loss: 178824.337612
+train_f1: 0.937161, valid_f1: 0.936505
+**********************************
+Folder : 4 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200037.250000, valid_loss: 178816.970982
+train_f1: 0.937230, valid_f1: 0.936599
+save folder 4 global val max f1 model score 0.936599
+**********************************
+Folder : 4 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 200017.700000, valid_loss: 178805.757812
+train_f1: 0.937462, valid_f1: 0.936588
+**********************************
+Folder : 4 Epoch : 22
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199997.226250, valid_loss: 178794.339844
+train_f1: 0.937572, valid_f1: 0.936651
+save folder 4 global val max f1 model score 0.936651
+**********************************
+Folder : 4 Epoch : 23
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199987.978750, valid_loss: 178790.574777
+train_f1: 0.937666, valid_f1: 0.936764
+save folder 4 global val max f1 model score 0.936764
+**********************************
+Folder : 4 Epoch : 24
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199977.840625, valid_loss: 178782.643973
+train_f1: 0.937699, valid_f1: 0.936754
+**********************************
+Folder : 4 Epoch : 25
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199974.692500, valid_loss: 178788.232701
+train_f1: 0.937655, valid_f1: 0.936725
+**********************************
+Folder : 4 Epoch : 26
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 200001.520625, valid_loss: 178800.686384
+train_f1: 0.937333, valid_f1: 0.936698
+**********************************
+Folder : 4 Epoch : 27
+Curr learning_rate: 0.000500000
+EVALUATION
+train_loss: 199960.157500, valid_loss: 178777.042411
+train_f1: 0.937727, valid_f1: 0.936674
+**********************************
+Folder : 4 Epoch : 28
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199946.931250, valid_loss: 178772.274554
+train_f1: 0.937900, valid_f1: 0.936730
+**********************************
+Folder : 4 Epoch : 29
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199940.535625, valid_loss: 178767.329241
+train_f1: 0.937911, valid_f1: 0.936872
+save folder 4 global val max f1 model score 0.936872
+**********************************
+Folder : 4 Epoch : 30
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199941.290625, valid_loss: 178767.043527
+train_f1: 0.937856, valid_f1: 0.936764
+**********************************
+Folder : 4 Epoch : 31
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199933.490625, valid_loss: 178760.363281
+train_f1: 0.937909, valid_f1: 0.936796
+**********************************
+Folder : 4 Epoch : 32
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199933.211875, valid_loss: 178759.693080
+train_f1: 0.937953, valid_f1: 0.936902
+save folder 4 global val max f1 model score 0.936902
+**********************************
+Folder : 4 Epoch : 33
+Curr learning_rate: 0.000250000
+EVALUATION
+train_loss: 199925.458125, valid_loss: 178756.813616
+train_f1: 0.938018, valid_f1: 0.936828
+**********************************
+Folder : 4 Epoch : 34
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199918.518750, valid_loss: 178755.184710
+train_f1: 0.938055, valid_f1: 0.936900
+**********************************
+Folder : 4 Epoch : 35
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199916.415000, valid_loss: 178755.647879
+train_f1: 0.938090, valid_f1: 0.936948
+save folder 4 global val max f1 model score 0.936948
+**********************************
+Folder : 4 Epoch : 36
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199913.992500, valid_loss: 178752.838170
+train_f1: 0.938108, valid_f1: 0.936882
+**********************************
+Folder : 4 Epoch : 37
+Curr learning_rate: 0.000125000
+EVALUATION
+train_loss: 199911.570625, valid_loss: 178757.069196
+train_f1: 0.938102, valid_f1: 0.936859
+**********************************
+Folder : 4 Epoch : 38
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199909.909375, valid_loss: 178750.748884
+train_f1: 0.938178, valid_f1: 0.936857
+**********************************
+Folder : 4 Epoch : 39
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199907.681250, valid_loss: 178749.229911
+train_f1: 0.938088, valid_f1: 0.936905
+**********************************
+Folder : 4 Epoch : 40
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199906.581875, valid_loss: 178749.558036
+train_f1: 0.938136, valid_f1: 0.936867
+**********************************
+Folder : 4 Epoch : 41
+Curr learning_rate: 0.000062500
+EVALUATION
+train_loss: 199906.009375, valid_loss: 178752.174665
+train_f1: 0.938167, valid_f1: 0.936957
+save folder 4 global val max f1 model score 0.936957
+**********************************
+Folder : 4 Epoch : 42
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199903.873750, valid_loss: 178749.354911
+train_f1: 0.938159, valid_f1: 0.936878
+**********************************
+Folder : 4 Epoch : 43
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199902.768125, valid_loss: 178748.396205
+train_f1: 0.938138, valid_f1: 0.936924
+**********************************
+Folder : 4 Epoch : 44
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199902.065625, valid_loss: 178748.108817
+train_f1: 0.938172, valid_f1: 0.936885
+**********************************
+Folder : 4 Epoch : 45
+Curr learning_rate: 0.000031250
+EVALUATION
+train_loss: 199901.883125, valid_loss: 178748.042969
+train_f1: 0.938165, valid_f1: 0.936926
+**********************************
+Folder : 4 Epoch : 46
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199900.821875, valid_loss: 178747.928571
+train_f1: 0.938206, valid_f1: 0.936874
+**********************************
+Folder : 4 Epoch : 47
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199900.226875, valid_loss: 178747.550223
+train_f1: 0.938171, valid_f1: 0.936887
+**********************************
+Folder : 4 Epoch : 48
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199900.211250, valid_loss: 178747.283482
+train_f1: 0.938180, valid_f1: 0.936901
+**********************************
+Folder : 4 Epoch : 49
+Curr learning_rate: 0.000015625
+EVALUATION
+train_loss: 199899.606250, valid_loss: 178747.299107
+train_f1: 0.938180, valid_f1: 0.936908
+**********************************
+Folder : 4 Epoch : 50
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199899.395000, valid_loss: 178747.050223
+train_f1: 0.938189, valid_f1: 0.936924
+**********************************
+Folder : 4 Epoch : 51
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199899.099375, valid_loss: 178746.744420
+train_f1: 0.938171, valid_f1: 0.936916
+**********************************
+Folder : 4 Epoch : 52
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199898.833750, valid_loss: 178746.748884
+train_f1: 0.938159, valid_f1: 0.936893
+**********************************
+Folder : 4 Epoch : 53
+Curr learning_rate: 0.000007813
+EVALUATION
+train_loss: 199898.784375, valid_loss: 178746.780134
+train_f1: 0.938179, valid_f1: 0.936907
+**********************************
+Folder : 4 Epoch : 54
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199898.452500, valid_loss: 178746.864397
+train_f1: 0.938184, valid_f1: 0.936902
+**********************************
+Folder : 4 Epoch : 55
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199898.338125, valid_loss: 178746.767857
+train_f1: 0.938171, valid_f1: 0.936914
+**********************************
+Folder : 4 Epoch : 56
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199898.286875, valid_loss: 178746.660714
+train_f1: 0.938177, valid_f1: 0.936889
+**********************************
+Folder : 4 Epoch : 57
+Curr learning_rate: 0.000003906
+EVALUATION
+train_loss: 199898.141250, valid_loss: 178746.646205
+train_f1: 0.938174, valid_f1: 0.936904
+**********************************
+Folder : 4 Epoch : 58
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199898.035000, valid_loss: 178746.575335
+train_f1: 0.938179, valid_f1: 0.936889
+**********************************
+Folder : 4 Epoch : 59
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199898.046250, valid_loss: 178746.613281
+train_f1: 0.938165, valid_f1: 0.936902
+**********************************
+Folder : 4 Epoch : 60
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199897.949375, valid_loss: 178746.658482
+train_f1: 0.938172, valid_f1: 0.936903
+**********************************
+Folder : 4 Epoch : 61
+Curr learning_rate: 0.000001953
+EVALUATION
+train_loss: 199897.924375, valid_loss: 178746.583147
+train_f1: 0.938186, valid_f1: 0.936893
+**********************************
+Folder : 4 Epoch : 62
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199897.829375, valid_loss: 178746.528460
+train_f1: 0.938179, valid_f1: 0.936889
+**********************************
+Folder : 4 Epoch : 63
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199897.798125, valid_loss: 178746.539621
+train_f1: 0.938172, valid_f1: 0.936888
+**********************************
+Folder : 4 Epoch : 64
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199897.775625, valid_loss: 178746.556362
+train_f1: 0.938174, valid_f1: 0.936883
+**********************************
+Folder : 4 Epoch : 65
+Curr learning_rate: 0.000000977
+EVALUATION
+train_loss: 199897.770625, valid_loss: 178746.521205
+train_f1: 0.938178, valid_f1: 0.936883
+**********************************
+Folder : 4 Epoch : 66
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199897.712500, valid_loss: 178746.514509
+train_f1: 0.938179, valid_f1: 0.936885
+**********************************
+Folder : 4 Epoch : 67
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199897.710000, valid_loss: 178746.493304
+train_f1: 0.938185, valid_f1: 0.936886
+**********************************
+Folder : 4 Epoch : 68
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199897.693750, valid_loss: 178746.500000
+train_f1: 0.938178, valid_f1: 0.936887
+**********************************
+Folder : 4 Epoch : 69
+Curr learning_rate: 0.000000488
+EVALUATION
+train_loss: 199897.685000, valid_loss: 178746.487723
+train_f1: 0.938181, valid_f1: 0.936886
+**********************************
+Folder : 4 Epoch : 70
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199897.662500, valid_loss: 178746.491071
+train_f1: 0.938173, valid_f1: 0.936886
+**********************************
+Folder : 4 Epoch : 71
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199897.654375, valid_loss: 178746.484375
+train_f1: 0.938176, valid_f1: 0.936887
+**********************************
+Folder : 4 Epoch : 72
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199897.646875, valid_loss: 178746.486607
+train_f1: 0.938176, valid_f1: 0.936888
+**********************************
+Folder : 4 Epoch : 73
+Curr learning_rate: 0.000000244
+EVALUATION
+train_loss: 199897.649375, valid_loss: 178746.464286
+train_f1: 0.938175, valid_f1: 0.936889
+**********************************
+Folder : 4 Epoch : 74
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199897.628750, valid_loss: 178746.477121
+train_f1: 0.938177, valid_f1: 0.936887
+**********************************
+Folder : 4 Epoch : 75
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199897.630625, valid_loss: 178746.468750
+train_f1: 0.938176, valid_f1: 0.936890
+**********************************
+Folder : 4 Epoch : 76
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199897.626250, valid_loss: 178746.470982
+train_f1: 0.938176, valid_f1: 0.936887
+**********************************
+Folder : 4 Epoch : 77
+Curr learning_rate: 0.000000122
+EVALUATION
+train_loss: 199897.625000, valid_loss: 178746.459821
+train_f1: 0.938179, valid_f1: 0.936884
+**********************************
+Folder : 4 Epoch : 78
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199897.614375, valid_loss: 178746.459821
+train_f1: 0.938179, valid_f1: 0.936886
+**********************************
+Folder : 4 Epoch : 79
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199897.618750, valid_loss: 178746.459821
+train_f1: 0.938178, valid_f1: 0.936888
+**********************************
+Folder : 4 Epoch : 80
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199897.611875, valid_loss: 178746.463728
+train_f1: 0.938179, valid_f1: 0.936888
+**********************************
+Folder : 4 Epoch : 81
+Curr learning_rate: 0.000000061
+EVALUATION
+train_loss: 199897.611875, valid_loss: 178746.464286
+train_f1: 0.938180, valid_f1: 0.936886
+Early Stopping
+folder 4 global best val max f1 model score 0.936957
+Folder 4 finally best global max f1 score is 0.9369572282540759
+all folder score is:[0.937916, 0.935629, 0.938908, 0.937271, 0.936957]
+OOF mean score is: 0.937336
+Generate submission.............
+over
