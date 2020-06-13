@@ -27,7 +27,7 @@ pd.set_option('display.max_rows', 500)
 
 # %%
 # configurations and main hyperparammeters
-EPOCHS = 3000
+EPOCHS = 300
 NNBATCHSIZE = 32
 GROUP_BATCH_SIZE = 5000
 SEED = 42
@@ -37,8 +37,9 @@ SPLITS = 5
 outdir = 'wavenet_models'
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print("device:", device)
-# add softmax function
-it = 111
+# it=21 小さいやつ
+# it=31 大きいやつ
+it = 31
 print("it:", it)
 
 if not os.path.exists(outdir):
@@ -124,6 +125,19 @@ def split(GROUP_BATCH_SIZE=4000):
     test = np.array(list(test.groupby('group').apply(lambda x: x[features].values)))
     return test
 
+def normalize1(train, test):
+    train_input_mean = train.signal.mean()
+    train_input_sigma = train.signal.std()
+    train['signal'] = (train.signal - train_input_mean + 1.75) / (4.2*train_input_sigma)
+    test['signal'] = (test.signal - train_input_mean + 1.75) / (4.2*train_input_sigma)
+    return train, test
+
+def normalize2(train, test):
+    train_input_mean = train.signal.mean()
+    train_input_sigma = train.signal.std()
+    train['signal'] = (train.signal - train_input_mean + 1.1) / (4.*train_input_sigma)
+    test['signal'] = (test.signal - train_input_mean + 1.1) / (4.*train_input_sigma)
+    return train, test
 
 # %%
 class IronDataset(Dataset):
@@ -191,17 +205,32 @@ def make_dataset(train, test, slide=2000):
 
 # %%
 train, test = read_data()
-train, test = normalize(train, test)
-# tmp, tmp_tr = make_dataset(train, test, slide=2000)
-train, train_tr = make_dataset(train, test, slide=0)
-# train = np.concatenate([train, tmp], 0)
-# train_tr = np.concatenate([train_tr, tmp_tr], 0)
-# del tmp, tmp_tr
-# gc.collect()
-
+# data split
+if it // 10 == 2:
+    train_idx = np.ones(5000000).astype(bool)
+    train_idx[500000*4:500000*5] = False
+    #train_idx[500000*9:500000*10] = False
+    train = train[train_idx].reset_index(drop=True)
+    train, test = normalize1(train, test)
+    # tmp, tmp_tr = make_dataset(train, test, slide=2000)
+    train, train_tr = make_dataset(train, test, slide=0)
+    # train = np.concatenate([train, tmp], 0)
+    # train_tr = np.concatenate([train_tr, tmp_tr], 0)
+    # del tmp, tmp_tr
+    # gc.collect()
+elif it // 10 == 3:
+    train_idx = np.zeros(5000000).astype(bool)
+    train_idx[500000*4:500000*6] = True
+    train_idx[500000*8:500000*10] = True
+    train = train[train_idx].reset_index(drop=True)
+    train, test = normalize2(train, test)
+    train, train_tr = make_dataset(train, test, slide=0)
 
 # %%
-test = split(GROUP_BATCH_SIZE=GROUP_BATCH_SIZE)
+# test = split(GROUP_BATCH_SIZE=GROUP_BATCH_SIZE)
+test = run_feat_engineering(test, batch_size=GROUP_BATCH_SIZE)
+test, features = feature_selection(test)
+test = np.array(list(test.groupby('group').apply(lambda x: x[features].values)))
 print(train.shape, train_tr.shape)
 print(test.shape)
 
@@ -230,8 +259,8 @@ for index, (train_index, val_index) in enumerate(kf.split(train, train_tr[:, -1,
                                    checkpoint_path=os.path.join(outdir, "checkpoint_it{1}_fold{0}.pt".format(index, it)))
 
     weight = None#cal_weights()
-    # criterion = nn.CrossEntropyLoss(weight=weight)
-    criterion = FocalLossWithOutOneHot(gamma=1)
+    criterion = nn.CrossEntropyLoss(weight=weight)
+    # criterion = FocalLossWithOutOneHot(gamma=1)
     optimizer = torch.optim.Adam(model.parameters(), lr=LR)
 
     schedular = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='max', patience=3, factor=0.5)
@@ -256,7 +285,7 @@ for index, (train_index, val_index) in enumerate(kf.split(train, train_tr[:, -1,
             optimizer.zero_grad()
             predictions = model(x)
 
-            if val_score <= 0.9:
+            if val_score <= 0.7:
                 predictions_ = predictions.view(-1, predictions.shape[-1])
             else:
                 predictions_ = F.softmax(predictions.view(-1, predictions.shape[-1]))
@@ -310,8 +339,8 @@ for index, (train_index, val_index) in enumerate(kf.split(train, train_tr[:, -1,
         val_score = f1_score(val_true.cpu().detach().numpy(), val_preds.cpu().detach().numpy().argmax(1),
                              labels=list(range(11)), average='macro')
         if cnt >= 5:
-            schedular.step(train_score)
-            res = early_stopping(train_score, model)
+            schedular.step(val_score)
+            res = early_stopping(val_score, model)
         print("train_f1: {:0.6f}, valid_f1: {:0.6f}".format(train_score, val_score))
 
         if res == 2:
@@ -351,14 +380,3 @@ test_pred_frame = pd.DataFrame({'time': ss['time'].astype(str),
                                 'open_channels': np.argmax(test_preds_all, axis=1)})
 test_pred_frame.to_csv("output/preds_it{}.csv".format(it), index=False)
 print('over')
-
-# %%
-
-
-# %%
-
-
-# %%
-
-
-# %%

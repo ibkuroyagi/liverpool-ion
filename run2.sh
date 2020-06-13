@@ -3,4 +3,4 @@
 source ${HOME}/workspace/virtualenvs/py36/bin/activate
 # 作成したPythonスクリプトを実行 
 export OMP_NUM_THREADS=8
-python -u quantize.py
+python -u quantize_focal_loss.py

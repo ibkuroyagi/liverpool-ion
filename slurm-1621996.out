@@ -1,0 +1,1810 @@
+device: cuda
+it: 31
+(400, 5000, 20) (400, 5000, 1)
+(400, 5000, 20)
+Fold : 0
+**********************************
+Folder : 0 Epoch : 0
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 2.189176, valid_loss: 2.050069
+train_f1: 0.081258, valid_f1: 0.094356
+**********************************
+Folder : 0 Epoch : 1
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.707946, valid_loss: 1.441149
+train_f1: 0.167045, valid_f1: 0.234558
+**********************************
+Folder : 0 Epoch : 2
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.143918, valid_loss: 0.900414
+train_f1: 0.338842, valid_f1: 0.457565
+**********************************
+Folder : 0 Epoch : 3
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 0.645774, valid_loss: 0.498612
+train_f1: 0.533846, valid_f1: 0.591803
+**********************************
+Folder : 0 Epoch : 4
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 0.394014, valid_loss: 0.357136
+train_f1: 0.663231, valid_f1: 0.725660
+**********************************
+Folder : 0 Epoch : 5
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.709678, valid_loss: 0.409088
+train_f1: 0.715320, valid_f1: 0.743697
+**********************************
+Folder : 0 Epoch : 6
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.650772, valid_loss: 0.488120
+train_f1: 0.745550, valid_f1: 0.749170
+**********************************
+Folder : 0 Epoch : 7
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.634353, valid_loss: 0.569540
+train_f1: 0.750556, valid_f1: 0.749713
+**********************************
+Folder : 0 Epoch : 8
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.629715, valid_loss: 0.604697
+train_f1: 0.751085, valid_f1: 0.750928
+**********************************
+Folder : 0 Epoch : 9
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.627931, valid_loss: 0.631335
+train_f1: 0.751886, valid_f1: 0.751503
+**********************************
+Folder : 0 Epoch : 10
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.627000, valid_loss: 0.643010
+train_f1: 0.752396, valid_f1: 0.752228
+**********************************
+Folder : 0 Epoch : 11
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.626405, valid_loss: 0.653989
+train_f1: 0.752961, valid_f1: 0.752361
+**********************************
+Folder : 0 Epoch : 12
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.626007, valid_loss: 0.662414
+train_f1: 0.753034, valid_f1: 0.752481
+**********************************
+Folder : 0 Epoch : 13
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.625723, valid_loss: 0.672656
+train_f1: 0.753334, valid_f1: 0.752520
+**********************************
+Folder : 0 Epoch : 14
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.625479, valid_loss: 0.683013
+train_f1: 0.753324, valid_f1: 0.752448
+**********************************
+Folder : 0 Epoch : 15
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.625281, valid_loss: 0.692974
+train_f1: 0.753427, valid_f1: 0.752493
+**********************************
+Folder : 0 Epoch : 16
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.625117, valid_loss: 0.703499
+train_f1: 0.753603, valid_f1: 0.752442
+**********************************
+Folder : 0 Epoch : 17
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624972, valid_loss: 0.713028
+train_f1: 0.753406, valid_f1: 0.752531
+**********************************
+Folder : 0 Epoch : 18
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624858, valid_loss: 0.723213
+train_f1: 0.753707, valid_f1: 0.752550
+**********************************
+Folder : 0 Epoch : 19
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624705, valid_loss: 0.732693
+train_f1: 0.753677, valid_f1: 0.752558
+**********************************
+Folder : 0 Epoch : 20
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624581, valid_loss: 0.743663
+train_f1: 0.753766, valid_f1: 0.752571
+**********************************
+Folder : 0 Epoch : 21
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624454, valid_loss: 0.751732
+train_f1: 0.753965, valid_f1: 0.752751
+**********************************
+Folder : 0 Epoch : 22
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624358, valid_loss: 0.760619
+train_f1: 0.753944, valid_f1: 0.752734
+**********************************
+Folder : 0 Epoch : 23
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624251, valid_loss: 0.769384
+train_f1: 0.753983, valid_f1: 0.752636
+**********************************
+Folder : 0 Epoch : 24
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624151, valid_loss: 0.778623
+train_f1: 0.754104, valid_f1: 0.752570
+**********************************
+Folder : 0 Epoch : 25
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.624068, valid_loss: 0.787048
+train_f1: 0.754175, valid_f1: 0.752669
+**********************************
+Folder : 0 Epoch : 26
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623975, valid_loss: 0.795401
+train_f1: 0.754266, valid_f1: 0.752677
+**********************************
+Folder : 0 Epoch : 27
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623899, valid_loss: 0.803638
+train_f1: 0.754177, valid_f1: 0.752771
+**********************************
+Folder : 0 Epoch : 28
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623829, valid_loss: 0.811943
+train_f1: 0.754338, valid_f1: 0.752835
+**********************************
+Folder : 0 Epoch : 29
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623747, valid_loss: 0.821921
+train_f1: 0.754442, valid_f1: 0.752636
+**********************************
+Folder : 0 Epoch : 30
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623693, valid_loss: 0.834154
+train_f1: 0.754464, valid_f1: 0.752757
+**********************************
+Folder : 0 Epoch : 31
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623613, valid_loss: 0.849377
+train_f1: 0.754442, valid_f1: 0.752669
+**********************************
+Folder : 0 Epoch : 32
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623527, valid_loss: 0.856602
+train_f1: 0.754711, valid_f1: 0.752491
+**********************************
+Folder : 0 Epoch : 33
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623438, valid_loss: 0.863527
+train_f1: 0.754603, valid_f1: 0.752625
+**********************************
+Folder : 0 Epoch : 34
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623423, valid_loss: 0.871347
+train_f1: 0.754569, valid_f1: 0.752807
+**********************************
+Folder : 0 Epoch : 35
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623391, valid_loss: 0.877518
+train_f1: 0.754747, valid_f1: 0.752467
+**********************************
+Folder : 0 Epoch : 36
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623296, valid_loss: 0.886617
+train_f1: 0.754593, valid_f1: 0.752556
+**********************************
+Folder : 0 Epoch : 37
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623245, valid_loss: 0.892920
+train_f1: 0.754521, valid_f1: 0.752196
+**********************************
+Folder : 0 Epoch : 38
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623230, valid_loss: 0.899911
+train_f1: 0.761560, valid_f1: 0.765983
+**********************************
+Folder : 0 Epoch : 39
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.623088, valid_loss: 0.904507
+train_f1: 0.781212, valid_f1: 0.786955
+**********************************
+Folder : 0 Epoch : 40
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622851, valid_loss: 0.908013
+train_f1: 0.806454, valid_f1: 0.814898
+**********************************
+Folder : 0 Epoch : 41
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622509, valid_loss: 0.910640
+train_f1: 0.831090, valid_f1: 0.835230
+**********************************
+Folder : 0 Epoch : 42
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622287, valid_loss: 0.918653
+train_f1: 0.840478, valid_f1: 0.839217
+**********************************
+Folder : 0 Epoch : 43
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622207, valid_loss: 0.929471
+train_f1: 0.842224, valid_f1: 0.839634
+**********************************
+Folder : 0 Epoch : 44
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622067, valid_loss: 0.937031
+train_f1: 0.842868, valid_f1: 0.840123
+**********************************
+Folder : 0 Epoch : 45
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.622007, valid_loss: 0.945336
+train_f1: 0.843720, valid_f1: 0.840892
+**********************************
+Folder : 0 Epoch : 46
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621944, valid_loss: 0.952055
+train_f1: 0.843801, valid_f1: 0.840857
+**********************************
+Folder : 0 Epoch : 47
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621944, valid_loss: 0.958466
+train_f1: 0.843984, valid_f1: 0.840778
+**********************************
+Folder : 0 Epoch : 48
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621897, valid_loss: 0.967138
+train_f1: 0.844280, valid_f1: 0.840741
+**********************************
+Folder : 0 Epoch : 49
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621807, valid_loss: 0.975946
+train_f1: 0.844392, valid_f1: 0.840733
+**********************************
+Folder : 0 Epoch : 50
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621805, valid_loss: 0.983435
+train_f1: 0.844468, valid_f1: 0.840953
+**********************************
+Folder : 0 Epoch : 51
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621766, valid_loss: 0.989520
+train_f1: 0.844484, valid_f1: 0.840728
+**********************************
+Folder : 0 Epoch : 52
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621713, valid_loss: 0.997964
+train_f1: 0.844617, valid_f1: 0.840766
+**********************************
+Folder : 0 Epoch : 53
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621647, valid_loss: 1.005260
+train_f1: 0.844644, valid_f1: 0.840943
+**********************************
+Folder : 0 Epoch : 54
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621634, valid_loss: 1.014759
+train_f1: 0.844614, valid_f1: 0.840546
+**********************************
+Folder : 0 Epoch : 55
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621631, valid_loss: 1.020527
+train_f1: 0.844685, valid_f1: 0.840635
+**********************************
+Folder : 0 Epoch : 56
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621639, valid_loss: 1.029669
+train_f1: 0.844592, valid_f1: 0.840704
+**********************************
+Folder : 0 Epoch : 57
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621538, valid_loss: 1.037659
+train_f1: 0.844766, valid_f1: 0.840920
+**********************************
+Folder : 0 Epoch : 58
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621550, valid_loss: 1.046796
+train_f1: 0.844784, valid_f1: 0.840530
+**********************************
+Folder : 0 Epoch : 59
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621414, valid_loss: 1.053509
+train_f1: 0.844980, valid_f1: 0.840731
+**********************************
+Folder : 0 Epoch : 60
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621391, valid_loss: 1.060472
+train_f1: 0.845091, valid_f1: 0.840552
+**********************************
+Folder : 0 Epoch : 61
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621320, valid_loss: 1.067760
+train_f1: 0.845090, valid_f1: 0.840965
+**********************************
+Folder : 0 Epoch : 62
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621221, valid_loss: 1.078381
+train_f1: 0.845094, valid_f1: 0.840861
+**********************************
+Folder : 0 Epoch : 63
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621171, valid_loss: 1.083991
+train_f1: 0.845178, valid_f1: 0.840819
+**********************************
+Folder : 0 Epoch : 64
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621126, valid_loss: 1.092775
+train_f1: 0.845276, valid_f1: 0.840526
+**********************************
+Folder : 0 Epoch : 65
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621061, valid_loss: 1.102449
+train_f1: 0.845400, valid_f1: 0.840643
+**********************************
+Folder : 0 Epoch : 66
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621039, valid_loss: 1.109609
+train_f1: 0.845384, valid_f1: 0.840521
+**********************************
+Folder : 0 Epoch : 67
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621160, valid_loss: 1.118733
+train_f1: 0.845298, valid_f1: 0.840396
+**********************************
+Folder : 0 Epoch : 68
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621143, valid_loss: 1.129992
+train_f1: 0.845279, valid_f1: 0.840490
+**********************************
+Folder : 0 Epoch : 69
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621155, valid_loss: 1.138377
+train_f1: 0.845255, valid_f1: 0.840654
+**********************************
+Folder : 0 Epoch : 70
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621143, valid_loss: 1.142072
+train_f1: 0.845163, valid_f1: 0.840467
+**********************************
+Folder : 0 Epoch : 71
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620991, valid_loss: 1.148610
+train_f1: 0.845358, valid_f1: 0.840452
+**********************************
+Folder : 0 Epoch : 72
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621025, valid_loss: 1.162408
+train_f1: 0.845349, valid_f1: 0.840512
+**********************************
+Folder : 0 Epoch : 73
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621057, valid_loss: 1.171022
+train_f1: 0.845299, valid_f1: 0.840515
+**********************************
+Folder : 0 Epoch : 74
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621053, valid_loss: 1.175369
+train_f1: 0.845335, valid_f1: 0.840565
+**********************************
+Folder : 0 Epoch : 75
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620945, valid_loss: 1.176374
+train_f1: 0.845377, valid_f1: 0.840538
+**********************************
+Folder : 0 Epoch : 76
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621142, valid_loss: 1.182721
+train_f1: 0.845217, valid_f1: 0.840308
+**********************************
+Folder : 0 Epoch : 77
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621047, valid_loss: 1.187003
+train_f1: 0.845337, valid_f1: 0.840632
+**********************************
+Folder : 0 Epoch : 78
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621085, valid_loss: 1.195194
+train_f1: 0.845255, valid_f1: 0.840662
+**********************************
+Folder : 0 Epoch : 79
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621110, valid_loss: 1.200922
+train_f1: 0.845257, valid_f1: 0.840803
+**********************************
+Folder : 0 Epoch : 80
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621118, valid_loss: 1.207722
+train_f1: 0.845277, valid_f1: 0.840396
+**********************************
+Folder : 0 Epoch : 81
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621004, valid_loss: 1.210658
+train_f1: 0.845289, valid_f1: 0.840519
+**********************************
+Folder : 0 Epoch : 82
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620828, valid_loss: 1.208705
+train_f1: 0.845501, valid_f1: 0.840684
+**********************************
+Folder : 0 Epoch : 83
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620672, valid_loss: 1.217264
+train_f1: 0.845689, valid_f1: 0.840340
+**********************************
+Folder : 0 Epoch : 84
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620866, valid_loss: 1.223817
+train_f1: 0.845484, valid_f1: 0.840354
+**********************************
+Folder : 0 Epoch : 85
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.621093, valid_loss: 1.234715
+train_f1: 0.845373, valid_f1: 0.840092
+**********************************
+Folder : 0 Epoch : 86
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620834, valid_loss: 1.238536
+train_f1: 0.845592, valid_f1: 0.840862
+**********************************
+Folder : 0 Epoch : 87
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620907, valid_loss: 1.244538
+train_f1: 0.845391, valid_f1: 0.840676
+**********************************
+Folder : 0 Epoch : 88
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620879, valid_loss: 1.243103
+train_f1: 0.845552, valid_f1: 0.840382
+**********************************
+Folder : 0 Epoch : 89
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620769, valid_loss: 1.253578
+train_f1: 0.845658, valid_f1: 0.840625
+**********************************
+Folder : 0 Epoch : 90
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620705, valid_loss: 1.260772
+train_f1: 0.845726, valid_f1: 0.840270
+**********************************
+Folder : 0 Epoch : 91
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620699, valid_loss: 1.267944
+train_f1: 0.845749, valid_f1: 0.840236
+**********************************
+Folder : 0 Epoch : 92
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620673, valid_loss: 1.266955
+train_f1: 0.845742, valid_f1: 0.840075
+**********************************
+Folder : 0 Epoch : 93
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620517, valid_loss: 1.273680
+train_f1: 0.845908, valid_f1: 0.840528
+**********************************
+Folder : 0 Epoch : 94
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620343, valid_loss: 1.279785
+train_f1: 0.846080, valid_f1: 0.840641
+**********************************
+Folder : 0 Epoch : 95
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620219, valid_loss: 1.284523
+train_f1: 0.846205, valid_f1: 0.840341
+**********************************
+Folder : 0 Epoch : 96
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620226, valid_loss: 1.292446
+train_f1: 0.846156, valid_f1: 0.840570
+**********************************
+Folder : 0 Epoch : 97
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620343, valid_loss: 1.302492
+train_f1: 0.846040, valid_f1: 0.840557
+**********************************
+Folder : 0 Epoch : 98
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620587, valid_loss: 1.304147
+train_f1: 0.845826, valid_f1: 0.840133
+**********************************
+Folder : 0 Epoch : 99
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620529, valid_loss: 1.309325
+train_f1: 0.845850, valid_f1: 0.839936
+**********************************
+Folder : 0 Epoch : 100
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620225, valid_loss: 1.312256
+train_f1: 0.846039, valid_f1: 0.840208
+**********************************
+Folder : 0 Epoch : 101
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620034, valid_loss: 1.317443
+train_f1: 0.846325, valid_f1: 0.840400
+**********************************
+Folder : 0 Epoch : 102
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619933, valid_loss: 1.328525
+train_f1: 0.846356, valid_f1: 0.840339
+**********************************
+Folder : 0 Epoch : 103
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620282, valid_loss: 1.341858
+train_f1: 0.846101, valid_f1: 0.840347
+**********************************
+Folder : 0 Epoch : 104
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620920, valid_loss: 1.340505
+train_f1: 0.845501, valid_f1: 0.840627
+**********************************
+Folder : 0 Epoch : 105
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620462, valid_loss: 1.345475
+train_f1: 0.845877, valid_f1: 0.840406
+**********************************
+Folder : 0 Epoch : 106
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620360, valid_loss: 1.345609
+train_f1: 0.846074, valid_f1: 0.840218
+**********************************
+Folder : 0 Epoch : 107
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619911, valid_loss: 1.349365
+train_f1: 0.846470, valid_f1: 0.840562
+**********************************
+Folder : 0 Epoch : 108
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619797, valid_loss: 1.353120
+train_f1: 0.846506, valid_f1: 0.840419
+**********************************
+Folder : 0 Epoch : 109
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619818, valid_loss: 1.371332
+train_f1: 0.846481, valid_f1: 0.840542
+**********************************
+Folder : 0 Epoch : 110
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619930, valid_loss: 1.374802
+train_f1: 0.846431, valid_f1: 0.840199
+**********************************
+Folder : 0 Epoch : 111
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620233, valid_loss: 1.374451
+train_f1: 0.846120, valid_f1: 0.840506
+**********************************
+Folder : 0 Epoch : 112
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619866, valid_loss: 1.380363
+train_f1: 0.846532, valid_f1: 0.840625
+**********************************
+Folder : 0 Epoch : 113
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619707, valid_loss: 1.386607
+train_f1: 0.846600, valid_f1: 0.840398
+**********************************
+Folder : 0 Epoch : 114
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619860, valid_loss: 1.387382
+train_f1: 0.846508, valid_f1: 0.840190
+**********************************
+Folder : 0 Epoch : 115
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619718, valid_loss: 1.396415
+train_f1: 0.846536, valid_f1: 0.840447
+**********************************
+Folder : 0 Epoch : 116
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619741, valid_loss: 1.406734
+train_f1: 0.846504, valid_f1: 0.840319
+**********************************
+Folder : 0 Epoch : 117
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619846, valid_loss: 1.407395
+train_f1: 0.846487, valid_f1: 0.840629
+**********************************
+Folder : 0 Epoch : 118
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619452, valid_loss: 1.420772
+train_f1: 0.846856, valid_f1: 0.840411
+**********************************
+Folder : 0 Epoch : 119
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619524, valid_loss: 1.423382
+train_f1: 0.846827, valid_f1: 0.840501
+**********************************
+Folder : 0 Epoch : 120
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619501, valid_loss: 1.429107
+train_f1: 0.846886, valid_f1: 0.840498
+**********************************
+Folder : 0 Epoch : 121
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619614, valid_loss: 1.429949
+train_f1: 0.846747, valid_f1: 0.840155
+**********************************
+Folder : 0 Epoch : 122
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620738, valid_loss: 1.452937
+train_f1: 0.845737, valid_f1: 0.840395
+**********************************
+Folder : 0 Epoch : 123
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620133, valid_loss: 1.441786
+train_f1: 0.846229, valid_f1: 0.840212
+**********************************
+Folder : 0 Epoch : 124
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619482, valid_loss: 1.449021
+train_f1: 0.846839, valid_f1: 0.840486
+**********************************
+Folder : 0 Epoch : 125
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619244, valid_loss: 1.447943
+train_f1: 0.847034, valid_f1: 0.840470
+**********************************
+Folder : 0 Epoch : 126
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619766, valid_loss: 1.465192
+train_f1: 0.846508, valid_f1: 0.840155
+**********************************
+Folder : 0 Epoch : 127
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619667, valid_loss: 1.451037
+train_f1: 0.846633, valid_f1: 0.840142
+**********************************
+Folder : 0 Epoch : 128
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619594, valid_loss: 1.466522
+train_f1: 0.846658, valid_f1: 0.840250
+**********************************
+Folder : 0 Epoch : 129
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619332, valid_loss: 1.462359
+train_f1: 0.846938, valid_f1: 0.840217
+**********************************
+Folder : 0 Epoch : 130
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619225, valid_loss: 1.473149
+train_f1: 0.847172, valid_f1: 0.840363
+**********************************
+Folder : 0 Epoch : 131
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620001, valid_loss: 1.479834
+train_f1: 0.846416, valid_f1: 0.840243
+**********************************
+Folder : 0 Epoch : 132
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620310, valid_loss: 1.473623
+train_f1: 0.846123, valid_f1: 0.840258
+**********************************
+Folder : 0 Epoch : 133
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619386, valid_loss: 1.472104
+train_f1: 0.846902, valid_f1: 0.840209
+**********************************
+Folder : 0 Epoch : 134
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619160, valid_loss: 1.488120
+train_f1: 0.847213, valid_f1: 0.840603
+**********************************
+Folder : 0 Epoch : 135
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619281, valid_loss: 1.490505
+train_f1: 0.847083, valid_f1: 0.840358
+**********************************
+Folder : 0 Epoch : 136
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619419, valid_loss: 1.495800
+train_f1: 0.846953, valid_f1: 0.840263
+**********************************
+Folder : 0 Epoch : 137
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619718, valid_loss: 1.502349
+train_f1: 0.846648, valid_f1: 0.840235
+**********************************
+Folder : 0 Epoch : 138
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619963, valid_loss: 1.501860
+train_f1: 0.846471, valid_f1: 0.840265
+**********************************
+Folder : 0 Epoch : 139
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620070, valid_loss: 1.503440
+train_f1: 0.846172, valid_f1: 0.839980
+**********************************
+Folder : 0 Epoch : 140
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.620129, valid_loss: 1.497272
+train_f1: 0.846367, valid_f1: 0.840667
+**********************************
+Folder : 0 Epoch : 141
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619523, valid_loss: 1.495299
+train_f1: 0.846840, valid_f1: 0.840635
+**********************************
+Folder : 0 Epoch : 142
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619061, valid_loss: 1.490092
+train_f1: 0.847243, valid_f1: 0.840039
+**********************************
+Folder : 0 Epoch : 143
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618877, valid_loss: 1.498378
+train_f1: 0.847405, valid_f1: 0.840666
+**********************************
+Folder : 0 Epoch : 144
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618730, valid_loss: 1.503566
+train_f1: 0.847540, valid_f1: 0.840456
+**********************************
+Folder : 0 Epoch : 145
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618675, valid_loss: 1.513808
+train_f1: 0.847651, valid_f1: 0.840274
+**********************************
+Folder : 0 Epoch : 146
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618580, valid_loss: 1.520756
+train_f1: 0.847765, valid_f1: 0.840081
+**********************************
+Folder : 0 Epoch : 147
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618441, valid_loss: 1.538816
+train_f1: 0.847853, valid_f1: 0.840375
+**********************************
+Folder : 0 Epoch : 148
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618664, valid_loss: 1.536189
+train_f1: 0.847677, valid_f1: 0.840103
+**********************************
+Folder : 0 Epoch : 149
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618892, valid_loss: 1.549654
+train_f1: 0.847410, valid_f1: 0.840357
+**********************************
+Folder : 0 Epoch : 150
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618815, valid_loss: 1.550279
+train_f1: 0.847531, valid_f1: 0.840346
+**********************************
+Folder : 0 Epoch : 151
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618422, valid_loss: 1.553214
+train_f1: 0.847912, valid_f1: 0.840224
+**********************************
+Folder : 0 Epoch : 152
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618664, valid_loss: 1.561500
+train_f1: 0.847652, valid_f1: 0.840095
+**********************************
+Folder : 0 Epoch : 153
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619188, valid_loss: 1.565785
+train_f1: 0.847217, valid_f1: 0.840263
+**********************************
+Folder : 0 Epoch : 154
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618849, valid_loss: 1.570731
+train_f1: 0.847567, valid_f1: 0.840209
+**********************************
+Folder : 0 Epoch : 155
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618708, valid_loss: 1.569165
+train_f1: 0.847673, valid_f1: 0.840672
+**********************************
+Folder : 0 Epoch : 156
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618475, valid_loss: 1.571545
+train_f1: 0.847872, valid_f1: 0.840366
+**********************************
+Folder : 0 Epoch : 157
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618632, valid_loss: 1.594573
+train_f1: 0.847710, valid_f1: 0.840501
+**********************************
+Folder : 0 Epoch : 158
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619046, valid_loss: 1.574270
+train_f1: 0.847304, valid_f1: 0.840228
+**********************************
+Folder : 0 Epoch : 159
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618810, valid_loss: 1.578078
+train_f1: 0.847610, valid_f1: 0.840306
+**********************************
+Folder : 0 Epoch : 160
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618412, valid_loss: 1.587251
+train_f1: 0.847896, valid_f1: 0.840080
+**********************************
+Folder : 0 Epoch : 161
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618469, valid_loss: 1.594149
+train_f1: 0.847929, valid_f1: 0.840369
+**********************************
+Folder : 0 Epoch : 162
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618344, valid_loss: 1.598554
+train_f1: 0.848034, valid_f1: 0.840438
+**********************************
+Folder : 0 Epoch : 163
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618176, valid_loss: 1.599015
+train_f1: 0.848235, valid_f1: 0.840306
+**********************************
+Folder : 0 Epoch : 164
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617896, valid_loss: 1.609270
+train_f1: 0.848485, valid_f1: 0.840520
+**********************************
+Folder : 0 Epoch : 165
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618145, valid_loss: 1.617745
+train_f1: 0.848233, valid_f1: 0.840088
+**********************************
+Folder : 0 Epoch : 166
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618943, valid_loss: 1.636027
+train_f1: 0.847512, valid_f1: 0.840175
+**********************************
+Folder : 0 Epoch : 167
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618660, valid_loss: 1.625685
+train_f1: 0.847756, valid_f1: 0.840171
+**********************************
+Folder : 0 Epoch : 168
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618561, valid_loss: 1.625916
+train_f1: 0.847852, valid_f1: 0.840442
+**********************************
+Folder : 0 Epoch : 169
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618208, valid_loss: 1.639294
+train_f1: 0.848184, valid_f1: 0.840193
+**********************************
+Folder : 0 Epoch : 170
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618089, valid_loss: 1.637048
+train_f1: 0.848270, valid_f1: 0.840661
+**********************************
+Folder : 0 Epoch : 171
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617759, valid_loss: 1.643474
+train_f1: 0.848608, valid_f1: 0.840313
+**********************************
+Folder : 0 Epoch : 172
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617576, valid_loss: 1.652829
+train_f1: 0.848740, valid_f1: 0.840505
+**********************************
+Folder : 0 Epoch : 173
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618105, valid_loss: 1.659631
+train_f1: 0.848207, valid_f1: 0.840291
+**********************************
+Folder : 0 Epoch : 174
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.619157, valid_loss: 1.662059
+train_f1: 0.847393, valid_f1: 0.840271
+**********************************
+Folder : 0 Epoch : 175
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618933, valid_loss: 1.663036
+train_f1: 0.847520, valid_f1: 0.840202
+**********************************
+Folder : 0 Epoch : 176
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618304, valid_loss: 1.652370
+train_f1: 0.848084, valid_f1: 0.840416
+**********************************
+Folder : 0 Epoch : 177
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618355, valid_loss: 1.663889
+train_f1: 0.847959, valid_f1: 0.840318
+**********************************
+Folder : 0 Epoch : 178
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618172, valid_loss: 1.670166
+train_f1: 0.848155, valid_f1: 0.840549
+**********************************
+Folder : 0 Epoch : 179
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618739, valid_loss: 1.648589
+train_f1: 0.847762, valid_f1: 0.840191
+**********************************
+Folder : 0 Epoch : 180
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618140, valid_loss: 1.662152
+train_f1: 0.848284, valid_f1: 0.840379
+**********************************
+Folder : 0 Epoch : 181
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617784, valid_loss: 1.665060
+train_f1: 0.848490, valid_f1: 0.840272
+**********************************
+Folder : 0 Epoch : 182
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617728, valid_loss: 1.674523
+train_f1: 0.848636, valid_f1: 0.840424
+**********************************
+Folder : 0 Epoch : 183
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617712, valid_loss: 1.684667
+train_f1: 0.848573, valid_f1: 0.840740
+**********************************
+Folder : 0 Epoch : 184
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618312, valid_loss: 1.684448
+train_f1: 0.848140, valid_f1: 0.840278
+**********************************
+Folder : 0 Epoch : 185
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.618763, valid_loss: 1.682139
+train_f1: 0.847738, valid_f1: 0.840089
+**********************************
+Folder : 0 Epoch : 186
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617971, valid_loss: 1.683512
+train_f1: 0.848402, valid_f1: 0.840295
+**********************************
+Folder : 0 Epoch : 187
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617940, valid_loss: 1.681989
+train_f1: 0.848363, valid_f1: 0.840378
+**********************************
+Folder : 0 Epoch : 188
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617576, valid_loss: 1.684830
+train_f1: 0.848713, valid_f1: 0.840422
+**********************************
+Folder : 0 Epoch : 189
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617287, valid_loss: 1.698583
+train_f1: 0.849008, valid_f1: 0.840278
+**********************************
+Folder : 0 Epoch : 190
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617329, valid_loss: 1.704288
+train_f1: 0.849004, valid_f1: 0.840230
+**********************************
+Folder : 0 Epoch : 191
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617292, valid_loss: 1.720006
+train_f1: 0.849005, valid_f1: 0.840358
+**********************************
+Folder : 0 Epoch : 192
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617484, valid_loss: 1.725255
+train_f1: 0.848826, valid_f1: 0.840474
+**********************************
+Folder : 0 Epoch : 193
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617846, valid_loss: 1.729274
+train_f1: 0.848562, valid_f1: 0.840532
+**********************************
+Folder : 0 Epoch : 194
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617664, valid_loss: 1.720651
+train_f1: 0.848703, valid_f1: 0.840640
+**********************************
+Folder : 0 Epoch : 195
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617259, valid_loss: 1.737307
+train_f1: 0.849012, valid_f1: 0.840384
+**********************************
+Folder : 0 Epoch : 196
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616775, valid_loss: 1.729356
+train_f1: 0.849452, valid_f1: 0.840383
+**********************************
+Folder : 0 Epoch : 197
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616992, valid_loss: 1.740061
+train_f1: 0.849261, valid_f1: 0.840761
+**********************************
+Folder : 0 Epoch : 198
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616998, valid_loss: 1.750583
+train_f1: 0.849261, valid_f1: 0.840074
+**********************************
+Folder : 0 Epoch : 199
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617459, valid_loss: 1.745242
+train_f1: 0.848860, valid_f1: 0.840459
+**********************************
+Folder : 0 Epoch : 200
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616750, valid_loss: 1.757416
+train_f1: 0.849349, valid_f1: 0.840265
+**********************************
+Folder : 0 Epoch : 201
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617474, valid_loss: 1.770440
+train_f1: 0.848783, valid_f1: 0.840332
+**********************************
+Folder : 0 Epoch : 202
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616889, valid_loss: 1.770956
+train_f1: 0.849398, valid_f1: 0.840214
+**********************************
+Folder : 0 Epoch : 203
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616549, valid_loss: 1.778433
+train_f1: 0.849680, valid_f1: 0.840181
+**********************************
+Folder : 0 Epoch : 204
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616774, valid_loss: 1.778251
+train_f1: 0.849444, valid_f1: 0.840123
+**********************************
+Folder : 0 Epoch : 205
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617052, valid_loss: 1.792588
+train_f1: 0.849177, valid_f1: 0.840071
+**********************************
+Folder : 0 Epoch : 206
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617646, valid_loss: 1.796263
+train_f1: 0.848736, valid_f1: 0.840397
+**********************************
+Folder : 0 Epoch : 207
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616988, valid_loss: 1.801120
+train_f1: 0.849245, valid_f1: 0.840433
+**********************************
+Folder : 0 Epoch : 208
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616983, valid_loss: 1.797124
+train_f1: 0.849249, valid_f1: 0.840222
+**********************************
+Folder : 0 Epoch : 209
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617099, valid_loss: 1.821765
+train_f1: 0.849188, valid_f1: 0.840288
+**********************************
+Folder : 0 Epoch : 210
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617102, valid_loss: 1.803553
+train_f1: 0.849251, valid_f1: 0.840160
+**********************************
+Folder : 0 Epoch : 211
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617254, valid_loss: 1.815469
+train_f1: 0.849072, valid_f1: 0.840161
+**********************************
+Folder : 0 Epoch : 212
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617204, valid_loss: 1.832539
+train_f1: 0.849058, valid_f1: 0.840247
+**********************************
+Folder : 0 Epoch : 213
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616889, valid_loss: 1.807543
+train_f1: 0.849339, valid_f1: 0.840251
+**********************************
+Folder : 0 Epoch : 214
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617371, valid_loss: 1.822049
+train_f1: 0.848979, valid_f1: 0.840363
+**********************************
+Folder : 0 Epoch : 215
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616805, valid_loss: 1.830493
+train_f1: 0.849393, valid_f1: 0.840074
+**********************************
+Folder : 0 Epoch : 216
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616518, valid_loss: 1.815643
+train_f1: 0.849744, valid_f1: 0.840098
+**********************************
+Folder : 0 Epoch : 217
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616264, valid_loss: 1.835190
+train_f1: 0.849910, valid_f1: 0.840411
+**********************************
+Folder : 0 Epoch : 218
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616765, valid_loss: 1.836170
+train_f1: 0.849528, valid_f1: 0.840140
+**********************************
+Folder : 0 Epoch : 219
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617930, valid_loss: 1.861131
+train_f1: 0.848420, valid_f1: 0.840162
+**********************************
+Folder : 0 Epoch : 220
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617415, valid_loss: 1.846904
+train_f1: 0.848882, valid_f1: 0.840275
+**********************************
+Folder : 0 Epoch : 221
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616634, valid_loss: 1.851156
+train_f1: 0.849649, valid_f1: 0.840311
+**********************************
+Folder : 0 Epoch : 222
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616375, valid_loss: 1.848009
+train_f1: 0.849934, valid_f1: 0.840314
+**********************************
+Folder : 0 Epoch : 223
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616851, valid_loss: 1.847784
+train_f1: 0.849468, valid_f1: 0.840126
+**********************************
+Folder : 0 Epoch : 224
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617094, valid_loss: 1.856755
+train_f1: 0.849129, valid_f1: 0.840335
+**********************************
+Folder : 0 Epoch : 225
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617014, valid_loss: 1.860116
+train_f1: 0.849357, valid_f1: 0.840525
+**********************************
+Folder : 0 Epoch : 226
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616208, valid_loss: 1.855823
+train_f1: 0.850021, valid_f1: 0.840230
+**********************************
+Folder : 0 Epoch : 227
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616112, valid_loss: 1.861152
+train_f1: 0.850117, valid_f1: 0.840190
+**********************************
+Folder : 0 Epoch : 228
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616370, valid_loss: 1.871645
+train_f1: 0.849905, valid_f1: 0.840118
+**********************************
+Folder : 0 Epoch : 229
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616672, valid_loss: 1.882542
+train_f1: 0.849558, valid_f1: 0.840311
+**********************************
+Folder : 0 Epoch : 230
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617524, valid_loss: 1.876267
+train_f1: 0.848865, valid_f1: 0.839812
+**********************************
+Folder : 0 Epoch : 231
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617245, valid_loss: 1.881034
+train_f1: 0.849085, valid_f1: 0.839899
+**********************************
+Folder : 0 Epoch : 232
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616196, valid_loss: 1.878118
+train_f1: 0.850060, valid_f1: 0.840199
+**********************************
+Folder : 0 Epoch : 233
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615655, valid_loss: 1.892943
+train_f1: 0.850478, valid_f1: 0.839966
+**********************************
+Folder : 0 Epoch : 234
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615689, valid_loss: 1.899166
+train_f1: 0.850471, valid_f1: 0.840106
+**********************************
+Folder : 0 Epoch : 235
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615879, valid_loss: 1.897959
+train_f1: 0.850348, valid_f1: 0.840136
+**********************************
+Folder : 0 Epoch : 236
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616966, valid_loss: 1.912753
+train_f1: 0.849397, valid_f1: 0.840489
+**********************************
+Folder : 0 Epoch : 237
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616613, valid_loss: 1.921617
+train_f1: 0.849656, valid_f1: 0.840421
+**********************************
+Folder : 0 Epoch : 238
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616279, valid_loss: 1.909111
+train_f1: 0.849896, valid_f1: 0.840030
+**********************************
+Folder : 0 Epoch : 239
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615496, valid_loss: 1.923406
+train_f1: 0.850680, valid_f1: 0.840021
+**********************************
+Folder : 0 Epoch : 240
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615551, valid_loss: 1.931027
+train_f1: 0.850553, valid_f1: 0.839987
+**********************************
+Folder : 0 Epoch : 241
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615255, valid_loss: 1.932069
+train_f1: 0.850773, valid_f1: 0.839941
+**********************************
+Folder : 0 Epoch : 242
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616399, valid_loss: 1.978091
+train_f1: 0.849926, valid_f1: 0.839779
+**********************************
+Folder : 0 Epoch : 243
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616616, valid_loss: 1.953597
+train_f1: 0.849819, valid_f1: 0.839369
+**********************************
+Folder : 0 Epoch : 244
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616187, valid_loss: 1.951091
+train_f1: 0.849672, valid_f1: 0.839888
+**********************************
+Folder : 0 Epoch : 245
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616153, valid_loss: 1.968767
+train_f1: 0.849731, valid_f1: 0.839604
+**********************************
+Folder : 0 Epoch : 246
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615592, valid_loss: 1.968804
+train_f1: 0.850471, valid_f1: 0.840388
+**********************************
+Folder : 0 Epoch : 247
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615512, valid_loss: 1.953401
+train_f1: 0.850446, valid_f1: 0.839809
+**********************************
+Folder : 0 Epoch : 248
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615550, valid_loss: 1.974105
+train_f1: 0.850528, valid_f1: 0.839504
+**********************************
+Folder : 0 Epoch : 249
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.617947, valid_loss: 1.958101
+train_f1: 0.848327, valid_f1: 0.839033
+**********************************
+Folder : 0 Epoch : 250
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616510, valid_loss: 1.966853
+train_f1: 0.848796, valid_f1: 0.839730
+**********************************
+Folder : 0 Epoch : 251
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615745, valid_loss: 1.963211
+train_f1: 0.846354, valid_f1: 0.839006
+**********************************
+Folder : 0 Epoch : 252
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615085, valid_loss: 1.965231
+train_f1: 0.850481, valid_f1: 0.837980
+**********************************
+Folder : 0 Epoch : 253
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614904, valid_loss: 1.994351
+train_f1: 0.842010, valid_f1: 0.840415
+**********************************
+Folder : 0 Epoch : 254
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615446, valid_loss: 2.031619
+train_f1: 0.850865, valid_f1: 0.839998
+**********************************
+Folder : 0 Epoch : 255
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615332, valid_loss: 2.015450
+train_f1: 0.851117, valid_f1: 0.840117
+**********************************
+Folder : 0 Epoch : 256
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614783, valid_loss: 2.035566
+train_f1: 0.851456, valid_f1: 0.840250
+**********************************
+Folder : 0 Epoch : 257
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615075, valid_loss: 2.028296
+train_f1: 0.851234, valid_f1: 0.839883
+**********************************
+Folder : 0 Epoch : 258
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615524, valid_loss: 2.059231
+train_f1: 0.850923, valid_f1: 0.839891
+**********************************
+Folder : 0 Epoch : 259
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.616398, valid_loss: 2.043533
+train_f1: 0.850102, valid_f1: 0.840085
+**********************************
+Folder : 0 Epoch : 260
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615617, valid_loss: 2.069598
+train_f1: 0.850773, valid_f1: 0.840187
+**********************************
+Folder : 0 Epoch : 261
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615295, valid_loss: 2.055243
+train_f1: 0.850980, valid_f1: 0.840145
+**********************************
+Folder : 0 Epoch : 262
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614924, valid_loss: 2.048194
+train_f1: 0.851437, valid_f1: 0.840081
+**********************************
+Folder : 0 Epoch : 263
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614557, valid_loss: 2.071678
+train_f1: 0.851762, valid_f1: 0.840229
+**********************************
+Folder : 0 Epoch : 264
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615533, valid_loss: 2.093283
+train_f1: 0.850883, valid_f1: 0.839977
+**********************************
+Folder : 0 Epoch : 265
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615307, valid_loss: 2.069114
+train_f1: 0.850971, valid_f1: 0.840018
+**********************************
+Folder : 0 Epoch : 266
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614746, valid_loss: 2.059498
+train_f1: 0.851561, valid_f1: 0.840149
+**********************************
+Folder : 0 Epoch : 267
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614449, valid_loss: 2.088148
+train_f1: 0.851817, valid_f1: 0.840061
+**********************************
+Folder : 0 Epoch : 268
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615002, valid_loss: 2.087823
+train_f1: 0.851366, valid_f1: 0.840035
+**********************************
+Folder : 0 Epoch : 269
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615880, valid_loss: 2.092912
+train_f1: 0.850547, valid_f1: 0.839936
+**********************************
+Folder : 0 Epoch : 270
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614718, valid_loss: 2.088116
+train_f1: 0.851610, valid_f1: 0.840051
+**********************************
+Folder : 0 Epoch : 271
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614407, valid_loss: 2.078844
+train_f1: 0.851803, valid_f1: 0.840038
+**********************************
+Folder : 0 Epoch : 272
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614072, valid_loss: 2.091828
+train_f1: 0.852129, valid_f1: 0.840131
+**********************************
+Folder : 0 Epoch : 273
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614050, valid_loss: 2.098330
+train_f1: 0.852099, valid_f1: 0.839680
+**********************************
+Folder : 0 Epoch : 274
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614302, valid_loss: 2.113871
+train_f1: 0.851875, valid_f1: 0.839699
+**********************************
+Folder : 0 Epoch : 275
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614314, valid_loss: 2.122295
+train_f1: 0.851888, valid_f1: 0.840001
+**********************************
+Folder : 0 Epoch : 276
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613985, valid_loss: 2.122539
+train_f1: 0.852180, valid_f1: 0.839885
+**********************************
+Folder : 0 Epoch : 277
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613755, valid_loss: 2.153607
+train_f1: 0.852396, valid_f1: 0.840240
+**********************************
+Folder : 0 Epoch : 278
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613742, valid_loss: 2.144271
+train_f1: 0.852451, valid_f1: 0.840099
+**********************************
+Folder : 0 Epoch : 279
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613435, valid_loss: 2.158418
+train_f1: 0.852715, valid_f1: 0.840133
+**********************************
+Folder : 0 Epoch : 280
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613607, valid_loss: 2.175931
+train_f1: 0.852529, valid_f1: 0.840206
+**********************************
+Folder : 0 Epoch : 281
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613710, valid_loss: 2.188124
+train_f1: 0.852428, valid_f1: 0.839757
+**********************************
+Folder : 0 Epoch : 282
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613876, valid_loss: 2.205642
+train_f1: 0.852330, valid_f1: 0.840050
+**********************************
+Folder : 0 Epoch : 283
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614431, valid_loss: 2.160784
+train_f1: 0.851838, valid_f1: 0.839913
+**********************************
+Folder : 0 Epoch : 284
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.615044, valid_loss: 2.168900
+train_f1: 0.851318, valid_f1: 0.839830
+**********************************
+Folder : 0 Epoch : 285
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614584, valid_loss: 2.196373
+train_f1: 0.851668, valid_f1: 0.839878
+**********************************
+Folder : 0 Epoch : 286
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.614029, valid_loss: 2.196952
+train_f1: 0.852252, valid_f1: 0.840170
+**********************************
+Folder : 0 Epoch : 287
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613662, valid_loss: 2.216039
+train_f1: 0.852494, valid_f1: 0.840177
+**********************************
+Folder : 0 Epoch : 288
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613390, valid_loss: 2.210141
+train_f1: 0.852753, valid_f1: 0.840179
+**********************************
+Folder : 0 Epoch : 289
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613852, valid_loss: 2.245518
+train_f1: 0.852347, valid_f1: 0.840106
+**********************************
+Folder : 0 Epoch : 290
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613905, valid_loss: 2.184126
+train_f1: 0.852346, valid_f1: 0.840027
+**********************************
+Folder : 0 Epoch : 291
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613663, valid_loss: 2.212840
+train_f1: 0.852498, valid_f1: 0.840085
+**********************************
+Folder : 0 Epoch : 292
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613707, valid_loss: 2.221115
+train_f1: 0.852430, valid_f1: 0.839912
+**********************************
+Folder : 0 Epoch : 293
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613505, valid_loss: 2.223551
+train_f1: 0.852604, valid_f1: 0.839996
+**********************************
+Folder : 0 Epoch : 294
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613268, valid_loss: 2.257487
+train_f1: 0.852802, valid_f1: 0.840166
+**********************************
+Folder : 0 Epoch : 295
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.613076, valid_loss: 2.251949
+train_f1: 0.853050, valid_f1: 0.839877
+**********************************
+Folder : 0 Epoch : 296
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.612895, valid_loss: 2.253758
+train_f1: 0.853189, valid_f1: 0.840179
+**********************************
+Folder : 0 Epoch : 297
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.612804, valid_loss: 2.257301
+train_f1: 0.853254, valid_f1: 0.840035
+**********************************
+Folder : 0 Epoch : 298
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.612724, valid_loss: 2.263664
+train_f1: 0.853298, valid_f1: 0.840015
+**********************************
+Folder : 0 Epoch : 299
+Curr learning_rate: 0.001000000
+EVALUATION
+train_loss: 1.612964, valid_loss: 2.258344
+train_f1: 0.853108, valid_f1: 0.839653
+Folder 0 finally best global max f1 score is None
+Traceback (most recent call last):
+  File "quantize_focal_loss.py", line 356, in <module>
+    oof_score.append(round(early_stopping.best_score, 6))
+TypeError: type NoneType doesn't define __round__ method
